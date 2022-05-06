@@ -11,7 +11,7 @@ author_profile: true
 
 Over the past two decades, Li-ion batteries have enabled society-changing technological advances, especially in portable electronic devices such as smart phones and tablet computers and in electric vehicles.  To keep up with the ever-increasing demands in electrical energy storage, it requires the discovery of high energy density-based cathode materials of lithium-ion rechargeable batteries.
 
-The Li-excess rocksalt cathodes in disordered phase or partially-disordered phase are one of the most promising candidates, as these materials do not require cation chemistry to favor any particular ordering and can be synthesized with a very wide variety of elements. We are interested in computational understanding of the thermodynamical and kinetic properties of the designing of cathode materials.
+The Li-excess rocksalt cathodes in disordered phase or partially-disordered phase are one of the most promising candidates, as these materials do not require cation chemistry to favor any particular ordering and can be synthesized with a very wide variety of elements. We are interested in computational understanding of the thermodynamical and kinetic properties for the designing of cathode materials.
 
 <img src='/images/drx.png' class="center">
 
@@ -28,7 +28,7 @@ We are interesed in the cluster expansion method (lattice model), as it has been
 
 ## Mathematical programming and optimization for robust computational modeling
 
-To tackle the complex modeling of disordered or partially-disordered systems. The cluster expansion model is parameterized with ab-initio data. The parameterization need to extracts the effective interactions as descriptors of energetics from the information DFT calculations. The well-trained CE model is used to sample the equilibrium states of DRX from Monte Carlo simulations.
+To tackle the complex modeling of disordered or partially-disordered systems. The cluster expansion model is parameterized with ab-initio data. The parameterization need to extracts the effective interactions as the informative descriptors of energetics from the DFT calculations. The well-fitted CE model is used to sample the equilibrium states from Monte Carlo simulations.
 
 To achieve this, a sparse solution with hierarchy constraints (or structural sparsity) is required. We incorperate the idea of  mixded integer programming with lattice model to generate robust and predictive energy models. [[github]](https://github.com/CederGroupHub/sparse-lm)
 
