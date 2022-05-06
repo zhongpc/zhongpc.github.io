@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a fourth-year Ph.D student @ [UC Berkeley](https://mse.berkeley.edu/). 
-I obtained my BS in physics from [University of Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China). With interests in computational solid-state physics, I am fortunate to start my PhD journey in [Ceder Group](https://ceder.berkeley.edu/).
+Hello, I am a fourth-year Ph.D student in [Ceder Group](https://ceder.berkeley.edu/) @ [UC Berkeley](https://mse.berkeley.edu/). 
+I obtained my BS in physics from [University of Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China). 
 
 Currently, my research focus on:
 
