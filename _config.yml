@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peichen Zhong"
   avatar           : "profile.png"
-  bio              : "PhD candidate @ UC Berkeley"
+  bio              : "PhD Candidate @ UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1921-1628"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
