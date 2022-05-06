@@ -9,51 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* B.S. in Physics, University of Science and Technology of China, 2018
+	* Thesis: "Electronic transport properties in disordered two-dimensional mesoscopic systems" 
+* M.S. in Engineering, University of California Berkeley, 2020
+* Ph.D Candidate, University of California Berkeley, Present
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
+* Graduate Student Researcher, University of California Berkeley, 2018 - Present, Advisor: [Prof. Gerbrand Ceder](https://ceder.berkeley.edu/)
+	* See [Research](../research/index.html) for my current interests. 
+* Research Assistant, The University of Hong Kong, 2017, 2018, Advisor: [Prof. Jian Wang](http://web.hku.hk/~jianwang/)
+	* Research on full-counting statistics of electronic transport in disordered system
+* Research Assistant, USTC, 2016 - 2018, Advisor: [Prof. Zhenhua Qiao](http://staff.ustc.edu.cn/~qiao/members.html)
+	* Compuational studies of quantum anomalous Hall effect with in-plane magnetization
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
