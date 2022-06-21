@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[6] L. Barroso-Luque, J. H. Yang, T. Chen, F. Xie, **P. Zhong**, Z. Jadidi, R. Kam, and G. Ceder,
+smol: A Python package for cluster expansions and beyond, Submitted to JOSS (2022). [[DOI]](https://joss.theoj.org/papers/e96a568ca53ee9d14548d7b8bed69b25)
 
 
 [5] **P. Zhong**, T. Chen, L. Barroso-Luque, F. Xie, and G. Ceder, An $\ell_0\ell_2$-Norm Regularized Regression Model for Construction of Robust Cluster Expansion in Multicomponent Systems, arXiv:2204.13789 (2022). [[PDF]](https://arxiv.org/pdf/2204.13789.pdf)
