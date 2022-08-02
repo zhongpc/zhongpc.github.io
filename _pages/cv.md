@@ -20,6 +20,6 @@ redirect_from:
 	* See [Research](../research/index.html) for my current interests. 
 * Research Assistant, The University of Hong Kong, 2017, 2018, Advisor: [Prof. Jian Wang](http://web.hku.hk/~jianwang/)
 	* Research on full-counting statistics of electronic transport in disordered system
-* Research Assistant, USTC, 2016 - 2018, Advisor: [Prof. Zhenhua Qiao](http://staff.ustc.edu.cn/~qiao/members.html)
+* Research Assistant, USTC, 2016 - 2018, Advisor: [Prof. Zhenhua Qiao](http://staff.ustc.edu.cn/~qiao/index.html)
 	* Compuational studies of quantum anomalous Hall effect with in-plane magnetization
   
