@@ -19,3 +19,5 @@ Currently, my research focus on:
 
 
 See [Research](../research/index.html) page for details.
+
+<img src='/images/PZ_summary.png' class="center">
