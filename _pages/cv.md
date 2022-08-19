@@ -10,10 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.S. in Physics, University of Science and Technology of China, 2018
-	* Thesis: "Electronic transport properties in disordered two-dimensional mesoscopic systems" 
-* M.S. in Engineering, University of California Berkeley, 2020
 * Ph.D Candidate, University of California Berkeley, Present
+* M.S. in Engineering, University of California Berkeley, 2020
+* B.S. in Physics, University of Science and Technology of China, 2018
+	* Thesis: "Electronic transport properties in disordered two-dimensional mesoscopic systems", Supervised by Prof. Jian Wang and Prof. Zhenhua Qiao.
+
 
 ## Research Experience
 * Graduate Student Researcher, University of California Berkeley, 2018 - Present, Advisor: [Prof. Gerbrand Ceder](https://ceder.berkeley.edu/)
