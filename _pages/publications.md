@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[7] L. Barroso-Luque, **P. Zhong**, J. H. Yang, T. Chen, F. Xie, B. Ouyang, and G. Ceder*, “Cluster expansions of multi-component oxides: Formalism and methods ”, Accepted by PRB (2022). [[PDF]]()
+
 
 [6] L. Barroso-Luque, J. H. Yang, T. Chen, F. Xie, **P. Zhong**, Z. Jadidi, R. Kam, and G. Ceder,
 smol: A Python package for cluster expansions and beyond, Submitted to JOSS (2022). [[DOI]](https://joss.theoj.org/papers/e96a568ca53ee9d14548d7b8bed69b25)
