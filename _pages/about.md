@@ -14,7 +14,7 @@ I obtained my B.S. in physics from [University of Science and Technology of Chin
 Currently, my research focus on:
 
 * Computational design of energy storage materials from first-principle
-* Statistical mechanics in disordered lattice systems and optimization for robust modeling
+* Statistical mechanics in lattice systems and optimization for robust modeling
 * Machine learning approaches for data interpretation and physical modeling
 
 
