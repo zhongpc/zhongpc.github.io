@@ -7,8 +7,8 @@ author_profile: true
 [7] L. Barroso-Luque, **P. Zhong**, J. H. Yang, T. Chen, F. Xie, B. Ouyang, and G. Ceder*, “Cluster expansions of multi-component oxides: Formalism and methods ”, Accepted by PRB (2022). [[PDF]]()
 
 
-[6] L. Barroso-Luque, J. H. Yang, T. Chen, F. Xie, **P. Zhong**, Z. Jadidi, R. Kam, and G. Ceder,
-smol: A Python package for cluster expansions and beyond, Submitted to JOSS (2022). [[DOI]](https://joss.theoj.org/papers/e96a568ca53ee9d14548d7b8bed69b25)
+[6] L. Barroso-Luque, J. H. Yang, F. Xie, T. Chen, R. L. Kam, Z. Jadidi, **P. Zhong**, and G. Ceder*, “smol: A Python package for cluster expansions and beyond”, Journal of Open Source Software 7, 4504
+(2022). [[DOI]](https://joss.theoj.org/papers/e96a568ca53ee9d14548d7b8bed69b25)
 
 
 [5] **P. Zhong**, T. Chen, L. Barroso-Luque, F. Xie, and G. Ceder, An $\ell_0\ell_2$-Norm Regularized Regression Model for Construction of Robust Cluster Expansion in Multicomponent Systems, Phys. Rev. B 106, 024203 (2022). [[PDF]](https://ceder.berkeley.edu/publications/2022_zhong_l0l2_fitting.pdf)
@@ -17,6 +17,6 @@ smol: A Python package for cluster expansions and beyond, Submitted to JOSS (202
 
 [3] J. Huang, **P. Zhong**, Y. Ha, D. Kwon, M. J. Crafton, Y. Tian, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder, Non-Topotactic Reactions Enable High Rate Capability in Li-Rich Cathode Materials, Nature Energy 6, 706 (2021). [[PDF]](https://ceder.berkeley.edu/publications/2021_jianping_nature_energy_Cr_DRX.pdf)
 
-[2] **P. Zhong**, Z. Cai, Y. Zhang, R. Giovine, B. Ouyang, G. Zeng, Y. Chen, R. Clément, Z. Lun, and G. Ceder, Increasing Capacity in Disordered Rocksalt Cathodes by Mg Doping, Chem. Mater. 32, 10728 (2020). [[PDF]](https://ceder.berkeley.edu/publications/2020-zhong-mg-doping-drx.pdf)
+[2] **P. Zhong**$^{\dagger}$, Z. Cai$^{\dagger}$, Y. Zhang, R. Giovine, B. Ouyang, G. Zeng, Y. Chen, R. Clément, Z. Lun, and G. Ceder, Increasing Capacity in Disordered Rocksalt Cathodes by Mg Doping, Chem. Mater. 32, 10728 (2020). [[PDF]](https://ceder.berkeley.edu/publications/2020-zhong-mg-doping-drx.pdf)
 
 [1] **P. Zhong**, Y. Ren, Y. Han, L. Zhang, and Z. Qiao, In-Plane Magnetization-Induced Quantum Anomalous Hall Effect in Atomic Crystals of Group-V Elements, Phys. Rev. B 96, 241103 (2017). [[PDF]](http://staff.ustc.edu.cn/~qiao/source/PhysRevB.96.241103.pdf)
