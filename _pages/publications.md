@@ -7,7 +7,7 @@ author_profile: true
 
 [8] F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Grand-canonical Monte-Carlo simulation methods for charge-decorated cluster expansions”, arXiv:2210.0116 (2022). [[PDF]](https://arxiv.org/pdf/2210.01165.pdf)
 
-[7] L. Barroso-Luque, **P. Zhong**, J. H. Yang, T. Chen, F. Xie, B. Ouyang, and G. Ceder*, “Cluster expansions of multi-component oxides: Formalism and methods ”, Accepted by PRB (2022). [[PDF]]()
+[7] L. Barroso-Luque, **P. Zhong**, J. H. Yang, T. Chen, F. Xie, B. Ouyang, and G. Ceder*, “Cluster expansions of multi-component oxides: Formalism and methods ”, Phys. Rev. B 106, 144202 (2022). [[PDF]](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.144202)
 
 
 [6] L. Barroso-Luque, J. H. Yang, F. Xie, T. Chen, R. L. Kam, Z. Jadidi, **P. Zhong**, and G. Ceder*, “smol: A Python package for cluster expansions and beyond”, Journal of Open Source Software 7, 4504
