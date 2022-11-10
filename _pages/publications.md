@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[9] J. Huang, **P. Zhong**, Y. Ha, Z. Lun, Y. Tian, M. Balasubramanian, W. Yang, and G. Ceder*, “Improved capacity and voltage retention in non-stoichiometric rocksalt-type lithium-ion cathodes”, Small Structures (2022)
+
 [8] F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Grand-canonical Monte-Carlo simulation methods for charge-decorated cluster expansions”, arXiv:2210.0116 (2022). [[PDF]](https://arxiv.org/pdf/2210.01165.pdf)
 
 [7] L. Barroso-Luque, **P. Zhong**, J. H. Yang, T. Chen, F. Xie, B. Ouyang, and G. Ceder*, “Cluster expansions of multi-component oxides: Formalism and methods ”, Phys. Rev. B 106, 144202 (2022). [[PDF]](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.144202)
