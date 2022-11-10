@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Education
 * Ph.D Candidate, University of California Berkeley, Present
 * M.S in Engineering, University of California Berkeley, 2020
