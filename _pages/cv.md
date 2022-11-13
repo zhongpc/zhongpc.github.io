@@ -21,5 +21,5 @@ redirect_from:
 * Research Assistant, The University of Hong Kong, 2017, 2018, <br /> *Advisor: [Prof. Jian Wang](http://web.hku.hk/~jianwang/)*
 	* Research on full-counting statistics of electronic transport in disordered system
 * Research Assistant, University of Science and Technology of China, 2016 - 2018, <br /> *Advisor: [Prof. Zhenhua Qiao](http://staff.ustc.edu.cn/~qiao/index.html)*
-	* Compuational studies of quantum anomalous Hall effect with in-plane magnetization
+	* Computational studies of quantum anomalous Hall effect with in-plane magnetization
   
