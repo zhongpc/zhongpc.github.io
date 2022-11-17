@@ -17,7 +17,18 @@ Currently, my research focus on:
 * Statistical mechanics in lattice systems and optimization for robust modeling
 * Machine learning approaches for data interpretation and physical modeling
 
-
 See [Research](../research/index.html) page for details.
 
+---
+I will be at the MRS Meeting in Boston! Welcome to contact me!
+
+**Title:** Deep learning of multi-component cathode electrochemistry from experiments
+
+**Session:** DS03.12 Artificial Intelligence for Energy Materials
+
+**Session Details:** November 30, 2022 from 8:00 PM to 10:00 PM 
+
+**Presentation Location:** Hynes, Level 1, Hall A 
+
+---
 <img src='/images/PZ_summary.png' class="center">
