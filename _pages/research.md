@@ -14,9 +14,8 @@ The electric-vehicle market for high-energy Li-ion batteries has witnessed treme
 Such modern battery materials can contain a large number of elements with substantial site disorder, and their state of short-range ordering (SRO) has been shown to be critical for their performance. We are interested in computational understanding of the thermodynamic and kinetic properties for the designing of cathode materials.
 
 
-![drawing]('/images/drx.png'){width=80%}
 
-<img src='/images/drx.png' class="center">
+<img src='/images/drx.png' class="center" width="80%">
 
 <span style="color:steelblue; font-size:0.8em;">
 L. Huang$^{\dagger}$, **P. Zhong**$^{\dagger}$, Y. Ha, Y.-W. Byeon, T.-Y. Huang, Z. Cai, F. Xie, Y. Sun, H. Kim, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder*, “Optimizing Li-Excess Cation-Disordered Rocksalt Cathode Design through Partial Li Deficiency”, Advanced Energy Materials
@@ -46,7 +45,7 @@ First-principles density functional theory (DFT) calculations have been demonstr
 We are interested in the cluster expansion method (lattice model), as it has been well developed to describe such configurational energetics for metallic alloys as well as for ionic systems. I worked in a team to develop a CE package [[smol]](https://github.com/CederGroupHub/smol)
 capable of handling multi-component ionic systems, where we detailed the mathematical formalism behind CE of ionic systems and presented state-of-the-art training structure sampling, pre-processing, and fitting. Specifically,  we developed several techniques for robust lattice modeling and resolved two major issues in ionic systems: (a) how to generate CE models without over-fitting; (b) how to properly sample the configurational space in ionic systems with charge-neutrality.
 
-<img src='/images/CE.png' class="center">
+<img src='/images/CE.png' class="center" width="80%">
 
 
 <span style="color:steelblue; font-size:0.8em;">
