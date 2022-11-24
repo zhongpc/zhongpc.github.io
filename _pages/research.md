@@ -43,8 +43,6 @@ First-principles density functional theory (DFT) calculations have been demonstr
 We are interested in the cluster expansion method (lattice model), as it has been well developed to describe such configurational energetics for metallic alloys as well as for ionic systems. I worked in a team to develop a CE package [[smol]](https://github.com/CederGroupHub/smol)
 capable of handling multi-component ionic systems, where we detailed the mathematical formalism behind CE of ionic systems and presented state-of-the-art training structure sampling, pre-processing, and fitting. Specifically, there are two major issues for ionic systems: (a) how to generate CE models without over-fitting; (b) how to properly sample the configurational space in ionic systems with charge-neutrality. We are interested in how to develop and apply robust modeling to ionic lattice systems.
 
-<img src='/images/sparse.png' class="center">
-
 <img src='/images/CE.png' class="center">
 
 
