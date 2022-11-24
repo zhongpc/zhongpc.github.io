@@ -13,6 +13,9 @@ The electric-vehicle market for high-energy Li-ion batteries has witnessed treme
 
 Such modern battery materials can contain a large number of elements with substantial site disorder, and their state of short-range ordering (SRO) has been shown to be critical for their performance. We are interested in computational understanding of the thermodynamic and kinetic properties for the designing of cathode materials.
 
+
+![drawing]('/images/drx.png'){width=80%}
+
 <img src='/images/drx.png' class="center">
 
 <span style="color:steelblue; font-size:0.8em;">
