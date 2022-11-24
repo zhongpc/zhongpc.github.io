@@ -40,8 +40,6 @@ To achieve this, a sparse solution with hierarchy constraints (or structural spa
 
 ## Deep-learning modeling for energy materials discovery
 
-The best is yet to come!
-
 > **_NEWS:_**  Welcome to my MRS 2022 poster presentation: “Deep learning of multi-component cathode electrochemistry from experiments”. **DS03.12, Artificial Intelligence for Energy Materials. November 30, 2022, from 8:00 PM to 10:00 PM**
 
 
