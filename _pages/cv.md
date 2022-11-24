@@ -18,7 +18,7 @@ redirect_from:
 ## Research Experience
 * Graduate Student Researcher, University of California, Berkeley, 2018 - Present, <br /> *Advisor: [Prof. Gerbrand Ceder](https://ceder.berkeley.edu/)*
 	* See [Research](../research/index.html) for my current researches.
-* Research Assistant, The University of Hong Kong, 2017, 2018, <br /> *Advisor: [Prof. Jian Wang](http://web.hku.hk/~jianwang/)*
+* Research Assistant, The University of Hong Kong, 2017, 2018, <br /> *Advisor: [Prof. Jian Wang](https://www.physics.hku.hk/people/academic/319)*
 	* Research on full-counting statistics of electronic transport in disordered system
 * Research Assistant, University of Science and Technology of China, 2016 - 2018, <br /> *Advisor: [Prof. Zhenhua Qiao](http://staff.ustc.edu.cn/~qiao/index.html)*
 	* Computational studies of quantum anomalous Hall effect with in-plane magnetization
