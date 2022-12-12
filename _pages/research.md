@@ -62,7 +62,7 @@ F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Grand-canon
 
 
 
-## Deep-learning modeling for energy materials discovery
+## Deep learning modeling for energy materials discovery
 
 > **_NEWS:_**  Welcome to my MRS 2022 poster presentation: “Deep learning of multi-component cathode electrochemistry from experiments”. **DS03.12, Artificial Intelligence for Energy Materials. November 30, 2022, from 8:00 PM to 10:00 PM**
 
