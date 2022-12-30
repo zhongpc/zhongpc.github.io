@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[10] L. Huang$^{\dagger}$, **P. Zhong**$^{\dagger}$, Y. Ha, Y.-W. Byeon, T.-Y. Huang, Z. Cai, F. Xie, Y. Sun, H. Kim, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder*, “Optimizing Li-Excess Cation-Disordered Rocksalt Cathode Design through Partial Li Deficiency”, Advanced Energy Materials, 2202345 (2022). [[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202202345)
+[10] L. Huang$^{\dagger}$, **P. Zhong**$^{\dagger}$, Y. Ha, Y.-W. Byeon, T.-Y. Huang, Z. Cai, F. Xie, Y. Sun, H. Kim, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder*, “Optimizing Li-Excess Cation-Disordered Rocksalt Cathode Design through Partial Li Deficiency”, Advanced Energy Materials, 2202345 (2022). [[PDF]](https://ceder.berkeley.edu/publications/2022_Huang_Li%E2%80%90Excess_Li-Deficiency.pdf)
 
 [9] J. Huang, **P. Zhong**, Y. Ha, Z. Lun, Y. Tian, M. Balasubramanian, W. Yang, and G. Ceder*, “Oxygen vacancy introduction to increase the capacity and voltage retention in Li excess cathode materials”, Small Structures, 2200343 (2022). [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sstr.202200343)
 
