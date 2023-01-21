@@ -7,9 +7,12 @@ author_profile: true
 
 [10] L. Huang$^{\dagger}$, **P. Zhong**$^{\dagger}$, Y. Ha, Y.-W. Byeon, T.-Y. Huang, Z. Cai, F. Xie, Y. Sun, H. Kim, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder*, “Optimizing Li-Excess Cation-Disordered Rocksalt Cathode Design through Partial Li Deficiency”, Advanced Energy Materials, 2202345 (2022). [[PDF]](https://ceder.berkeley.edu/publications/2022_Huang_Li%E2%80%90Excess_Li-Deficiency.pdf)
 
-[9] J. Huang, **P. Zhong**, Y. Ha, Z. Lun, Y. Tian, M. Balasubramanian, W. Yang, and G. Ceder*, “Oxygen vacancy introduction to increase the capacity and voltage retention in Li excess cathode materials”, Small Structures, 2200343 (2022). [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sstr.202200343)
+[9] F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Semigrand-canonical
+Monte-Carlo simulation methods for charge-decorated cluster expansions”, Computational Materials Science
+218, 112000 (2023). [[PDF]](https://ceder.berkeley.edu/publications/2022_xie_charge-balanced_sgc.pdf)
 
-[8] F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Grand-canonical Monte-Carlo simulation methods for charge-decorated cluster expansions”, arXiv:2210.0116 (2022). [[PDF]](https://arxiv.org/pdf/2210.01165.pdf)
+[8] J. Huang, **P. Zhong**, Y. Ha, Z. Lun, Y. Tian, M. Balasubramanian, W. Yang, and G. Ceder*, “Oxygen vacancy introduction to increase the capacity and voltage retention in Li excess cathode materials”, Small Structures, 2200343 (2022). [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sstr.202200343)
+
 
 [7] L. Barroso-Luque, **P. Zhong**, J. H. Yang, T. Chen, F. Xie, B. Ouyang, and G. Ceder*, “Cluster expansions of multi-component oxides: Formalism and methods ”, Phys. Rev. B 106, 144202 (2022). [[PDF]](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.144202)
 

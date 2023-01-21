@@ -13,8 +13,6 @@ Currently, my research focus on:
 
 * Computational design of energy storage materials from first-principles
 * Statistical mechanics in lattice systems and optimization for robust modeling
-* Deep learning modeling for energy materials discovery
-
-See [News](https://zhongpc.github.io/news/) for my updates. See [Research](.https://zhongpc.github.io/research/) page for details.
+* Deep learning modeling for energy materials discover
 
 <img src='/images/PZ_summary.png' class="center">
