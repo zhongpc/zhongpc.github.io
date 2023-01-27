@@ -25,3 +25,11 @@ redirect_from:
   * Research on quantum transport theory and machine learning applications
 * Research Assistant, University of Science and Technology of China, 2016 - 2018, <br /> *Advisor: [Prof. Zhenhua Qiao](http://staff.ustc.edu.cn/~qiao/index.html)*
 	* Computational studies of quantum anomalous Hall effect with in-plane magnetization
+
+## Teaching Experience
+* Graduate Student Instructor, UC Berkeley, Spring 2023
+	* Thermodynamics, Phase Behaviour and Transport Phenomena (MSE 201B)
+
+* Teaching Assistant, USTC, Fall 2017
+	* Quantum Mechanics A
+
