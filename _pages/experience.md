@@ -27,9 +27,9 @@ redirect_from:
 	* Computational studies of quantum anomalous Hall effect with in-plane magnetization
 
 ## Teaching Experience
-* Graduate Student Instructor, UC Berkeley, Spring 2023
+* Graduate Student Instructor, University of California Berkeley, Spring 2023
 	* Thermodynamics, Phase Behaviour and Transport Phenomena (MSE 201B)
 
-* Teaching Assistant, USTC, Fall 2017
+* Teaching Assistant, University of Science and Technology of China, Fall 2017
 	* Quantum Mechanics A
 
