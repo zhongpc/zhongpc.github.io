@@ -9,7 +9,7 @@ redirect_from:
 Hello, I am a Ph.D. student in [Ceder Group](https://ceder.berkeley.edu/) @ [Dept of MSE, UC Berkeley](https://mse.berkeley.edu/).
 Previously, I obtained my B.S. in physics from [University of Science and Technology of China (USTC)](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China).
 
-Currently, my research focus on:
+My research focuses on the following:
 
 * Computational design of energy storage materials from first-principles
 * Statistical mechanics in lattice systems and optimization for robust modeling
