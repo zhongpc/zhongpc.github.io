@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D Candidate, University of California Berkeley, Present
+* Ph.D. Candidate, University of California Berkeley, Present
 * M.S in Engineering, University of California Berkeley, 2020
 * B.S in Physics, University of Science and Technology of China, 2018
-	* Thesis: "Electronic transport properties in disordered two-dimensional mesoscopic systems"
+	* Thesis: "Electronic transport properties in two-dimensional disordered mesoscopic systems"
 	<br /> Supervised by Prof. Jian Wang and Prof. Zhenhua Qiao
 
 
@@ -28,7 +28,7 @@ redirect_from:
 
 ## Teaching Experience
 * Graduate Student Instructor, University of California Berkeley, Spring 2023
-	* *Thermodynamics, Phase Behaviour and Transport Phenomena (MSE 201B)*
+	* *Thermodynamics, Phase Behaviour and Transport Phenomena* (MSE 201B)
 
 * Teaching Assistant, University of Science and Technology of China, Fall 2017
 	* *Quantum Mechanics A*
