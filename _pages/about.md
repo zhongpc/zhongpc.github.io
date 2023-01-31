@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 Hello, I am a Ph.D. student in [Ceder Group](https://ceder.berkeley.edu/) @ [Dept of MSE, UC Berkeley](https://mse.berkeley.edu/).
-Previously, I obtained my B.S. in physics from [University of Science and Technology of China (USTC)](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China).
+Before Berkeley, I obtained my B.S. in physics from [University of Science and Technology of China (USTC)](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China).
 
 My research focuses on the following:
 

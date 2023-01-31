@@ -9,8 +9,8 @@ redirect_from:
 
 ## Education
 * Ph.D. Candidate, University of California Berkeley, Present
-* M.S in Engineering, University of California Berkeley, 2020
-* B.S in Physics, University of Science and Technology of China, 2018
+* M.S. in Engineering, University of California Berkeley, 2020
+* B.S. in Physics, University of Science and Technology of China, 2018
 	* Thesis: "Electronic transport properties in two-dimensional disordered mesoscopic systems"
 	<br /> Supervised by Prof. Jian Wang and Prof. Zhenhua Qiao
 
