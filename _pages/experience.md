@@ -28,7 +28,7 @@ redirect_from:
 
 ## Teaching Experience
 * Graduate Student Instructor, University of California Berkeley, Spring 2023
-	* *Thermodynamics, Phase Behaviour and Transport Phenomena* (MSE 201B)
+	* *Thermodynamics, Phase Behaviour and Transport Phenomena (MSE 201B)*
 
 * Teaching Assistant, University of Science and Technology of China, Fall 2017
 	* *Quantum Mechanics A*
