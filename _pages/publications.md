@@ -11,7 +11,7 @@ author_profile: true
 Monte-Carlo simulation methods for charge-decorated cluster expansions”, Computational Materials Science
 218, 112000 (2023). [[PDF]](https://ceder.berkeley.edu/publications/2022_xie_charge-balanced_sgc.pdf)
 
-[8] J. Huang, **P. Zhong**, Y. Ha, Z. Lun, Y. Tian, M. Balasubramanian, W. Yang, and G. Ceder*, “Oxygen vacancy introduction to increase the capacity and voltage retention in Li excess cathode materials”, Small Structures, 2200343 (2022). [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sstr.202200343)
+[8] J. Huang, **P. Zhong**, Y. Ha, Z. Lun, Y. Tian, M. Balasubramanian, W. Yang, and G. Ceder*, “Oxygen vacancy introduction to increase the capacity and voltage retention in Li excess cathode materials”, Small Structures 4, 2200343 (2023). [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sstr.202200343)
 
 
 [7] L. Barroso-Luque, **P. Zhong**, J. H. Yang, T. Chen, F. Xie, B. Ouyang, and G. Ceder*, “Cluster expansions of multi-component oxides: Formalism and methods ”, Phys. Rev. B 106, 144202 (2022). [[PDF]](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.144202)
