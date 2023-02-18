@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-[10] L. Huang$^{\dagger}$, **P. Zhong**$^{\dagger}$, Y. Ha, Y.-W. Byeon, T.-Y. Huang, Z. Cai, F. Xie, Y. Sun, H. Kim, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder*, “Optimizing Li-Excess Cation-Disordered Rocksalt Cathode Design through Partial Li Deficiency”, Advanced Energy Materials, 2202345 (2022). [[PDF]](https://ceder.berkeley.edu/publications/2022_Huang_Li%E2%80%90Excess_Li-Deficiency.pdf)
+[11] B. Shen$^{\dagger}$, L. Huang$^{\dagger}$, J. Shen, X. Hu, **P. Zhong**, C. Y. Zheng, C. Wolverton, and C. A. Mirkin*,
+“Morphology Engineering in Multi-Component Hollow Metal Chalcogenide Nanoparticles”, ACS Nano (2023) [[DOI]](https://pubs.acs.org/doi/10.1021/acsnano.2c10667)
+
+[10] L. Huang$^{\dagger}$, **P. Zhong**$^{\dagger}$, Y. Ha, Y.-W. Byeon, T.-Y. Huang, Z. Cai, F. Xie, Y. Sun, H. Kim, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder*, “Optimizing Li-Excess Cation-Disordered Rocksalt Cathode Design through Partial Li Deficiency”, Advanced Energy Materials 13,
+2202345 (2023). [[PDF]](https://ceder.berkeley.edu/publications/2022_Huang_Li%E2%80%90Excess_Li-Deficiency.pdf)
 
 [9] F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Semigrand-canonical
 Monte-Carlo simulation methods for charge-decorated cluster expansions”, Computational Materials Science
