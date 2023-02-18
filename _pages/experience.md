@@ -33,3 +33,5 @@ redirect_from:
 * Teaching Assistant, University of Science and Technology of China, Fall 2017
 	* *Quantum Mechanics A*
 
+* Lecturer & Tutor as a part-time job to high school students, 2014 - 2017
+	* *Physics Olympiad: Mechanics, Electromagnetism, Optics*
