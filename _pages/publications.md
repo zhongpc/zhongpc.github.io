@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[12] B. Deng, **P. Zhong$^*$**, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^*$, “CHGNet: Pretrained universal neural
+[12] B. Deng, **P. Zhong**$^*$, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^*$, “CHGNet: Pretrained universal neural
 network potential for charge-informed atomistic modeling", arXiv:2302.14231 [[PDF]](https://arxiv.org/pdf/2302.14231.pdf)
 
 [11] B. Shen$^{\dagger}$, L. Huang$^{\dagger}$, J. Shen, X. Hu, **P. Zhong**, C. Y. Zheng, C. Wolverton, and C. A. Mirkin$^*$,
