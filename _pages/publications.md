@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[12] B. Deng, **P. Zhong**$^*$, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^*$, “CHGNet: Pretrained universal neural
+[12] B. Deng, **P. Zhong**$^{*}$, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^{*}$, “CHGNet: Pretrained universal neural
 network potential for charge-informed atomistic modeling", arXiv:2302.14231 [[PDF]](https://arxiv.org/pdf/2302.14231.pdf)
 
 [11] B. Shen$^{\dagger}$, L. Huang$^{\dagger}$, J. Shen, X. Hu, **P. Zhong**, C. Y. Zheng, C. Wolverton, and C. A. Mirkin$^*$,
@@ -36,4 +36,4 @@ Monte-Carlo simulation methods for charge-decorated cluster expansions”, Compu
 
 [2] **P. Zhong**$^{\dagger}$, Z. Cai$^{\dagger}$, Y. Zhang, R. Giovine, B. Ouyang, G. Zeng, Y. Chen, R. Clément, Z. Lun, and G. Ceder$^*$, Increasing Capacity in Disordered Rocksalt Cathodes by Mg Doping, Chem. Mater. 32, 10728 (2020). [[PDF]](https://ceder.berkeley.edu/publications/2020-zhong-mg-doping-drx.pdf)
 
-[1] **P. Zhong**, Y. Ren, Y. Han, L. Zhang$^*$, and Z. Qiao$^*$, In-Plane Magnetization-Induced Quantum Anomalous Hall Effect in Atomic Crystals of Group-V Elements, Phys. Rev. B 96, 241103 (2017). [[PDF]](http://staff.ustc.edu.cn/~qiao/source/PhysRevB.96.241103.pdf)
+[1] **P. Zhong**, Y. Ren, Y. Han, L. Zhang$^{*}$, and Z. Qiao$^{*}$, In-Plane Magnetization-Induced Quantum Anomalous Hall Effect in Atomic Crystals of Group-V Elements, Phys. Rev. B 96, 241103 (2017). [[PDF]](http://staff.ustc.edu.cn/~qiao/source/PhysRevB.96.241103.pdf)
