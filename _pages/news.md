@@ -6,8 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
+* <span style="color: red">[03/2023]</span> Welcome to my MRS Spring 2023 presentation: “Modeling High-Entropy Intercalation Cathodes with Sparse Lattice Models”. 11:45am - 12:00pm April 13, 2023 (Marriott Marquis, B2 Level, Golden Gate C2).
 
-* <span style="color: red">[02/2023]</span> Our work on charge-informed machine learning interatomic potential is available online. [[arXiv]](https://arxiv.org/abs/2302.14231)
+* <span style="color: red">[03/2023]</span> Welcome to my MRS Spring 2023 presentation: “Deep learning of multi-component cathode electrochemistry from experiments”. 9:30am - 9:45am April 13, 2023 (Marriott Marquis, Second Level, Foothill G1/G2).
+
+* <span style="color: red">[03/2023]</span> Our work on charge-informed machine learning interatomic potential is available online. [[arXiv]](https://arxiv.org/abs/2302.14231)
 
 
 * <span style="color: red">[02/2023]</span> I will attend the 2023 APS GERA Energy Workshop (Rm 226, March 5, 2023) and present the work on multi-redox reactions modeling by sparse lattice models <span style="color: red">(Best Poster Award)</span>. [[poster]](http://zhongpc.github.io/files/APS_2023_Poster.pdf)
