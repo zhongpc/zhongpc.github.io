@@ -9,7 +9,8 @@ author_profile: true
 network potential for charge-informed atomistic modeling", arXiv:2302.14231 [[PDF]](https://arxiv.org/pdf/2302.14231.pdf)
 
 [11] B. Shen$^{\dagger}$, L. Huang$^{\dagger}$, J. Shen, X. Hu, **P. Zhong**, C. Y. Zheng, C. Wolverton, and C. A. Mirkin$^{\ast}$,
-“Morphology Engineering in Multi-Component Hollow Metal Chalcogenide Nanoparticles”, ACS Nano (2023) [[DOI]](https://pubs.acs.org/doi/10.1021/acsnano.2c10667)
+“Morphology Engineering in Multi-Component Hollow Metal Chalcogenide Nanoparticles”, ACS Nano 17,
+4642–4649 (2023). [[DOI]](https://pubs.acs.org/doi/10.1021/acsnano.2c10667)
 
 [10] L. Huang$^{\dagger}$, **P. Zhong**$^{\dagger}$, Y. Ha, Y.-W. Byeon, T.-Y. Huang, Z. Cai, F. Xie, Y. Sun, H. Kim, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder$^{\ast}$, “Optimizing Li-Excess Cation-Disordered Rocksalt Cathode Design through Partial Li Deficiency”, Advanced Energy Materials 13,
 2202345 (2023). [[PDF]](https://ceder.berkeley.edu/publications/2022_Huang_Li%E2%80%90Excess_Li-Deficiency.pdf)
