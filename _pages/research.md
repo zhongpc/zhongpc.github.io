@@ -64,7 +64,11 @@ F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Grand-canon
 
 ## Deep learning modeling for energy materials discovery
 
-> **_NEWS:_**  Welcome to my MRS 2022 poster presentation: “Deep learning of multi-component cathode electrochemistry from experiments”. **DS03.12, Artificial Intelligence for Energy Materials. November 30, 2022, from 8:00 PM to 10:00 PM**
+
+<span style="color:steelblue; font-size:0.8em;">
+B. Deng, **P. Zhong**$^{\ast}$, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^{\ast}$, “CHGNet: Pretrained universal neural
+network potential for charge-informed atomistic modeling", arXiv:2302.14231
+</span> 
 
 <span style="color:steelblue; font-size:0.8em;">
 The best is yet to come.

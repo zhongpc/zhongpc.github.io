@@ -13,6 +13,6 @@ My research focuses on the following:
 
 * Computational design of energy storage materials from first-principles
 * Statistical mechanics in lattice systems and optimization for robust modeling
-* Deep learning modeling for energy materials discover
+* Deep learning modeling for energy materials discovery
 
 <img src='/images/PZ_summary.png' class="center">
