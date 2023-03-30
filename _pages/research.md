@@ -62,7 +62,7 @@ F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Grand-canon
 
 
 
-## AI for Science
+## AI for Science: physical modeling, materials science, electrochemistry
 
 <span style="color:steelblue; font-size:0.8em;">
 B. Deng, **P. Zhong**$^{\ast}$, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^{\ast}$, “CHGNet: Pretrained universal neural
