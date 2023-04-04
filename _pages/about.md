@@ -11,7 +11,7 @@ Before Berkeley, I obtained my B.S. in physics from [University of Science and T
 
 My research focuses on the following:
 
-* Computational design of energy storage materials from first-principles
+* Computational design of energy materials from first-principles
 * Statistical mechanics in lattice systems and optimization for robust modeling
 * AI for Science: physical modeling, materials science, electrochemistry
 
