@@ -13,7 +13,7 @@ author_profile: true
 * <span style="color: red">[03/2023]</span> Our work on charge-informed machine learning interatomic potential is available online. [[arXiv]](https://arxiv.org/abs/2302.14231)
 
 
-* <span style="color: red">[02/2023]</span> I will attend the 2023 APS GERA Energy Workshop (Rm 226, March 5, 2023) and present the work on multi-redox reactions modeling by sparse lattice models <span style="color: red">(Best Poster Award)</span>. [[poster]](http://zhongpc.github.io/files/APS_2023_Poster.pdf)
+* <span style="color: red">[02/2023]</span> I will attend the 2023 APS GERA Energy Workshop and present the work on multi-redox reactions modeling by sparse lattice models <span style="color: red">(Best Poster Award)</span>. [[poster]](http://zhongpc.github.io/files/APS_2023_Poster.pdf)
 
 * <span style="color: red">[02/2023]</span> Welcome to my APS March Meeting 2023 presentation: “Modeling intercalation chemistry with multi-redox reactions by sparse lattice models”. Session F45, March 07, 2023, 9:36 AM–9:48 AM. [[abstract]](https://meetings.aps.org/Meeting/MAR23/Session/F45.8)
 
