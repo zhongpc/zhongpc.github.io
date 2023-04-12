@@ -64,9 +64,15 @@ F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Grand-canon
 ## AI for Science: physical modeling, materials science, electrochemistry
 
 <span style="color:steelblue; font-size:0.8em;">
+**P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, arXiv:2304.04986
+</span> 
+
+<span style="color:steelblue; font-size:0.8em;">
 B. Deng, **P. Zhong**$^{\ast}$, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^{\ast}$, “CHGNet: Pretrained universal neural
 network potential for charge-informed atomistic modeling", arXiv:2302.14231
 </span> 
+
+
 
 <span style="color:steelblue; font-size:0.8em;">
 The best is yet to come.
