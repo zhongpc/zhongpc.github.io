@@ -6,6 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+* <span style="color: red">[03/2023]</span> Our work on AI for Electrochemistry is available online. [[arXiv]](http://arxiv.org/abs/2304.04986)
+
+
 * <span style="color: red">[03/2023]</span> Welcome to my MRS Spring 2023 presentation: “Modeling High-Entropy Intercalation Cathodes with Sparse Lattice Models”. 11:45am - 12:00pm April 13, 2023. [[abstract]](https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting/call-for-papers/presentations/detail/2023_mrs_spring_meeting/3835267-202304130330)
 
 * <span style="color: red">[03/2023]</span> Welcome to my MRS Spring 2023 presentation: “Deep learning of multi-component cathode electrochemistry from experiments”. 9:30am - 9:45am April 13, 2023. [[abstract]](https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting/call-for-papers/presentations/detail/2023_mrs_spring_meeting/3835259-202304130130)
