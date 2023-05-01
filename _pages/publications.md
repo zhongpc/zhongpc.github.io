@@ -6,7 +6,7 @@ author_profile: true
 ---
 $^{\dagger}$ equal contribution, $^{\ast}$ corresponding author
 
-[13] **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, arXiv:2304.04986 [[PDF]](http://arxiv.org/abs/2304.04986)
+[13] **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, arXiv:2304.04986 [[PDF]](http://arxiv.org/pdf/2304.04986.pdf)
 
 [12] B. Deng, **P. Zhong**$^{\ast}$, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^{\ast}$, “CHGNet: Pretrained universal neural
 network potential for charge-informed atomistic modeling", arXiv:2302.14231 [[PDF]](https://arxiv.org/pdf/2302.14231.pdf)
