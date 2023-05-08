@@ -21,7 +21,7 @@ redirect_from:
   * Deep learning of cathode electrochemistry from experiments
 * Research Assistant, The University of Hong Kong, 2017, 2018, <br /> *Advisor: [Prof. Jian Wang](https://www.physics.hku.hk/people/academic/319)*
 	* Development of full-counting statistics of electronic transport in disordered systems
-  * Research on quantum transport theory and machine learning applications
+  * Research on quantum transport theory (non-equilibrium Green's function methods)
 * Research Assistant, University of Science and Technology of China, 2016 - 2018, <br /> *Advisor: [Prof. Zhenhua Qiao](http://staff.ustc.edu.cn/~qiao/index.html)*
 	* Computational studies of quantum anomalous Hall effect with in-plane magnetization
 
