@@ -28,6 +28,10 @@ redirect_from:
 ## Teaching Experience
 * Graduate Student Instructor, University of California Berkeley, Spring 2023
 	* *Thermodynamics, Phase Behavior and Transport Phenomena (MSE 201B)*
+	* Selected feedback: 
+		* *Peichen typed out lecture notes for the topics covered in the course, which were helpful.*
+		* *Peichen was always very friendly and welcoming to me. He was open to questions and feedback during office hours which I appreciated.*
+		* *Peichen's lecture notes were very useful, and the effort that he invested in aiding the students' learning was commendable. He is obviously knowledgeable and communicates ideas well. His discussion section and provided notes were a great supplement to the lecture. He was also very timely in grading homework assignments and exams, which was of course greatly appreciated.*
 
 * Teaching Assistant, University of Science and Technology of China, Fall 2017
 	* *Quantum Mechanics A*
