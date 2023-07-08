@@ -6,9 +6,11 @@ author_profile: true
 ---
 $^{\dagger}$ equal contribution, $^{\ast}$ corresponding author
 
+[14] **P. Zhong**$^{\dagger}$, F. Xie$^{\dagger}$, L. Barroso-Luque, L. Huang, and G. Ceder$^{\ast}$, “Modeling intercalation chemistry with multi-redox reactions by sparse lattice models in disordered rocksalt cathodes”
+
 [13] **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, arXiv:2304.04986 [[PDF]](http://arxiv.org/pdf/2304.04986.pdf)
 
-[12] B. Deng, **P. Zhong**$^{\ast}$, K. Jun, K. Han, C. J. Bartel, and G. Ceder$^{\ast}$, “CHGNet: Pretrained universal neural
+[12] B. Deng, **P. Zhong**$^{\ast}$, K. Jun, J. Riebesell, K. Han, C. J. Bartel, and G. Ceder$^{\ast}$, “CHGNet: Pretrained universal neural
 network potential for charge-informed atomistic modeling", arXiv:2302.14231 [[PDF]](https://arxiv.org/pdf/2302.14231.pdf)
 
 [11] B. Shen$^{\dagger}$, L. Huang$^{\dagger}$, J. Shen, X. Hu, **P. Zhong**, C. Y. Zheng, C. Wolverton, and C. A. Mirkin$^{\ast}$,
