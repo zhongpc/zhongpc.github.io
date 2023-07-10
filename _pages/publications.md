@@ -6,7 +6,7 @@ author_profile: true
 ---
 $^{\dagger}$ equal contribution, $^{\ast}$ corresponding author
 
-[14] **P. Zhong**$^{\dagger}$, F. Xie$^{\dagger}$, L. Barroso-Luque, L. Huang, and G. Ceder$^{\ast}$, “Modeling intercalation chemistry with multi-redox reactions by sparse lattice models in disordered rocksalt cathodes”
+[14] **P. Zhong**$^{\dagger}$, F. Xie$^{\dagger}$, L. Barroso-Luque, L. Huang, and G. Ceder$^{\ast}$, “Modeling intercalation chemistry with multi-redox reactions by sparse lattice models in disordered rocksalt cathodes”, arXiv:2307.03717 [[PDF]](https://arxiv.org/pdf/2307.03717.pdf)
 
 [13] **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, arXiv:2304.04986 [[PDF]](http://arxiv.org/pdf/2304.04986.pdf)
 
