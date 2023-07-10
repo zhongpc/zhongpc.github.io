@@ -8,10 +8,12 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D. Candidate, University of California Berkeley, Present
+* Ph.D. in Materials Science and Engineering, University of California Berkeley, 2023
+	* Thesis: "Computational modeling of multicomponent disordered rocksalt cathodes"
+	<br /> Advisor: Prof. Gerbrand Ceder
 * B.S. in Physics, University of Science and Technology of China, 2018
 	* Thesis: "Electronic transport properties in two-dimensional disordered mesoscopic systems"
-	<br /> Supervised by Prof. Jian Wang and Prof. Zhenhua Qiao
+	<br /> Advisor: Prof. Jian Wang and Prof. Zhenhua Qiao
 
 
 ## Research Experience
