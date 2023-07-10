@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+* <span style="color: red">[07/2023]</span> Our work on intercalation chemistry with multi-redox reactions is available online. [[arXiv]](https://arxiv.org/abs/2307.03717) [[demo]](https://twitter.com/zhongpc/status/1678204387796164608) 
+
 * <span style="color: red">[04/2023]</span> Our work on AI for Electrochemistry is available online. [[arXiv]](http://arxiv.org/abs/2304.04986)
 
 
