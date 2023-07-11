@@ -46,6 +46,9 @@ Our interest lies in the cluster expansion method (lattice model), which has bee
 
 <img src='/images/CE.png' class="center" width="90%">
 
+<span style="color:steelblue; font-size:0.8em;">
+**P. Zhong**$^{\dagger}$, F. Xie$^{\dagger}$, L. Barroso-Luque, L. Huang, and G. Ceder$^{\ast}$, “Modeling intercalation chemistry with multi-redox reactions by sparse lattice models in disordered rocksalt cathodes”, arXiv:2307.03717
+</span> 
 
 <span style="color:steelblue; font-size:0.8em;">
 **P. Zhong**, T. Chen, L. Barroso-Luque, F. Xie, and G. Ceder, An $\ell_0\ell_2$-norm regularized regression model for construction of robust cluster expansion in multicomponent systems, Phys. Rev. B 106, 024203 (2022).
@@ -56,7 +59,9 @@ L. Barroso-Luque, **P. Zhong**, J. H. Yang, T. Chen, F. Xie, B. Ouyang, and G. C
 </span> 
 
 <span style="color:steelblue; font-size:0.8em;">
-F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder*, “Grand-canonical Monte-Carlo simulation methods for charge-decorated cluster expansions”, arXiv:2210.0116 (2022).
+F. Xie, **P. Zhong**, L. Barroso-Luque, B. Ouyang, and G. Ceder$^{\ast}$, “Semigrand-canonical
+Monte-Carlo simulation methods for charge-decorated cluster expansions”, Computational Materials Science
+218, 112000 (2023).
 </span> 
 
 
