@@ -15,4 +15,6 @@ My research focuses on the following:
 * Statistical mechanics in lattice systems and optimization for robust modeling
 * AI for Science: physical modeling, materials science, sustainability
 
+I enjoy doing research with imaginative ideas and implementing them via canonical approaches.
+
 <img src='/images/PZ_summary.png' class="center">
