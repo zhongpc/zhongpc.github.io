@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-* <span style="color: red">[08/2023]</span> I submitted my thesis to Graduate Division. P.h.Done!
+* <span style="color: red">[08/2023]</span> I submitted my thesis to the Graduate Division. P.h.Done!
 
 * <span style="color: red">[07/2023]</span> Our work on modeling intercalation chemistry is available online. [[arXiv]](https://arxiv.org/abs/2307.03717) [[demo]](https://twitter.com/zhongpc/status/1678204387796164608) 
 
