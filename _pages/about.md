@@ -6,8 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a PhD student in [Ceder Group](https://ceder.berkeley.edu/) @ [DMSE, UC Berkeley](https://mse.berkeley.edu/).
-Before Berkeley, I obtained my B.S. in physics from [University of Science and Technology of China (USTC)](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China).
+Hello, I am currently a postdoc researcher in [Ceder Group](https://ceder.berkeley.edu/) @ Lawrence Berkeley National Lab. I obtained my Ph.D. in Materials Science from University of California Berkeley in Aug 2023. Before Berkeley, I obtained my B.S. in physics from University of Science and Technology of China (USTC).
 
 My research focuses on the following:
 
