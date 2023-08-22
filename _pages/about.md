@@ -12,7 +12,7 @@ My research focuses on the following:
 
 * Computational design of energy materials from first-principles
 * Statistical mechanics in lattice systems and optimization for robust modeling
-* AI for Science: physical modeling, materials science, sustainability
+* AI for Science: atomistic modeling, materials science, sustainability
 
 I enjoy doing research with imaginative ideas and implementing them via canonical approaches.
 
