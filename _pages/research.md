@@ -7,9 +7,9 @@ author_profile: true
 {% include base_path %}
 
 
-## Computational design of energy storage materials from first-principle
+## Computational design of energy storage materials from first principles
 
-The electric vehicle market for high-energy Li-ion batteries has experienced remarkable growth in recent years. As the demand for electrical energy storage continues to rise, there is an urgent need to discover high energy density cathode materials for rechargeable Li-ion batteries. Presently, most cathode materials are based on layered Li(Ni,Mn,Co)O$_2$ (NMC) compounds. However, the high cost of Ni and Co restricts the large-scale application of Li-ion batteries with NMC-type cathodes. The recent emergence of disordered rocksalt cathodes with Li-excess (**DRX**) offers a promising, earth-abundant alternative that could enable Li-ion energy storage to scale up to multiple TWh/year production.
+The electric vehicle market for high-energy Li-ion batteries has experienced remarkable growth in recent years. As the demand for electrical energy storage continues to rise, there is an urgent need to discover high-energy-density cathode materials for rechargeable Li-ion batteries. Presently, most cathode materials are based on layered Li(Ni,Mn,Co)O$_2$ (NMC) compounds. However, the high cost of Ni and Co restricts the large-scale application of Li-ion batteries with NMC-type cathodes. The recent emergence of disordered rocksalt cathodes with Li-excess (**DRX**) offers a promising, earth-abundant alternative that could enable Li-ion energy storage to scale up to multiple TWh/year production.
 
 These advanced battery materials often contain numerous elements with significant site disorder, and their short-range ordering (SRO) states have been found to play a critical role in their performance. We are focused on investigating the thermodynamic and kinetic properties of these materials through computational methods, aiming to enhance our understanding and guide the design of optimal cathode materials.
 
