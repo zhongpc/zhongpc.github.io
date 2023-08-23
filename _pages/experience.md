@@ -39,4 +39,4 @@ redirect_from:
 	* *Quantum Mechanics A*
 
 * Lecturer & Tutor as a part-time job to high school students, 2014 - 2017
-	* *Physics Olympics: Mechanics, Electromagnetism, Optics*
+	* *Teaching Physics Olympics: Mechanics, Electromagnetism, Optics*
