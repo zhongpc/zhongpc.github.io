@@ -66,7 +66,7 @@ Monte-Carlo simulation methods for charge-decorated cluster expansions”, Compu
 
 
 
-## AI for Science: physical modeling, materials science, electrochemistry
+## AI for Science: atomistic modeling, electronic structure, materials science
 
 <span style="color:steelblue; font-size:0.8em;">
 **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, arXiv:2304.04986
