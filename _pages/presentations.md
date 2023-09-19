@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2023
-
+* **[Invited]** Advancing simulation and learning for compositionally complex energy materials, seminar talked invited by Dr. Jin Qian, Chemical Sciences Division at LBNL
 * **[Oral]** Modeling phase transformation in complex oxides with charge-informed interatomic potential, MRS 2023 Fall Meeting, Boston, MA
 * **[Oral]** Deep learning of experimental electrochemistry for battery cathodes across diverse compositions, MRS 2023 Fall Meeting, Boston, MA
 * **[Oral]** Modeling high-entropy intercalation cathodes with sparse lattice models, MRS 2023 Spring Meeting, San Francisco, CA.
