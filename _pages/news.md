@@ -6,6 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+
+* <span style="color: red">[09/2023]</span> CHGNet is selected as the cover of Nature Machine Intelligence! [[link]](https://www.nature.com/natmachintell/volumes/5/issues/9) 
+
 * <span style="color: red">[08/2023]</span> I submitted my dessertation to the Graduate Division. **Ph**inally **D**one!
 
 * <span style="color: red">[07/2023]</span> Our work on modeling intercalation chemistry is available online. [[arXiv]](https://arxiv.org/abs/2307.03717) [[demo]](https://twitter.com/zhongpc/status/1678204387796164608) 
