@@ -10,7 +10,7 @@ $^{\dagger}$ equal contribution, $^{\ast}$ corresponding author
 
 13\. **P. Zhong**$^{\dagger}$, F. Xie$^{\dagger}$, L. Barroso-Luque, L. Huang, and G. Ceder$^{\ast}$, “Modeling intercalation chemistry with multi-redox reactions by sparse lattice models in disordered rocksalt cathodes”, PRX Energy (2023) [[PDF]](https://arxiv.org/pdf/2307.03717.pdf) 
 
-12\. B. Deng, **P. Zhong**$^{\ast}$, K. Jun, J. Riebesell, K. Han, C. J. Bartel, and G. Ceder$^{\ast}$, “CHGNet: Pretrained universal neural
+12\. B. Deng, **P. Zhong**$^{\ast}$, K. Jun, J. Riebesell, K. Han, C. J. Bartel, and G. Ceder$^{\ast}$, “CHGNet as a pretrained universal neural
 network potential for charge-informed atomistic modeling", Nature Machine Intelligence 5, 1031–1041 (2023) [[PDF]](https://ceder.berkeley.edu/publications/2023_Bowen_CHGNet.pdf)
 
 11\. B. Shen$^{\dagger}$, L. Huang$^{\dagger}$, J. Shen, X. Hu, **P. Zhong**, C. Y. Zheng, C. Wolverton, and C. A. Mirkin$^{\ast}$,
