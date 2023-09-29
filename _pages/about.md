@@ -11,7 +11,7 @@ Hello, I am currently a postdoctoral researcher in [Ceder Group](https://ceder.b
 My research focuses on the following:
 
 * Computational design of energy materials from first-principles
-* Statistical mechanics in lattice systems and optimization for robust modeling
+* Statistical mechanics and electronic structure methods in solid-state materials
 * AI for Science: atomistic modeling, materials science, sustainability
 
 I enjoy doing research with imaginative ideas and implementing them via canonical approaches.
