@@ -8,7 +8,7 @@ author_profile: true
 
 * <span style="color: red">[10/2023]</span> I am selected as a participant in the "Rising Stars in Materials Science and Engineering Workshop" held by DMSE of CMU/MIT/Stanford.
 
-* <span style="color: red">[10/2023]</span> I gave an invited webinar talk entitled "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", Youth Forum in Science at KouShare (in Chinese)
+* <span style="color: red">[10/2023]</span> I presented an invited webinar talk entitled "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", Youth Forum in Science at KouShare (in Chinese)
 
 * <span style="color: red">[09/2023]</span> CHGNet is selected as the cover of Nature Machine Intelligence! [[link]](https://www.nature.com/natmachintell/volumes/5/issues/9) 
 
