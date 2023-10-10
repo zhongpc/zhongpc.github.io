@@ -31,3 +31,5 @@ author_profile: true
 * <span style="color: red">[02/2023]</span> Welcome to my APS March Meeting 2023 presentation: “Modeling intercalation chemistry with multi-redox reactions by sparse lattice models”. Session F45, March 07, 2023, 9:36 AM–9:48 AM. 
 
 * <span style="color: red">[11/2022]</span> Welcome to my MRS Fall 2022 poster presentation: “Deep learning of multi-component cathode electrochemistry from experiments”. DS03.12, November 30, 2022 <span style="color: red">(Best Poster Award Nominee)</span>.
+
+* <span style="color: red">[05/2022]</span> I presented my MRS Spring 2022 talk: “Construction of robust lattice model in multicomponent disordered cathode materials", Honolulu, Hawaii, May 2022.
