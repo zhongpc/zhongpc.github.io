@@ -8,8 +8,8 @@ author_profile: true
 ## 2023
 * **[Oral]** Modeling phase transformation in complex oxides with charge-informed interatomic potential, MRS 2023 Fall Meeting, Boston, MA
 * **[Oral]** Deep learning of experimental electrochemistry for battery cathodes across diverse compositions, MRS 2023 Fall Meeting, Boston, MA
-* **[Invited]** Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models, webinar talk invited by Youth Forum in Science at KouShare (in Chinese)
-* **[Invited]** Advancing simulation and learning for compositionally complex energy materials, seminar talk invited by Dr. Jin Qian, Chemical Sciences Division at LBNL
+* **[Invited]** Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models, webinar talk invited by Youth Forum in Science at KouShare (in Chinese). [[doi]](https://dx.doi.org/10.12351/ks.2310.0020)
+* **[Invited]** Advancing simulation and learning for compositionally complex energy materials, seminar talk invited by Dr. Jin Qian, Chemical Sciences Division at LBNL.
 * **[Oral]** Modeling high-entropy intercalation cathodes with sparse lattice models, MRS 2023 Spring Meeting, San Francisco, CA.
 * **[Oral]** Deep learning of multi-component cathode electrochemistry from experiments, MRS 2023 Spring Meeting, San Francisco, CA.
 * **[Oral]** Modeling intercalation chemistry with multiple redox reactions by sparse lattice model, APS 2023 March Meeting, Las Vegas, NV.
