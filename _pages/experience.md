@@ -29,8 +29,8 @@ redirect_from:
 
 ## Teaching Experience
 * Guest Lecturer of MSE 201A, University of California Berkeley, Fall 2023
-	* Teaching Statistical Mechanics: statistics, ensembles, relation to thermodynamics, non-interacting systems, identical particles, vibrations, etc.
-	* Related applications in practice using statistical mechanics (e.g., DRX, Monte Carlo, CHGNet)
+	* Teaching statistical mechanics: statistics, ensembles, relation to thermodynamics, non-interacting systems, identical particles, vibrations, etc.
+	* Related applications using statistical mechanics (e.g., DRX, Monte Carlo, CHGNet)
 
 * Graduate Student Instructor of MSE 201B, University of California Berkeley, Spring 2023
 	* Thermodynamics, Phase Behavior and Transport Phenomena (MSE 201B)
