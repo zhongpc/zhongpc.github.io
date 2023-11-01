@@ -6,6 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
+* <span style="color: red">[11/2023]</span> I will present at MRS Fall 2023, "Deep Learning of Experimental Electrochemistry for Battery Cathodes Across Diverse Compositions", Dec 1, 2023
+2:30pm - 2:45pm, Hynes, Level 3, Room 304
+
+
+* <span style="color: red">[11/2023]</span> I will present at MRS Fall 2023, "Modeling Phase Transformation in Complex Oxides with Charge-Informed Interatomic Potential", Nov 28, 2023, 10:45am - 11:00am, Sheraton, Second Floor, Back Bay A 
+
+
 * <span style="color: red">[10/2023]</span> I am selected as a participant in the "Rising Stars in Materials Science and Engineering Workshop" held by DMSE of CMU/MIT/Stanford.
 
 * <span style="color: red">[10/2023]</span> I presented an invited webinar talk entitled "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", Youth Forum in Science at KouShare (in Chinese). [[doi]](https://dx.doi.org/10.12351/ks.2310.0020)
