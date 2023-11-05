@@ -21,7 +21,7 @@ author_profile: true
 
 * 05/2022, "Construction of robust lattice model in multicomponent disordered cathode materials", MRS 2022 Spring Meeting, Honolulu, Hawaii.
 
-## Poster
+## Posters
 
 * 03/2023, "Modeling intercalation chemistry with multiple redox reactions by sparse lattice model", APS 2023 GERA Energy Workshop, American Physical Society, Las Vegas, NV <span style="color: red">(Best Poster Award)</span>. [[poster]](http://zhongpc.github.io/files/APS_2023_Poster.pdf) 
 
