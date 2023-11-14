@@ -12,6 +12,7 @@ author_profile: true
 
 * <span style="color: red">[11/2023]</span> I will present at MRS Fall 2023, "Modeling Phase Transformation in Complex Oxides with Charge-Informed Interatomic Potential", Nov 28, 2023, 10:45am - 11:00am, Sheraton, Second Floor, Back Bay A 
 
+* <span style="color: red">[11/2023]</span> I presented an invited talk entitled "Computational modeling of multicomponent disordered rocksalt cathodes" at Mitra Chem.
 
 * <span style="color: red">[10/2023]</span> I am selected as a participant in the "Rising Stars in Materials Science and Engineering Workshop" held by DMSE of CMU/MIT/Stanford. [[link]](https://mse.engineering.cmu.edu/news/2023/11/02-rising-stars-mse.html)
 

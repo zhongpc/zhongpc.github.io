@@ -7,13 +7,15 @@ author_profile: true
 
 ## Invited Talks
 
-* 10/2023, "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", webinar talk invited by Youth Forum in Science at KouShare (in Chinese). [[doi]](https://dx.doi.org/10.12351/ks.2310.0020)
+* 11/2023, "Computational modeling of multicomponent disordered rocksalt cathodes", seminar talk invited by Mitra Chem.
+
+* 10/2023, "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", seminar talk invited by Youth Forum in Science at KouShare Webinar (in Chinese). [[doi]](https://dx.doi.org/10.12351/ks.2310.0020)
 * 09/2023, "Advancing simulation and learning for compositionally complex energy materials", seminar talk invited by Dr. Jin Qian, Chemical Sciences Division at LBNL.
 
 
 ## Contributed Talks
-* 11/2023, "Modeling phase transformation in complex oxides with charge-informed interatomic potential", MRS 2023 Fall Meeting, Boston, MA
-* 11/2023 "Deep learning of experimental electrochemistry for battery cathodes across diverse compositions", MRS 2023 Fall Meeting, Boston, MA
+* 11/2023, "Modeling phase transformation in complex oxides with charge-informed interatomic potential", MRS 2023 Fall Meeting, Boston, MA.
+* 11/2023 "Deep learning of experimental electrochemistry for battery cathodes across diverse compositions", MRS 2023 Fall Meeting, Boston, MA.
 * 04/2023, "Modeling high-entropy intercalation cathodes with sparse lattice models", MRS 2023 Spring Meeting, San Francisco, CA.
 * 04/2023, "Deep learning of multi-component cathode electrochemistry from experiments", MRS 2023 Spring Meeting, San Francisco, CA.
 * 03/2023, "Modeling intercalation chemistry with multiple redox reactions by sparse lattice model", APS 2023 March Meeting, Las Vegas, NV.
