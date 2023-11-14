@@ -7,7 +7,7 @@ author_profile: true
 
 ## Invited Talks
 
-* 11/2023, "Computational modeling of multicomponent disordered rocksalt cathodes", seminar talk invited by Mitra Chem.
+* 11/2023, "Computational modeling of multicomponent disordered rocksalt cathodes", Mitra Chem.
 
 * 10/2023, "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", seminar talk invited by Youth Forum in Science at KouShare Webinar (in Chinese). [[doi]](https://dx.doi.org/10.12351/ks.2310.0020)
 * 09/2023, "Advancing simulation and learning for compositionally complex energy materials", seminar talk invited by Dr. Jin Qian, Chemical Sciences Division at LBNL.
