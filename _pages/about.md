@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am currently a postdoctoral researcher in [Ceder Group](https://ceder.berkeley.edu/) @ Lawrence Berkeley National Laboratory. I obtained my Ph.D. in Materials Science from UC Berkeley in August 2023. Before Berkeley, I obtained my B.S. in physics from University of Science and Technology of China (USTC) in 2018.
+Hello, I am currently a postdoctoral researcher in [Ceder Group](https://ceder.berkeley.edu/) @ Lawrence Berkeley National Laboratory. I obtained my Ph.D. in Materials Science from UC Berkeley in August 2023. Prior to Berkeley, I obtained my B.S. in physics from University of Science and Technology of China (USTC) in 2018.
 
 My research focuses on the following:
 
