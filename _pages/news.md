@@ -8,7 +8,7 @@ author_profile: true
 
 * <span style="color: red">[12/2023]</span>  I will present an invited talk "Advancing simulation and learning for complex energy materials: from lattice model to CHGNet" at The 7th Forum of Materials Genome Engineering, Chongqing China (virtual)
 
-* <span style="color: red">[12/2023]</span>  I will present a seminar talk "Advancing simulation and learning for complex energy materials" at Bakar Institute of Digital Materials for the Planet, UC Berkeley (Thursday, December 7, 2023
+* <span style="color: red">[12/2023]</span>  I will present a departmental seminar talk "Advancing simulation and learning for complex energy materials" at Bakar Institute of Digital Materials for the Planet, UC Berkeley (Thursday, December 7, 2023
 12:00 PM - 1:00 PM, 373 Cory Hall). [[link]](https://bidmap.berkeley.edu/seminars/dec-7-2023-peichen-zhong-advancing-simulation-and-learning-complex-energy-materials)
 
 * <span style="color: red">[11/2023]</span> I presented "Deep Learning of Experimental Electrochemistry for Battery Cathodes Across Diverse Compositions" at MRS Fall 2023, Dec 1, 2023, 2:30pm - 2:45pm, Hynes, Level 3, Room 304
