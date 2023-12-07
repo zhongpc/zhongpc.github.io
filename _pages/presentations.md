@@ -7,7 +7,7 @@ author_profile: true
 
 ## Invited Talks
 
-* 12/2023, "Advancing simulation and learning for complex energy materials", departmental seminar talk at Bakar Institute of Digital Materials for the Planet, UC Berkeley
+* 12/2023, "Advancing simulation and learning for complex energy materials", seminar talk at Bakar Institute of Digital Materials for the Planet, UC Berkeley
 
 
 * 12/2023, "Advancing simulation and learning for complex energy materials: From lattice models to CHGNet, invited talk at The 7th Forum of Materials Genome Engineering, China (virtual)
