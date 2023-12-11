@@ -6,21 +6,22 @@ author_profile: true
 ---
 {% include base_path %}
 
-* <span style="color: red">[12/2023]</span>  I will present an invited talk "Advancing simulation and learning for complex energy materials: from lattice model to CHGNet" at The 7th Forum of Materials Genome Engineering, Chongqing China (virtual)
 
-* <span style="color: red">[12/2023]</span>  I will present a departmental seminar talk "Advancing simulation and learning for complex energy materials" at Bakar Institute of Digital Materials for the Planet, UC Berkeley (Thursday, December 7, 2023
+* <span style="color: red">[12/2023]</span>  I presented a departmental seminar talk "Advancing simulation and learning for complex energy materials" at Bakar Institute of Digital Materials for the Planet, UC Berkeley (Thursday, December 7, 2023
 12:00 PM - 1:00 PM, 373 Cory Hall). [[link]](https://bidmap.berkeley.edu/seminars/dec-7-2023-peichen-zhong-advancing-simulation-and-learning-complex-energy-materials)
+
+* <span style="color: red">[12/2023]</span>  I presented an invited talk "Advancing simulation and learning for complex energy materials: from lattice model to CHGNet" at The 7th Forum of Materials Genome Engineering, Chongqing, China (virtual)
 
 * <span style="color: red">[11/2023]</span> I presented "Deep Learning of Experimental Electrochemistry for Battery Cathodes Across Diverse Compositions" at MRS Fall 2023, Dec 1, 2023, 2:30pm - 2:45pm, Hynes, Level 3, Room 304
 
 
 * <span style="color: red">[11/2023]</span> I presented "Modeling Phase Transformation in Complex Oxides with Charge-Informed Interatomic Potential" at MRS Fall 2023, Nov 28, 2023, 10:45am - 11:00am, Sheraton, Second Floor, Back Bay A 
 
-* <span style="color: red">[11/2023]</span> I presented an invited talk entitled "Computational modeling of multicomponent disordered rocksalt cathodes" at Mitra Chem.
+* <span style="color: red">[11/2023]</span> I presented an invited talk "Computational modeling of multicomponent disordered rocksalt cathodes" at Mitra Chem.
 
 * <span style="color: red">[10/2023]</span> I am selected as a participant in the "Rising Stars in Materials Science and Engineering Workshop" held by DMSE of CMU/MIT/Stanford. [[link]](https://mse.engineering.cmu.edu/news/2023/11/02-rising-stars-mse.html)
 
-* <span style="color: red">[10/2023]</span> I presented an invited webinar talk entitled "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", Youth Forum in Science at KouShare (in Chinese). [[doi]](https://dx.doi.org/10.12351/ks.2310.0020)
+* <span style="color: red">[10/2023]</span> I presented an invited webinar talk entitled "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", Youth Forum in Science at KouShare (in Chinese, virtual). [[doi]](https://dx.doi.org/10.12351/ks.2310.0020)
 
 * <span style="color: red">[09/2023]</span> CHGNet is selected as the cover of Nature Machine Intelligence! [[link]](https://www.nature.com/natmachintell/volumes/5/issues/9) 
 
