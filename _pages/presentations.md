@@ -10,7 +10,7 @@ author_profile: true
 * 12/2023, "Advancing simulation and learning for complex energy materials", seminar talk at Bakar Institute of Digital Materials for the Planet, UC Berkeley
 
 
-* 12/2023, "Advancing simulation and learning for complex energy materials: From lattice models to CHGNet, invited talk at The 7th Forum of Materials Genome Engineering, China (virtual)
+* 12/2023, "Advancing simulation and learning for complex energy materials: From lattice models to CHGNet", invited talk at The 7th Forum of Materials Genome Engineering, China (virtual)
 
 * 11/2023, "Computational modeling of multicomponent disordered rocksalt cathodes", Mitra Chem.
 
@@ -19,14 +19,12 @@ author_profile: true
 
 
 ## Contributed Talks
-* 11/2023, "Modeling phase transformation in complex oxides with charge-informed interatomic potential", MRS 2023 Fall Meeting, Boston, MA.
-* 11/2023 "Deep learning of experimental electrochemistry for battery cathodes across diverse compositions", MRS 2023 Fall Meeting, Boston, MA.
-* 04/2023, "Modeling high-entropy intercalation cathodes with sparse lattice models", MRS 2023 Spring Meeting, San Francisco, CA.
-* 04/2023, "Deep learning of multi-component cathode electrochemistry from experiments", MRS 2023 Spring Meeting, San Francisco, CA.
-* 03/2023, "Modeling intercalation chemistry with multiple redox reactions by sparse lattice model", APS 2023 March Meeting, Las Vegas, NV.
-
-
-* 05/2022, "Construction of robust lattice model in multicomponent disordered cathode materials", MRS 2022 Spring Meeting, Honolulu, Hawaii.
+* 11/2023, "Modeling phase transformation in complex oxides with charge-informed interatomic potential", MRS 2023 Fall Meeting, Boston, MA
+* 11/2023 "Deep learning of experimental electrochemistry for battery cathodes across diverse compositions", MRS 2023 Fall Meeting, Boston, MA
+* 04/2023, "Modeling high-entropy intercalation cathodes with sparse lattice models", MRS 2023 Spring Meeting, San Francisco, CA
+* 04/2023, "Deep learning of multi-component cathode electrochemistry from experiments", MRS 2023 Spring Meeting, San Francisco, CA
+* 03/2023, "Modeling intercalation chemistry with multiple redox reactions by sparse lattice model", APS 2023 March Meeting, Las Vegas, NV
+* 05/2022, "Construction of robust lattice model in multicomponent disordered cathode materials", MRS 2022 Spring Meeting, Honolulu, HI
 
 ## Posters
 
