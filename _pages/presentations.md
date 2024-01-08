@@ -8,12 +8,8 @@ author_profile: true
 ## Invited Talks
 
 * 12/2023, "Advancing simulation and learning for complex energy materials", seminar talk at Bakar Institute of Digital Materials for the Planet, UC Berkeley
-
-
 * 12/2023, "Advancing simulation and learning for complex energy materials: From lattice models to CHGNet", invited talk at The 7th Forum of Materials Genome Engineering, China (virtual)
-
 * 11/2023, "Computational modeling of multicomponent disordered rocksalt cathodes", Mitra Chem.
-
 * 10/2023, "Computational modeling of Li-ion battery cathodes: from Stat-Mech to AI models", seminar talk invited by Youth Forum in Science at KouShare Webinar (in Chinese). [[doi]](https://dx.doi.org/10.12351/ks.2310.0020)
 * 09/2023, "Advancing simulation and learning for compositionally complex energy materials", seminar talk invited by Dr. Jin Qian, Chemical Sciences Division at LBNL.
 
@@ -29,7 +25,5 @@ author_profile: true
 ## Posters
 
 * 03/2023, "Modeling intercalation chemistry with multiple redox reactions by sparse lattice model", APS 2023 GERA Energy Workshop, American Physical Society, Las Vegas, NV <span style="color: red">(Best Poster Award)</span>. [[poster]](http://zhongpc.github.io/files/APS_2023_Poster.pdf) 
-
 * 11/2022, "Deep learning of multi-component cathode electrochemistry from experiments", MRS 2022 Fall Meeting, Boston, MA  <span style="color: red">(Best Poster Award Nominee)</span>.
-
 * 07/2017, "In-plane magnetization induced quantum anomalous Hall effect in group-V elements", International Workshop on Emerging Electronic Materials and Devices, Shenzhen, China <span style="color: red">(Poster Prize Award)</span>.
