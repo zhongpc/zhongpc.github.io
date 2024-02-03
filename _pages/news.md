@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-* <span style="color: red">[02/2024]</span>  I will join Bakar Institute of Digital Materials for the Planet as a BIDMaP Postdoctoral Research Fellow, working with Kristin Persson and Aditi Krishnapriyan on ML/AI for materials science to address the climate change.
+* <span style="color: red">[02/2024]</span>  I will join BIDMaP at UC Berkeley as a Postdoctoral Research Fellow, working with Kristin Persson and Aditi Krishnapriyan on ML/AI for materials science to address the climate change.
   
 * <span style="color: red">[12/2023]</span>  I presented a seminar talk "Advancing simulation and learning for complex energy materials" at Bakar Institute of Digital Materials for the Planet, UC Berkeley [[link]](https://bidmap.berkeley.edu/seminars/dec-7-2023-peichen-zhong-advancing-simulation-and-learning-complex-energy-materials)
 
