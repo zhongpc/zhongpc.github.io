@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-Welcome! I am a postdoctoral researcher in [Ceder Group](https://ceder.berkeley.edu/) @ Lawrence Berkeley National Laboratory. I am interested in solving energy & sustainability challenges by combining computational modeling, machine learning, and materials science. I will join [BIDMaP](https://bidmap.berkeley.edu/) @ UC Berkeley working with [Kristin Persson](https://perssongroup.lbl.gov/) and [Aditi Krishnapriyan](https://a1k12.github.io/) on ML/AI for materials science.
+Welcome! I am a postdoctoral researcher in [Ceder Group](https://ceder.berkeley.edu/) @ Lawrence Berkeley National Laboratory. I will join [BIDMaP](https://bidmap.berkeley.edu/) @ UC Berkeley working with [Kristin Persson](https://perssongroup.lbl.gov/) and [Aditi Krishnapriyan](https://a1k12.github.io/) on ML/AI for materials science. I am interested in solving energy & sustainability challenges by combining computational modeling, machine learning, and materials science. 
 
 My research includes (1) computational modeling of energy and sustainable materials from first principles, (2) statistical mechanics and electronic structure methods in solid-state materials, (3) AI for Science: atomistic modeling and generative models in physics/chemistry/materials.
 
