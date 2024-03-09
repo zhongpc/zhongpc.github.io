@@ -6,7 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-* <span style="color: red">[02/2024]</span>  I will attend the Gordon Research Conference/Seminar on Batteries in Ventura CA, presenting our work on AI for batteries (DRXNet and CHGNet).
+* <span style="color: red">[03/2024]</span>  I presented the work on cation-disorder effects on lithium transport in halide superionic conductors at APS March Meeting 2024.
+
+* <span style="color: red">[02/2024]</span>  I presented our work on AI for batteries (DRXNet and CHGNet) at the Gordon Research Conference/Seminar on Batteries in Ventura CA.
   
 * <span style="color: red">[02/2024]</span>  I will join BIDMaP at UC Berkeley as a Postdoctoral Research Fellow, working with Kristin Persson and Aditi Krishnapriyan on ML/AI for materials science to address the climate change.
   
@@ -33,13 +35,11 @@ author_profile: true
 
 * <span style="color: red">[04/2023]</span> Our work on AI for Electrochemistry is available online. [[arXiv]](http://arxiv.org/abs/2304.04986)
 
-
 * <span style="color: red">[03/2023]</span> Welcome to my MRS Spring 2023 presentation: “Modeling High-Entropy Intercalation Cathodes with Sparse Lattice Models”. 11:45am - 12:00pm April 13, 2023. 
 
 * <span style="color: red">[03/2023]</span> Welcome to my MRS Spring 2023 presentation: “Deep learning of multi-component cathode electrochemistry from experiments”. 9:30am - 9:45am April 13, 2023.
 
 * <span style="color: red">[03/2023]</span> Our work on charge-informed machine learning interatomic potential is available online. [[arXiv]](https://arxiv.org/abs/2302.14231)
-
 
 * <span style="color: red">[02/2023]</span> I will attend the 2023 APS GERA Energy Workshop and present the work on multi-redox reactions modeling by sparse lattice models <span style="color: red">(Best Poster Award)</span>. [[poster]](http://zhongpc.github.io/files/APS_2023_Poster.pdf)
 
