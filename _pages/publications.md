@@ -8,7 +8,7 @@ $^{\dagger}$ equal contribution, $^{\ast}$ corresponding author
 
 15\. **P. Zhong**, S. Gupta, B. Deng, K. Jun, G. Ceder*, “The effect of cation‑disorder effects in lithium halide superionic conductors”, arXiv:2403.08237 [[PDF]](https://arxiv.org/pdf/2403.08237.pdf)
 
-14\. **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, Joule 8, 1–18 (2024) [[PDF]](http://arxiv.org/pdf/2304.04986.pdf)
+14\. **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, Joule 8, 1–18 (2024) [PDF](https://zhongpc.github.io/files/PIIS2542435124001454.pdf)
 
 13\. **P. Zhong**$^{\dagger}$, F. Xie$^{\dagger}$, L. Barroso-Luque, L. Huang, and G. Ceder$^{\ast}$, “Modeling intercalation chemistry with multi-redox reactions by sparse lattice models in disordered rocksalt cathodes”, PRX Energy, 2, 043005 (2023) [[PDF]](https://journals.aps.org/prxenergy/pdf/10.1103/PRXEnergy.2.043005) 
 
