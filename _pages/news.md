@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+* <span style="color: red">[05/2024]</span>  I presented a webinar talk entitled "Modeling intercalation voltage profiles: learning from first principles and experiments" at the [Battery Modeling Webinar Series](https://www.andrew.cmu.edu/user/venkatv/bmws.html).
+
 * <span style="color: red">[03/2024]</span>  I presented the work on cation-disorder effects on lithium transport in halide superionic conductors at APS March Meeting 2024.
 
 * <span style="color: red">[02/2024]</span>  I presented our work on AI for batteries (DRXNet and CHGNet) at the Gordon Research Conference/Seminar on Batteries in Ventura CA.
