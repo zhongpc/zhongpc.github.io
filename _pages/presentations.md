@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Invited Talks
+* 05/2024, "Modeling intercalation voltage profiles: learning from first principles & experiments", seminar talk at Battery Modeling Webinar Series, University of Michigan (virtual)
 * 12/2023, "Advancing simulation and learning for complex energy materials", seminar talk at Bakar Institute of Digital Materials for the Planet, UC Berkeley
 * 12/2023, "Advancing simulation and learning for complex energy materials: From lattice models to CHGNet", invited talk at The 7th Forum of Materials Genome Engineering, China (virtual)
 * 11/2023, "Computational modeling of multicomponent disordered rocksalt cathodes", Mitra Chem.
