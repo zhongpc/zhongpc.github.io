@@ -9,7 +9,7 @@ $^{\dagger}$ equal contribution, $^{\ast}$ corresponding author
 16\. B. Deng, Y. Choi, **P. Zhong**, J. Riebeselle, S. Anand, Z. Li, K. Jun, G. Ceder*, “Overcoming systematic softening in
 universal machine learning interatomic potentials by fine‑tuning”, arXiv:2405.07105 (2024) [[PDF]](https://arxiv.org/abs/2405.07105)
 
-15\. **P. Zhong**, S. Gupta, B. Deng, K. Jun, G. Ceder*, “The effect of cation‑disorder effects in lithium halide superionic conductors”, ACS Energy Letters [[PDF]](https://arxiv.org/pdf/2403.08237.pdf)
+15\. **P. Zhong**, S. Gupta, B. Deng, K. Jun, G. Ceder*, “The effect of cation‑disorder effects in lithium halide superionic conductors”, ACS Energy Letters 9, 2775-2781 (2024) [[PDF]](https://ceder.berkeley.edu/publications/2024_Peichen_CationDisorder.pdf)
 
 14\. **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, Joule 8, 1–18 (2024) [[PDF]](https://zhongpc.github.io/files/PIIS2542435124001454.pdf)
 
@@ -19,8 +19,7 @@ universal machine learning interatomic potentials by fine‑tuning”, arXiv:240
 network potential for charge-informed atomistic modeling", Nature Machine Intelligence 5, 1031–1041 (2023) [[PDF]](https://ceder.berkeley.edu/publications/2023_Bowen_CHGNet.pdf)
 
 11\. B. Shen$^{\dagger}$, L. Huang$^{\dagger}$, J. Shen, X. Hu, **P. Zhong**, C. Y. Zheng, C. Wolverton, and C. A. Mirkin$^{\ast}$,
-“Morphology Engineering in Multi-Component Hollow Metal Chalcogenide Nanoparticles”, ACS Nano 17,
-4642–4649 (2023) [[DOI]](https://pubs.acs.org/doi/10.1021/acsnano.2c10667)
+“Morphology Engineering in Multi-Component Hollow Metal Chalcogenide Nanoparticles”, ACS Nano 17, 4642–4649 (2023) [[DOI]](https://pubs.acs.org/doi/10.1021/acsnano.2c10667)
 
 10\. L. Huang$^{\dagger}$, **P. Zhong**$^{\dagger}$, Y. Ha, Y.-W. Byeon, T.-Y. Huang, Z. Cai, F. Xie, Y. Sun, H. Kim, M. Balasubramanian, B. D. McCloskey, W. Yang, and G. Ceder$^{\ast}$, “Optimizing Li-Excess Cation-Disordered Rocksalt Cathode Design through Partial Li Deficiency”, Advanced Energy Materials 13,
 2202345 (2023) [[PDF]](https://ceder.berkeley.edu/publications/2022_Huang_Li%E2%80%90Excess_Li-Deficiency.pdf)
