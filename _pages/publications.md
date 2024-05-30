@@ -6,8 +6,11 @@ author_profile: true
 ---
 $^{\dagger}$ equal contribution, $^{\ast}$ corresponding author
 
-16\. B. Deng, Y. Choi, **P. Zhong**, J. Riebeselle, S. Anand, Z. Li, K. Jun, G. Ceder*, “Overcoming systematic softening in
+17\. B. Deng, Y. Choi, **P. Zhong**, J. Riebeselle, S. Anand, Z. Li, K. Jun, G. Ceder*, “Overcoming systematic softening in
 universal machine learning interatomic potentials by fine‑tuning”, arXiv:2405.07105 (2024) [[PDF]](https://arxiv.org/abs/2405.07105)
+
+16\. V. Wu, **P. Zhong**, J. Ong, E. Yoshida, A. Kwon, G. Ceder, and R. J. Clément*, “The Limited Incorporation and Role of Fluorine in Mn-rich Disordered Rocksalt Cathodes”, ACS Energy Letters 9, 3027–3035 (2024) [[PDF]](https://pubs.acs.org/doi/epdf/10.1021/acsenergylett.4c01075)
+
 
 15\. **P. Zhong**, S. Gupta, B. Deng, K. Jun, G. Ceder*, “The effect of cation‑disorder effects in lithium halide superionic conductors”, ACS Energy Letters 9, 2775-2781 (2024) [[PDF]](https://ceder.berkeley.edu/publications/2024_Peichen_CationDisorder.pdf)
 
