@@ -7,7 +7,7 @@ author_profile: true
 $^{\dagger}$ equal contribution, $^{\ast}$ corresponding author
 
 
-17\. X. Dai$^{\dagger}$, **P. Zhong**$^{\dagger,\ast}$, B. Deng, Y. Chen, G. Ceder, “Inpainting crystal structure generations with score-based denoising”, ICML 2024 AI for Science Workshop
+18\. X. Dai$^{\dagger}$, **P. Zhong**$^{\dagger,\ast}$, B. Deng, Y. Chen, G. Ceder, “Inpainting crystal structure generations with score-based denoising”, ICML 2024 AI for Science Workshop
 
 17\. B. Deng, Y. Choi, **P. Zhong**, J. Riebeselle, S. Anand, Z. Li, K. Jun, G. Ceder*, “Overcoming systematic softening in
 universal machine learning interatomic potentials by fine‑tuning”, arXiv:2405.07105 (2024) [[PDF]](https://arxiv.org/abs/2405.07105)
