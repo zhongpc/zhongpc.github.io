@@ -14,4 +14,4 @@ Welcome! I am a BIDMaP Postdoctoral Research Fellow at UC Berkeley and Lawrence 
 
 
 
-<img src='/images/PZ_summary.png' class="center">
+<img src='/images/research_summary.png' class="center">
