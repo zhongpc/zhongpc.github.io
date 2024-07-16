@@ -15,7 +15,7 @@ universal machine learning interatomic potentials by fine‑tuning”, arXiv:240
 16\. V. Wu, **P. Zhong**, J. Ong, E. Yoshida, A. Kwon, G. Ceder, and R. J. Clément*, “The Limited Incorporation and Role of Fluorine in Mn-rich Disordered Rocksalt Cathodes”, ACS Energy Letters 9, 3027–3035 (2024) [[PDF]](https://pubs.acs.org/doi/epdf/10.1021/acsenergylett.4c01075)
 
 
-15\. **P. Zhong**, S. Gupta, B. Deng, K. Jun, G. Ceder*, “The effect of cation‑disorder effects in lithium halide superionic conductors”, ACS Energy Letters 9, 2775-2781 (2024) [[PDF]](https://ceder.berkeley.edu/publications/2024_Peichen_CationDisorder.pdf)
+15\. **P. Zhong**, S. Gupta, B. Deng, K. Jun, G. Ceder*, “Effect of Cation Disorder on Lithium Transport in Halide Superionic Conductors”, ACS Energy Letters 9, 2775-2781 (2024) [[PDF]](https://ceder.berkeley.edu/publications/2024_Peichen_CationDisorder.pdf)
 
 14\. **P. Zhong**$^{\ast}$, B. Deng, T. He, Z. Lun, and G. Ceder*, “Deep learning of experimental electrochemistry for battery cathodes across diverse compositions”, Joule 8, 1–18 (2024) [[PDF]](https://zhongpc.github.io/files/PIIS2542435124001454.pdf)
 
