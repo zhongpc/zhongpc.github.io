@@ -6,6 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
+* <span style="color: red">[07/2024]</span> I will attend the Gordon Research Conference on Computational Materials Science and present our recent works on cluster expansion, machine learning potential, and generative models. Welcome to chat & discuss science!
+
+* <span style="color: red">[06/2024]</span> Our work "Inpainting crystal structure generations with score-based denoising" is accepted by [ICML 2024 AI for Science Workshop](https://openreview.net/forum?id=T1mIt5exUF). 
+
 * <span style="color: red">[05/2024]</span>  I presented a webinar talk entitled "Modeling intercalation voltage profiles: learning from first principles and experiments" at the [Battery Modeling Webinar Series](https://www.andrew.cmu.edu/user/venkatv/bmws.html).
 
 * <span style="color: red">[03/2024]</span>  I presented the work on cation-disorder effects on lithium transport in halide superionic conductors at APS March Meeting 2024.
