@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+* <span style="color: red">[08/2024]</span> I will present a symposium talk at [2024 Molecular Foundry Annual User Meeting](https://usermeeting2024.foundry.lbl.gov/deep-dive-into-fundamental-insights-for-next-generation-energy-materials/). Welcome to chat & discuss science!
+
 * <span style="color: red">[07/2024]</span> I will attend the Gordon Research Conference on Computational Materials Science and present our recent works on cluster expansion, machine learning potential, and generative models. Welcome to chat & discuss science!
 
 * <span style="color: red">[06/2024]</span> Our work "Inpainting crystal structure generations with score-based denoising" is accepted by [ICML 2024 AI for Science Workshop](https://openreview.net/forum?id=T1mIt5exUF). 
