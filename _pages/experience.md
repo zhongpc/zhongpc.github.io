@@ -11,7 +11,7 @@ redirect_from:
 	* Working on computational chemistry & ML/AI
 	<br /> Advisors: Kristin Persson, Bingqing Cheng, Aditi Krishnapriyan
 
-* Postdoc, Lawrence Berkeley National Lab, 2023 - 2024
+* Postdoc, Lawrence Berkeley National Laboratory, 2023 - 2024
 	* Working on atomistic simulation & ML/AI for solid-state materials
 	<br /> Advisor: Gerbrand Ceder
 
