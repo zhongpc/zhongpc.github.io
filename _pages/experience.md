@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 * BIDMaP Research Fellow, University of California Berkeley, 2024 - Now
-	* Computational chemistry & machine learning/AI
+	* Computational chemistry & ML/AI
 	<br /> Advisors: Kristin Persson, Bingqing Cheng, Aditi Krishnapriyan
 
 * Postdoc, Lawrence Berkeley National Laboratory, 2023 - 2024
-	* Atomistic simulation & machine learning/AI for solid-state materials
+	* Atomistic simulation & ML/AI for solid-state materials
 	<br /> Advisor: Gerbrand Ceder
 
 * Ph.D. in Materials Science, University of California Berkeley, 2023
