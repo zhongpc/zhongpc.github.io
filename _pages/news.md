@@ -1,20 +1,20 @@
 ---
 layout: archive
-title: "News"
+# title: "News"
 permalink: /news/
 author_profile: true
 ---
 {% include base_path %}
 
-Upcoming
+## *UPCOMING*
 
 * <span style="color: DodgerBlue">[04/2025]</span> I will be attending the Molecular Dynamics for Material Science from April 7-11, 2025, at the Lorentz Center in Leiden, Netherlands. 
 
-* <span style="color: DodgerBlue">[03/2025]</span> We are hosting a symposium on Generative Modeling for Chemistry, Biology, and Material Discovery at the ACS Spring 2025 meeting. Welcome to join & discuss science! [link](https://callforabstracts.acs.org/acsspring2025/COMP)
+* <span style="color: DodgerBlue">[03/2025]</span> We are hosting a symposium on Generative Modeling for Chemistry, Biology, and Material Discovery at the ACS Spring 2025 meeting. Welcome to join & discuss science! [[link]](https://callforabstracts.acs.org/acsspring2025/COMP)
 
-* <span style="color: DodgerBlue">[01/2025]</span> I will be attending the Global Young Scientists Summit held at National University of Singapore from Jan 06 - 11.  [link](https://gyss.nrf.gov.sg/)
+* <span style="color: DodgerBlue">[01/2025]</span> I will be attending the Global Young Scientists Summit held at National University of Singapore from Jan 06 - 11.  [[link]](https://gyss.nrf.gov.sg/)
 
-Past
+## *PAST*
 
 * <span style="color: red">[08/2024]</span> I presented a symposium talk at [2024 Molecular Foundry Annual User Meeting](https://usermeeting2024.foundry.lbl.gov/deep-dive-into-fundamental-insights-for-next-generation-energy-materials/). Welcome to chat & discuss science!
 
