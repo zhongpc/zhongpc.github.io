@@ -6,9 +6,19 @@ author_profile: true
 ---
 {% include base_path %}
 
-* <span style="color: red">[08/2024]</span> I will present a symposium talk at [2024 Molecular Foundry Annual User Meeting](https://usermeeting2024.foundry.lbl.gov/deep-dive-into-fundamental-insights-for-next-generation-energy-materials/). Welcome to chat & discuss science!
+Upcoming
 
-* <span style="color: red">[07/2024]</span> I will attend the Gordon Research Conference on Computational Materials Science and present our recent works on cluster expansion, machine learning potential, and generative models. Welcome to chat & discuss science!
+* <span style="color: DodgerBlue">[04/2025]</span> I will be attending the Molecular Dynamics for Material Science from April 7-11, 2025, at the Lorentz Center in Leiden, Netherlands. 
+
+* <span style="color: DodgerBlue">[03/2025]</span> We are hosting a symposium on Generative Modeling for Chemistry, Biology, and Material Discovery at the ACS Spring 2025 meeting. Welcome to join & discuss science! [link](https://callforabstracts.acs.org/acsspring2025/COMP)
+
+* <span style="color: DodgerBlue">[01/2025]</span> I will be attending the Global Young Scientists Summit held at National University of Singapore from Jan 06 - 11.  [link](https://gyss.nrf.gov.sg/)
+
+Past
+
+* <span style="color: red">[08/2024]</span> I presented a symposium talk at [2024 Molecular Foundry Annual User Meeting](https://usermeeting2024.foundry.lbl.gov/deep-dive-into-fundamental-insights-for-next-generation-energy-materials/). Welcome to chat & discuss science!
+
+* <span style="color: red">[07/2024]</span> I presented the Gordon Research Conference on Computational Materials Science and present our recent works on cluster expansion, machine learning potential, and generative models. Welcome to chat & discuss science!
 
 * <span style="color: red">[06/2024]</span> Our work "Inpainting crystal structure generations with score-based denoising" is accepted by [ICML 2024 AI for Science Workshop](https://openreview.net/forum?id=T1mIt5exUF). 
 
