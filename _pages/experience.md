@@ -20,7 +20,7 @@ redirect_from:
 	<br /> Advisor: Gerbrand Ceder
 * B.S. in Physics, University of Science and Technology of China, 2018
 	* Thesis: "Electronic transport properties in two-dimensional disordered mesoscopic systems"
-	<br /> Advisors: Jian Wang and Zhenhua Qiao
+	<br /> Advisors: Zhenhua Qiao and Jian Wang
 
 
 
