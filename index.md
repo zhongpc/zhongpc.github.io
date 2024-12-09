@@ -47,7 +47,7 @@ layout: default
     </ul> -->
     </p>
     <br>
-    <img src='/img/NUS.png' class="responsive-image" alt="NUS">
+    <img src='/img/nus.png' class="responsive-image" alt="NUS">
     <br>
 </div>
 
