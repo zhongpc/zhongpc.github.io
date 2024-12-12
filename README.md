@@ -1,31 +1,125 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+Research Group Web Site Template
+================================
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+This is a [Jekyll][]-based Web site intended for research groups. Your group should be able to get up and running with minimal fuss.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+<p align="center">
+<img src="screenshot.png" width="387" height="225" alt="screenshot of the template">
+</p>
 
-# Instructions
+This project originated at the University of Washington.  You can see the machinery working live at [our site][sampa].
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][license].
 
-See more info at https://academicpages.github.io/
+[sampa]: http://sampa.cs.washington.edu/
+[license]: https://creativecommons.org/licenses/by-nc/4.0/
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Features
+--------
 
-# Changelog -- bugfixes and enhancements
+* Thanks to [Jekyll][], content is just text files. So even faculty should be able to figure it out.
+* Publications list generated from BibTeX.
+* Personnel list. Organize your professors, students, staff, and alumni.
+* Combined news stream and blog posts.
+* Easily extensible navigation bar.
+* Responsive (mobile-ready) design based on [Bootstrap][].
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+[Bootstrap]: http://getbootstrap.com/
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+
+Setup
+-----
+
+1. Install the dependencies. You will need [Python][], [bibble][] (`pip install bibble`), and [Jekyll][] (`gem install jekyll`).
+2. [Fork][] this repository on GitHub.
+3. Clone the fork to your own machine: `git clone git@github.com:yourgroup/research-group-web.git`.
+4. Add an "upstream" remote for the original repository so you can stay abreast of bugfixes: `git remote add upstream https://github.com/uwsampa/research-group-web.git`.
+5. Customize. Start with the `_config.yml` file, where you enter the name of the site and its URL.
+6. Type `make` to build the site and then run `make serve` to view your site.
+7. Keep adding content. See below for instructions for each of the various sections.
+8. Periodically pull from the upstream repository: `git pull upstream master`.
+
+[Python]: https://www.python.org/
+[Fork]: https://github.com/uwsampa/research-group-web/fork
+
+
+Publication List
+----------------
+
+The list of publications is in `bib/pubs.bib`. Typing `make` will generate `pubs.html`, which contains a pretty, sorted HTML-formatted list of papers. The public page, `publications.html`, also has a link to download the original BibTeX.
+
+
+News Items and Blog Posts
+-------------------------
+
+For both long-form blog posts and short news updates, we use Jekyll's blogging system. To post a new item of either type, you create a file in the `_posts` directory using the naming convention `YYYY-MM-DD-title-for-url.md`. The date part of the filename always matters; the title part is currently only used for full blog posts (but is still required for news updates).
+
+The file must begin with [YAML front matter][yfm]. For news updates, use this:
+
+    ---
+    layout: post
+    shortnews: true
+    ---
+
+For full blog posts, use this format:
+
+    ---
+    layout: post
+    title:  "Some Great Title Here"
+    ---
+
+And concoct a page title for your post. The body of the post goes after the `---` in either case.
+
+You can also customize the icon that is displayed on the news feed. By default it's `newspaper-o`. We use icons from the [FontAwesome][fa] icon set.
+
+[yfm]: http://jekyllrb.com/docs/frontmatter/
+[fa]: http://fontawesome.io/icons/
+
+Projects
+--------
+
+To create a project, just create a markdown file in the `_projects` folder. Here are the things you can put in the YAML frontmatter:
+
+- `title:` The project title.
+- `notitle:` Set this to `true` if you don't want a title displayed on the project card. Optional.
+- `description:` The text shown in the project card. It supports markdown.
+- `people:` The people working on the project. This is a list of keys from the `_data/people.yml` file.
+- `layout: project` This sets the layout of the actual project page. It should be set to `project`.
+- `image:` The URL of an image for the project. This is shown on both the project page and the project card. Optional.
+- `last-updated:` Date in the format of `YYYY-MM-DD`. The project cards are sorted by this, most recent first.
+- `status: inactive` Set this to `inactive` if don't want the project to appear on the front page. Just ignore it otherwise.
+- `link:` Set this to an external URL if this project has a page somewhere else on the web. If you don't have a `link:`, then the content of this markdown file (below the YAML frontmatter) will be this project's page.
+- `no-link: true` Set this if you just don't want a project page for your project.
+
+Personnel
+---------
+
+People are listed in a [YAML][] file in `_data/people.yml`. You can list the name, link, bio, and role of each person. Roles (e.g., "Faculty", "Staff", and "Students") are defined in `_config.yml`.
+
+[YAML]: https://en.wikipedia.org/wiki/YAML
+
+
+Building
+--------
+
+The requirements for building the site are:
+
+* [Jekyll][]: run `gem install jekyll`
+* [bibble][]: available on `pip`
+* ssh and rsync, only if you want to deploy directly.
+
+`make` compiles the bibliography and the website content to the `_site`
+directory. To preview the site, run `jekyll serve`` and head to
+http://0.0.0.0:5000.
+
+
+Deploying to Your Sever
+-----------------------
+
+To set up deployments, edit the Makefile and look for the lines where `HOST` and `DIR` are defined. Change these to the host where your HTML files should be copied to.
+
+To upload a new version of the site via rsync over ssh, type `make deploy`. A web hook does this automatically when you push to GitHub. Be aware that the Makefile is configured to have rsync delete stray files from the destination directory.
+
+[Jekyll]: http://jekyllrb.com/
+[bibble]: https://github.com/sampsyo/bibble/
