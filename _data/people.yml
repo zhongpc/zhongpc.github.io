@@ -1,6 +1,6 @@
 prof:
     display_name: "Dr. Peichen Zhong"
-    webpage: "https://scholar.google.com/citations?user=Ej2q3FUAAAAJ&hl=en"
+    webpage: "https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate"
     # github: profx
     role: faculty
     image: /img/people/Peichen.png
@@ -31,7 +31,7 @@ grad-a:
     image: /img/people/atom.png
     bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & machine learning for materials chemistry. Please see openings for more information.
 
-grad-b:
+grad-z:
     display_name: "Join us!"
     role: grad
     image: /img/people/atom.png
