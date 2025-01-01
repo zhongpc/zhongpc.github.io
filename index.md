@@ -34,7 +34,7 @@ layout: default
     <p class="aligned-paragraph">
         Welcome to the <strong>A</strong>pplied <strong>M</strong>achine Learning and <strong>M</strong>aterials <strong>M</strong>odeling (<strong>AM3</strong>) Group! 😀
         <br><br>
-        We are a theoretical & computational research group at <a href="https://xxx/">Department of Materials Science and Engineering</a>, <a href="xxx">National University of Singapore</a>. 
+        We are a theoretical & computational research group at <a href="https://www.nus.edu.sg/">Department of Materials Science and Engineering</a>, <a href="https://cde.nus.edu.sg/mse/">National University of Singapore</a>. 
         Our research focuses on applying first-principles calculations, statistical mechanics, and machine learning to understand materials chemistry and address challenges in renewable energy applications.
         <br><br>
         We are looking for Ph.D. students and research scholars to join the team. Please see <a href="/opening.html">openings</a>!
