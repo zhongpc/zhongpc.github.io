@@ -162,10 +162,10 @@ section {
         font-weight: 300;
         font-size: 12px;
         max-height: 100px; // Set a maximum height
-        overflow: hidden; // Hide overflow content
-        text-overflow: ellipsis; // Add ellipsis for overflowing text
+        // overflow: hidden; // Hide overflow content
+        // text-overflow: ellipsis; // Add ellipsis for overflowing text
         display: -webkit-box;
-        -webkit-line-clamp: 5; // Limit to 5 lines
+        // -webkit-line-clamp: 5; // Limit to 5 lines
         -webkit-box-orient: vertical;
         white-space: pre-wrap; // Allow wrapping within the container
     }
@@ -173,6 +173,21 @@ section {
     .person-name {
         margin: 0;
     }
+
+    .email {
+        display: block;
+        color: #0066cc;
+        text-decoration: none;
+        font-size: 14px;
+        margin-top: 2px;
+        transition: color 0.2s ease;
+    }
+
+    .email:hover {
+        color: #004499;
+        text-decoration: underline;
+    }
+
 }
 
 .person-without-image {

@@ -1,11 +1,10 @@
 prof:
     display_name: "Dr. Peichen Zhong"
-    webpage: "https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate"
     # github: profx
     role: faculty
     image: /img/people/Peichen.png
-    bio: "Peichen received a B.S. in Physics from USTC (2018) and a Ph.D. in Materials Science from UC Berkeley (2023). After finishing postdoc research at LBNL & BIDMaP, he will be joining NUS-MSE as a Presidential Young Professor (tenure-track assistant professor) in 2025 Fall. His research interests are in computational modeling and AI for materials & chemistry."
-    
+    bio: "Peichen received a B.S. in Physics from USTC (2018) and a Ph.D. in Materials Science from UC Berkeley (2023). After finishing postdoc research at LBNL & BIDMaP, he will be joining NUS-MSE as a Presidential Young Professor (tenure-track assistant professor) in 2025 Fall. He is interested in computational modeling and AI for materials & chemistry."
+    email: "zhongpc[AT]berkeley.edu"
 
 prof-empty:
     display_name: ""

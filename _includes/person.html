@@ -34,6 +34,12 @@ there by default by Bootstrap columns.
         </div>
         <div class="col pl-0">
             <h6 class="person-name"> {{ name }} </h6>
+            {% if person.email %}
+            <a href="mailto:{{ person.email | escape }}"
+            style="text-decoration: none">
+             <div class="email">{{ person.email }}</div>
+         </a>
+            {% endif %}
             {% if person.bio %}
                 <div class="bio">{{person.bio}}</div>
             {% endif %}

@@ -115,14 +115,21 @@ section {
     font-weight: 300;
     font-size: 12px;
     max-height: 100px;
-    overflow: hidden;
-    text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 5;
     -webkit-box-orient: vertical;
     white-space: pre-wrap; }
   .person .person-name {
     margin: 0; }
+  .person .email {
+    display: block;
+    color: #0066cc;
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 2px;
+    transition: color 0.2s ease; }
+  .person .email:hover {
+    color: #004499;
+    text-decoration: underline; }
 
 .person-without-image {
   margin: 0; }

@@ -14,7 +14,7 @@ text-decoration hack is for Safari. We don't SVGs to be underlined.
 {% if person.image %}
     {% capture image %}
         <img class="rounded-circle profile"
-             alt="{{ person.display_name }}"
+             alt="{{ person.display_name }} "
              title="{{ person.display_name }}"
              src="{{ site.base }}{{ person.image }}" />
     {% endcapture %}
@@ -37,8 +37,9 @@ text-decoration hack is for Safari. We don't SVGs to be underlined.
 {% if person.webpage %}
     <a href="{{ person.webpage | escape }}"
        style="text-decoration: none">
-        {{ image }}
     </a>
+    {{ image }}
 {% else %}
     {{ image }}
 {% endif %}
+

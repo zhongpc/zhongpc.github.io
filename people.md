@@ -14,7 +14,6 @@ no-picture-role-groups:
 ---
 
 <section class="people row justify-content-between">
-    
     {% for role-group in page.picture-role-groups %}
         <div class="col-md-{{ role-group.width }}">
             {% for role in role-group.roles %}
