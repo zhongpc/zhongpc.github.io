@@ -24,12 +24,12 @@ The presentation from Prof. Silvija Gradecak-Garaj is particularly useful.
 We are actively looking for candidates in different intakes, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application. The general requirements are:
 * B.S./M.S. in physics/chemistry/computer science/materials science or related fields
 * TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
-* Please email (1) your CV and (2) a description of your research topics of interest. 
+* Please email (1) your CV and (2) a description of your research topics of interest, and indicate which intake you would like to apply.
 * We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">Graduate Scholarships</a>:
-    * NUS-SINGA Scholarship (no service commitments) 
-    * A*STAR Scholarship (with service commitments) 
-    * AI Singapore Scholarship (with service commitments) 
-    * President's Graduate Fellowship (by nomination)
+    * NUS-SINGA Scholarship  <span style="color: lightgray">[no service commitments]</span>
+    * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
+    * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
+    * President's Graduate Fellowship  <span style="color: lightgray">[by nomination]</span>
     
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to collaboratively explore exciting research areas.
