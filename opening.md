@@ -25,7 +25,7 @@ We are actively looking for candidates in different intakes, please check the <a
 * B.S./M.S. in physics/chemistry/computer science/materials science or related fields
 * TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a description of your research topics of interest, and indicate which intake you would like to apply.
-* We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">Graduate Scholarships</a>:
+* We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
     * NUS-SINGA Scholarship  <span style="color: lightgray">[no service commitments]</span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
