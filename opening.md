@@ -21,7 +21,7 @@ We are actively looking for self-motivated <strong>Ph.D. students</strong> and <
 
 <span style="text-decoration: underline">Interested in pursuing a PhD in science?</span> We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
 The presentation from Prof. Silvija Gradecak-Garaj is particularly useful.
-In general, we are actively looking for candidates, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application. The general requirements are:
+In general, <span style="text-decoration: underline">we are actively looking for candidates.</span> Please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
 * B.S./M.S. in physics/chemistry/computer science/materials science or related fields
 * TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a description of your research topics of interest, and indicate which semester you would like to apply.
@@ -30,7 +30,7 @@ In general, we are actively looking for candidates, please check the <a href="ht
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship  <span style="color: lightgray">[by nomination]</span>
-    
+
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to collaboratively explore exciting research areas.
     * Our computational group focuses on both methodological development and applications. We will have close collaborations with experimental researchers.
