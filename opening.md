@@ -30,7 +30,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship  <span style="color: lightgray">[by nomination]</span>
-
+* The PhD positions are well-funded in our group. We do not accept self-funded students (including CSC scholarships).
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to collaboratively explore exciting research areas.
     * Our computational group focuses on both methodological development and applications. We will have close collaborations with experimental researchers.
