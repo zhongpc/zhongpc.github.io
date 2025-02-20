@@ -4,7 +4,7 @@ layout: default
 
 picture-role-groups:
 - {roles: [faculty], width: 30}
-# - {roles: [postdoc], width: 30}
+- {roles: [postdoc], width: 30}
 - {roles: [grad], width: 30}
 # - {roles: [visit], width: 30}
 

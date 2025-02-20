@@ -14,7 +14,7 @@ roles:
   - key: faculty
     name: Principal Investigator
   - key: postdoc
-    name: Postdoctoral Scholars
+    name: Postdoc Fellows
   - key: grad
     name: Graduate Students
   - key: visit
