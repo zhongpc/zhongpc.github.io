@@ -20,7 +20,8 @@ We are actively looking for self-motivated <strong>Ph.D. students</strong> and <
 <strong>Graduate Students</strong>:
 
 <span style="text-decoration: underline">Interested in pursuing a PhD in science?</span> We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
-The presentation from Prof. Silvija Gradecak-Garaj is particularly useful.
+The presentation from Prof. Silvija Gradecak-Garaj is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, you are welcome to get in touch.
+
 In general, <span style="text-decoration: underline">we are actively looking for candidates.</span> Please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
 * B.S./M.S. in physics/chemistry/computer science/materials science or related fields
 * TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
