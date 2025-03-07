@@ -5,7 +5,7 @@ title: Openings
 
 ---
 
-We are actively looking for self-motivated <strong>Ph.D. students</strong> and <strong>research scholars</strong> who are interested in computational modeling for materials physics/chemistry and the general topics in AI4Science. <span style="text-decoration: underline">You are welcome to get in touch if you agree with our group values</span>:
+We are actively looking for passionate <strong>Ph.D. students</strong> and <strong>research scholars</strong> who are interested in computational modeling for materials physics/chemistry and the general topics in AI4Science. <span style="text-decoration: underline">You are welcome to get in touch if you agree with our group values</span>:
 
  * <span style="color: darkred">Our group is grounded in kindness and we strive to create an inclusive environment.</span>
  * <span style="color: red">We do not tolerate harassment or discrimination in any form.</span>
@@ -57,8 +57,9 @@ In general, <span style="text-decoration: underline">we are actively looking for
 * Please email your CV and transcript -->
 
 
-<strong>Contact</strong>: <a href="mailto:peichenzhong617@gmail.com">peichenzhong617@gmail.com</a>
-
+<strong>Contact</strong>: <a href="mailto:peichenzhong617@gmail.com">peichenzhong617@gmail.com</a> [For Hiring]
+<br>
+(Please do not seed application email to the [.edu] address. It is hard for me to track your application materials. Thank you!)
 <br>
 
 
