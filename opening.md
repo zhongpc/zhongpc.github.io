@@ -57,9 +57,9 @@ In general, <span style="text-decoration: underline">we are actively looking for
 * Please email your CV and transcript -->
 
 
-<strong>Contact</strong>: <a href="mailto:peichenzhong617@gmail.com">peichenzhong617@gmail.com</a> [For Hiring]
+<strong>Contact</strong>: <a href="mailto:peichenzhong617@gmail.com">peichenzhong617@gmail.com</a>
 <br>
-(Please do not seed application email to the [.edu] address. It is hard for me to track your application materials. Thank you!)
+Please do not seed application to the [.edu] email address. It is hard for me to track your application materials. Thank you!
 <br>
 
 
