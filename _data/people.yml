@@ -50,5 +50,8 @@ visit-a:
 
 
 # alum-a:
-#     display_name: "Alum A (PhD 2020) -> Microsoft Research"
+#     display_name: "Alum A (Undergrad Summer Intern) -> XXX"
+#     role: alum
+# alum-b:
+#     display_name: "Alum A (Visiting PhD) -> XXX"
 #     role: alum

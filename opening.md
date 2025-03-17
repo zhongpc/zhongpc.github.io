@@ -38,7 +38,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
     * As a collaborative team, we encourage our graduate students to thrive in interdisciplinary research environments, find their interests, and develop their careers.
 
 
-<strong>Postdoctoral Scholars</strong>:
+<strong>Postdoctoral Fellows</strong>:
 * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have strong interest in working with us, you are welcome to get in touch with CV + research interest.
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
 * <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any opennings, I will keep your materials on file and reach out if specific openings arise at a future date.
@@ -46,9 +46,10 @@ In general, <span style="text-decoration: underline">we are actively looking for
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
     * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
     * Other fellowships are potentially available to apply (e.g., [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship) and [NUS Society of Fellows](https://cde.nus.edu.sg/mse/nus-society-of-fellows-nsof/)). Generally, successful candidates are expected to graduate from top universities or prestigious PhD programs. 
-    
-<!-- <strong>Visiting Scholars</strong>:
-* Please email Dr. Zhong directly to discuss (and indicate the funding resources for > one-year visit). -->
+
+
+<strong>Visiting Scholars</strong>:
+* Please email Dr. Zhong directly to discuss (and indicate the funding resources for > six-month visit).
 
 
 <!-- <strong>Undergraduate Students</strong>:
@@ -59,7 +60,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
 
 <strong>Contact</strong>: <a href="mailto:peichenzhong617@gmail.com">peichenzhong617@gmail.com</a>
 <br>
-Please do not seed application to the [.edu] email address. It is hard for me to track your application materials. Thank you!
+Please do not send application to the [.edu] email address. It is hard for me to track your application materials. Thank you!
 <br>
 
 
