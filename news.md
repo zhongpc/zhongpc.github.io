@@ -10,11 +10,13 @@ title:
 
 * <span style="color: DodgerBlue">[06/2025]</span> Dr. Zhong will be attending the ICMAT 2025 at Singapore from June 30 to July 4, 2025. Welcome to discuss science! [[link]](https://icmat2025.mrs.org.sg/symposia-m/)
 
+* <span style="color: DodgerBlue">[04/2025]</span> Dr. Zhong will be attending the ICLR 2025 in Singapore from April 26-28, 2025. Welcome to discuss science!
+
 * <span style="color: DodgerBlue">[04/2025]</span> Dr. Zhong will be attending the Molecular Dynamics for Material Science Workshop from April 7-11, 2025, at the Lorentz Center in Leiden, Netherlands. Welcome to discuss science! [[link]](https://www.lorentzcenter.nl/index.php?pntType=ConPagina&id=2060&conPaginaProgrammaDagId=660&pntHandler=DownloadAction)
 
-* <span style="color: DodgerBlue">[03/2025]</span> We are hosting a symposium on Generative Modeling for Chemistry, Biology, and Material Discovery at the ACS Spring 2025 meeting. Welcome to join & discuss science! [[link]](https://acs.digitellinc.com/p/s/generative-modeling-for-chemistry-biology-and-material-discovery-626126)
-
 #### *Past*
+
+* <span style="color: Red">[03/2025]</span> We have successfully organized the symposium on Generative Modeling for Chemistry, Biology, and Material Discovery at the ACS Spring 2025 meeting. [[link]](https://acs.digitellinc.com/p/s/generative-modeling-for-chemistry-biology-and-material-discovery-626126)
 
 * <span style="color: Red">[01/2025]</span> Dr. Zhong attended the Global Young Scientists Summit held at the National University of Singapore from Jan 06-11, 2025. [[link]](https://gyss.nrf.gov.sg/)
 

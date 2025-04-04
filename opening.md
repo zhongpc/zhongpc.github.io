@@ -20,7 +20,7 @@ We are actively looking for passionate <strong>Ph.D. students</strong> and <stro
 <strong>Graduate Students</strong>:
 
 <span style="text-decoration: underline">Interested in pursuing a PhD in science?</span> We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
-The presentation from Prof. Silvija Gradecak-Garaj is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, you are welcome to get in touch.
+The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, you are welcome to get in touch.
 
 In general, <span style="text-decoration: underline">we are actively looking for candidates.</span> Please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
 * B.S./M.S. in physics/chemistry/computer science/materials science or related fields
@@ -45,7 +45,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
     * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
-    * Other fellowships are potentially available to apply (e.g., [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship) and [NUS Society of Fellows](https://cde.nus.edu.sg/mse/nus-society-of-fellows-nsof/)). Generally, successful candidates are expected to graduate from top universities or prestigious PhD programs. 
+    * Other fellowships are potentially available to apply (e.g., [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship). Generally, successful candidates are expected to graduate from top universities or prestigious PhD programs. 
 
 
 <strong>Visiting Scholars</strong>:
