@@ -45,7 +45,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
     * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
-    * Other fellowships are potentially available to apply (e.g., [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship). Generally, successful candidates are expected to graduate from top universities or prestigious PhD programs. 
+    * Other fellowships are potentially available to apply (e.g., [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship)). Generally, successful candidates are expected to graduate from top universities or prestigious PhD programs. 
 
 
 <strong>Visiting Scholars</strong>:

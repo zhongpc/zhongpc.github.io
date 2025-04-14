@@ -12,9 +12,10 @@ title:
 
 * <span style="color: DodgerBlue">[04/2025]</span> Dr. Zhong will be attending the ICLR 2025 in Singapore from April 26-28, 2025. Welcome to discuss science!
 
-* <span style="color: DodgerBlue">[04/2025]</span> Dr. Zhong will be attending the Molecular Dynamics for Material Science Workshop from April 7-11, 2025, at the Lorentz Center in Leiden, Netherlands. Welcome to discuss science! [[link]](https://www.lorentzcenter.nl/index.php?pntType=ConPagina&id=2060&conPaginaProgrammaDagId=660&pntHandler=DownloadAction)
 
 #### *Past*
+
+* <span style="color: Red">[04/2025]</span> Dr. Zhong attended the Molecular Dynamics for Material Science Workshop from April 7-11, 2025, at the Lorentz Center in Leiden, Netherlands. [[link]](https://www.lorentzcenter.nl/index.php?pntType=ConPagina&id=2060&conPaginaProgrammaDagId=660&pntHandler=DownloadAction)
 
 * <span style="color: Red">[03/2025]</span> We have successfully organized the symposium on Generative Modeling for Chemistry, Biology, and Material Discovery at the ACS Spring 2025 meeting. [[link]](https://acs.digitellinc.com/p/s/generative-modeling-for-chemistry-biology-and-material-discovery-626126)
 
