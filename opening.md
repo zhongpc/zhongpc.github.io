@@ -75,6 +75,7 @@ We are looking for candidates who have a background in some of the following are
 * Proficiency in scientific computing with Python libraries
 * Expertise in (atomistic) thermodynamic & kinetic simulations (e.g., Monte Carlo, molecular dynamics)
 * Expertise in computational chemistry (e.g., rare-event sampling, reaction network, high-throughput computation)
+* Expertise in generative models for scientific applications (e.g., diffusion/flow/autoregressive models, LLMs)
 
 <!-- It is a significant advantage if you have one or more of the following experiences:
 
