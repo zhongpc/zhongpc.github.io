@@ -17,6 +17,14 @@ We are actively looking for passionate <strong>Ph.D. students</strong> and <stro
 
 
 ---
+
+<strong>Contact</strong>: <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>
+<br>
+<span style="color: brown">Please do NOT send application to the [.edu] email address. It is hard for me to track your application materials. Thank you!</span>
+<br>
+
+
+---
 <strong>Graduate Students</strong>:
 
 <span style="text-decoration: underline">Interested in pursuing a PhD in science?</span> We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
@@ -58,14 +66,9 @@ In general, <span style="text-decoration: underline">we are actively looking for
 * Please email your CV and transcript -->
 
 
-<strong>Contact</strong>: <a href="mailto:peichenzhong617@gmail.com">peichenzhong617@gmail.com</a>
-<br>
-Please do not send application to the [.edu] email address. It is hard for me to track your application materials. Thank you!
-<br>
 
-
-### Preferred Qualifications
 ---
+### Preferred Qualifications
 
 We are looking for candidates who have a background in some of the following areas:
 
