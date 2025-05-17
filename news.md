@@ -6,7 +6,7 @@ title:
 
 #### *Upcoming*
 
-* <span style="color: DodgerBlue">[04/2026]</span> We are going to organize a symposium on Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design at 2026 MRS Spring Conference. Welcome to discuss science!
+* <span style="color: DodgerBlue">[04/2026]</span> We are going to organize a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at 2026 MRS Spring Conference. Welcome to submit abstracts and discuss science!
 
 * <span style="color: DodgerBlue">[07/2025]</span> Dr. Zhong will be attending the AI4X Conference held at the National University of Singapore from July 8 to July 11, 2025. Welcome to discuss science!
 
