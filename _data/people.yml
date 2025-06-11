@@ -3,7 +3,7 @@ prof:
     # github: profx
     role: faculty
     image: /img/people/Peichen.png
-    bio: "Peichen received a B.S. in Physics from USTC (2018) and a Ph.D. in Materials Science from UC Berkeley (2023). After finishing postdoc research at LBNL & BIDMaP, he will be joining NUS MSE as a Presidential Young Professor (tenure-track assistant professor) in 2025 Fall. He is interested in computational modeling and AI for materials & chemistry/physics. He enjoys hiking, traveling, spicy cuisines, and writing with LaTeX."
+    bio: "Peichen received a B.S. in Physics from USTC (2018) and a Ph.D. in Materials Science from UC Berkeley (2023). After finishing postdoc research at LBNL & BIDMaP, he joined NUS MSE as a Presidential Young Professor (tenure-track assistant professor) from July 2025. He is interested in computational modeling and AI for materials & chemistry/physics. He enjoys hiking, traveling, spicy cuisines, and writing with LaTeX."
     email: "am3grouphiring[AT]gmail.com"
 
 prof-empty:
@@ -15,7 +15,7 @@ post-a:
     display_name: "Join us!"
     role: postdoc
     image: /img/people/atom.png
-    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & machine learning for materials chemistry. Please see openings for more information.
+    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & AI for materials chemistry. Please see openings for more information.
     
 empty:
     display_name: ""
@@ -28,13 +28,13 @@ grad-a:
     display_name: "Join us!"
     role: grad
     image: /img/people/atom.png
-    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & machine learning for materials chemistry. Please see openings for more information.
+    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & AI for materials chemistry. Please see openings for more information.
 
 grad-z:
     display_name: "Join us!"
     role: grad
     image: /img/people/atom.png
-    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & machine learning for materials chemistry. Please see openings for more information.
+    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & AI for materials chemistry. Please see openings for more information.
 
 
 visit-a:

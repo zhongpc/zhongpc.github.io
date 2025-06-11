@@ -41,8 +41,8 @@ layout: default
         Currently, we are particularly interested in
         <ul style="list-style-type: disc; padding-left: 40px;">
             <li> Computational modeling of complex materials for renewable energy applications (e.g., Li/Na-ion battery cathodes/electrolytes/interfaces)</li>
-            <li>Atomistic simulations with statistical mechanics & first-principles calculations in disordered/amorphous/interfacial systems</li>
-            <li>AI for Science: machine learning interatomic potentials, generative models, and reaction networks development & applications</li>
+            <li> Atomistic simulations with statistical mechanics & first-principles calculations in disordered/amorphous/interfacial systems</li>
+            <li> AI for Science: machine learning interatomic potentials and generative models in scientific applications (e.g., chemical/solid-state reactions)</li>
         </ul>
         <!-- We are also a group of computational scientists working closely with experimentalists on materials applications, including energy storage using Li/Na-ion batteries, inorganic synthesis, catalysis, and high-throughput virtual screening for functional molecules/materials, etc. -->
         </p>
