@@ -6,7 +6,8 @@ picture-role-groups:
 - {roles: [faculty], width: 30}
 - {roles: [postdoc], width: 30}
 - {roles: [grad], width: 30}
-# - {roles: [visit], width: 30}
+- {roles: [visit], width: 30}
+# - {roles: [staff], width: 30}
 
 
 no-picture-role-groups:

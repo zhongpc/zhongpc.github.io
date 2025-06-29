@@ -38,8 +38,8 @@ In general, <span style="text-decoration: underline">we are actively looking for
     * NUS-SINGA Scholarship  <span style="color: lightgray">[no service commitments]</span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
-    * President's Graduate Fellowship  <span style="color: lightgray">[by nomination]</span>
-* The PhD positions are well-funded in our group. We do not accept self-funded students (including CSC scholarships).
+    * President's Graduate Fellowship (PGF)  <span style="color: lightgray">[by nomination]</span>
+* The PhD positions are well-funded in our group. We do not accept self-funded students (including CSC scholarships). 
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to explore exciting research areas collaboratively.
     * We are a TechTeam-style group. We ask for help and value direct communication.
@@ -58,7 +58,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
 
 
 <strong>Visiting Scholars</strong>:
-* Please email Dr. Zhong directly to discuss (and indicate the funding resources for a visit > six-month).
+* Please email Dr. Zhong directly to discuss (and indicate the funding resources for a visit > six months).
 
 
 <!-- <strong>Undergraduate Students</strong>:

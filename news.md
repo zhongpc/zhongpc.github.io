@@ -20,7 +20,7 @@ title:
 
 * <span style="color: Red">[04/2025]</span> Dr. Zhong attended the Molecular Dynamics for Material Science Workshop from April 7-11, 2025, at the Lorentz Center in Leiden, Netherlands. [[link]](https://www.lorentzcenter.nl/index.php?pntType=ConPagina&id=2060&conPaginaProgrammaDagId=660&pntHandler=DownloadAction)
 
-* <span style="color: Red">[03/2025]</span> We have successfully organized the symposium on Generative Modeling for Chemistry, Biology, and Material Discovery at the ACS Spring 2025 meeting. [[link]](https://acs.digitellinc.com/p/s/generative-modeling-for-chemistry-biology-and-material-discovery-626126)
+* <span style="color: Red">[03/2025]</span> We have successfully organized the symposium on Generative Modeling for Chemistry, Biology, and Material Discovery at the ACS Spring 2025 meeting. [[link]](https://acs.digitellinc.com/p/s/generative-modeling-for-chemistry-biology-and-material-discovery-626126) [(Featured by Nature Computational Science)](https://www.nature.com/articles/s43588-025-00802-z)
 
 * <span style="color: Red">[01/2025]</span> Dr. Zhong attended the Global Young Scientists Summit held at the National University of Singapore from Jan 06-11, 2025. [[link]](https://gyss.nrf.gov.sg/)
 

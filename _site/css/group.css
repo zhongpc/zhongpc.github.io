@@ -10,15 +10,15 @@ body {
 
 .footer {
   /* padding-top: 19px; */
-  color: #999;
+  color: #808080;
   border-top: 1px solid #EEE;
   text-align: center;
   font-size: 0.8em; }
   .footer a:link, .footer a:visited {
-    color: #999; }
+    color: #808080; }
 
 .fa {
-  color: #999; }
+  color: #808080; }
 
 a > .fa {
   display: inline; }
@@ -44,7 +44,7 @@ a > .fa {
 
 /* Front page news. */
 ul.news .date {
-  color: #999;
+  color: #808080;
   font-weight: bold; }
 ul.news > li {
   margin-top: 1em; }
@@ -68,9 +68,11 @@ ul.news > li {
     /* Forces a column break before the element */ }
 
   .role.faculty {
-    column-count: 2;
+    column-count: 1;
     break-before: column;
-    /* Forces a column break before the element */ }
+    /* Forces a column break before the element */
+    max-height: 200px;
+    max-width: 700px; }
 
   .role.postdoc {
     column-count: 2;
@@ -82,7 +84,13 @@ ul.news > li {
   .role.visit {
     column-count: 2;
     break-before: column;
-    /* Forces a column break before the element */ } }
+    /* Forces a column break before the element */ }
+
+  .role.staff {
+    column-count: 2;
+    break-before: column;
+    /* Forces a column break before the element */
+    margin-bottom: 10px; } }
 .title img {
   max-width: 50%; }
 
@@ -111,10 +119,10 @@ section {
     height: 100px;
     width: 100px; }
   .person .bio {
-    color: #999;
+    color: #003D7C;
     font-weight: 300;
     font-size: 12px;
-    max-height: 100px;
+    max-height: 200px;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     white-space: pre-wrap; }
@@ -122,11 +130,14 @@ section {
     margin: 0; }
   .person .email {
     display: block;
-    color: #0066cc;
+    color: #EF7C00;
     text-decoration: none;
     font-size: 14px;
     margin-top: 2px;
     transition: color 0.2s ease; }
+  .person .degree {
+    color: #EF7C00;
+    font-size: 12px; }
   .person .email:hover {
     color: #004499;
     text-decoration: underline; }

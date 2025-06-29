@@ -1,8 +1,10 @@
 ---
 ---
 
-$gray: #999;
+$gray: #808080;
 $light-gray: #EEE;
+$nus-blue: #003D7C;
+$nus-orange: #EF7C00;
 $white: #FFF;
 
 /* Space out content a bit */
@@ -94,11 +96,15 @@ ul.news {
     .role.grad {
         column-count: 2;
         break-before: column; /* Forces a column break before the element */
+        // margin-bottom: 20px;
     }
 
     .role.faculty {
-        column-count: 2;
+        column-count: 1;
         break-before: column; /* Forces a column break before the element */
+        max-height: 200px;
+        max-width: 700px;
+        // margin-bottom: -20px;
     }
     
     .role.postdoc {
@@ -110,6 +116,13 @@ ul.news {
     .role.visit {
         column-count: 2;
         break-before: column; /* Forces a column break before the element */
+        // margin-bottom: 20px;
+    }
+
+    .role.staff {
+        column-count: 2;
+        break-before: column; /* Forces a column break before the element */
+        margin-bottom: 10px;
     }
 }
 
@@ -158,10 +171,10 @@ section {
     }
 
     .bio {
-        color: $gray;
+        color: $nus-blue;
         font-weight: 300;
         font-size: 12px;
-        max-height: 100px; // Set a maximum height
+        max-height: 200px; // Set a maximum height
         // overflow: hidden; // Hide overflow content
         // text-overflow: ellipsis; // Add ellipsis for overflowing text
         display: -webkit-box;
@@ -176,11 +189,16 @@ section {
 
     .email {
         display: block;
-        color: #0066cc;
+        color: $nus-orange;
         text-decoration: none;
         font-size: 14px;
         margin-top: 2px;
         transition: color 0.2s ease;
+    }
+
+    .degree {
+        color: $nus-orange;
+        font-size: 12px;
     }
 
     .email:hover {

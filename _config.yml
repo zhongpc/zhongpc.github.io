@@ -14,9 +14,11 @@ roles:
   - key: faculty
     name: Principal Investigator
   - key: postdoc
-    name: Postdoc Fellows
+    name: Research Fellows
   - key: grad
     name: Graduate Students
+  - key: staff
+    name: Research Staff
   - key: visit
     name: Visiting Scholars
   - key: ugrad
@@ -43,7 +45,7 @@ navigation:
     link: /news.html
   - title: Research
     link: /research.html
-  - title: People
+  - title: Team
     link: /people.html
   - title: Publications
     link: /publications.html

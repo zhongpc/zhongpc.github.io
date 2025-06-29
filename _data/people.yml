@@ -1,46 +1,76 @@
 prof:
     display_name: "Dr. Peichen Zhong"
-    # github: profx
+    # github: zhongpc
     role: faculty
-    image: /img/people/Peichen.png
-    bio: "Peichen received a B.S. in Physics from USTC (2018) and a Ph.D. in Materials Science from UC Berkeley (2023). After finishing postdoc research at LBNL & BIDMaP, he joined NUS MSE as a Presidential Young Professor (tenure-track assistant professor) from July 2025. He is interested in computational modeling and AI for materials & chemistry/physics. He enjoys hiking, traveling, spicy cuisines, and writing with LaTeX."
-    email: "am3grouphiring[AT]gmail.com"
+    image: /img/people/Peichen_.png
+    bio: Peichen grew up in Sichuan (the birthplace of pandas with a lot of spicy food). He received a BSc in Physics from USTC (2018) and a PhD in Materials Science from UC Berkeley (2023), advised by Prof. Gerbrand Ceder. He then completed the postdoctoral work at Lawrence Berkeley National Laboratory (LBNL) and Bakar Institute of Digital Materials for the Planet (<a href='https://bidmap.berkeley.edu/'>BIDMaP</a>), co-advised by Profs. Kristin A. Persson, Bingqing Cheng and Aditi Krishnapriyan. He joined NUS MSE as an Assistant Professor under the Presidential Young Professorship from July 2025. He enjoys traveling, hot pot, and writing with LaTeX. [<a href='https://www.linkedin.com/in/zhongpc'>LinkedIn</a>, <a href='https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>] 
+    email: "zhongpc[AT]nus.edu.sg"
+
 
 prof-empty:
     display_name: ""
     role: faculty
     bio: 
 
-post-a:
-    display_name: "Join us!"
+        
+
+post-junmin:
+    display_name: "Dr. Junmin Chen"
     role: postdoc
     image: /img/people/atom.png
-    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & AI for materials chemistry. Please see openings for more information.
+    bio: Junmin will be joining the group as a postdoctoral research fellow from September 2025. <a href='https://www.linkedin.com/in/junminchen/'>[LinkedIn]</a>
+    degree: "PhD in Materials Science, Tsinghua University"
     
-empty:
+post-zihan:
+    display_name: "Dr. Zihan Zhang"
+    role: postdoc
+    image: /img/people/atom.png
+    bio: Zihan will be joining the group as a postdoctoral research fellow from October 2025. <a href='https://scholar.google.com/citations?user=TjySt5IAAAAJ&hl=en'>[Google Scholar]</a>
+    degree: "PhD in Physics, Jilin University"
+
+
+
+    
+grad-yichen:
+    display_name: "Yicheng Chen"
+    role: grad
+    image: /img/people/YichengChen.png
+    bio: Yicheng is a PhD student with a background in quantum chemistry and machine learning. He previously worked on using graph neural networks to predict molecular and material properties and was a research intern at Microsoft AI4Science (2024). Now, he is exploring how ML can be used for mechanistic understanding in electrochemical systems. Outside of research, he enjoys playing video games - especially RPGs.
+    degree: "PhD student (2025-), BSc/MSc from Fudan University"
+
+
+grad-empty:
     display_name: ""
-    role: postdoc
-    bio: 
-
-
-    
-grad-a:
-    display_name: "Join us!"
     role: grad
+    # image: /img/people/atom.png
+    bio: ""
+    degree: ""
+
+
+staff-a:
+    display_name: "Alice Bob"
+    role: staff
     image: /img/people/atom.png
-    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & AI for materials chemistry. Please see openings for more information.
-
-grad-z:
-    display_name: "Join us!"
-    role: grad
-    image: /img/people/atom.png
-    bio: The AM3 Group is actively searching for new group members who are interested in computational modeling & AI for materials chemistry. Please see openings for more information.
+    bio: XXX. 
+    degree: "Research Engineer"
 
 
-visit-a:
+visit-yubai:
+    display_name: "Yubai Shi"
+    role: visit
+    image: /img/people/YubaiShi.png
+    bio: Yubai is a PhD candidate at the University of Chinese Academy of Sciences (UCAS). He is interested in ferroelectrics, and he prefers using computational methods to investigate the real microscopic physical process and properties of matter, such as machine learning assisted molecular dynamics. In his spare time, he is pursuing his goal of becoming a bodybuilder. He is not only inspired by the most novel and interesting research findings in the lab, but also motivated by the larger muscles in the gym!
+    degree: "Visiting PhD student from UCAS (2025-2026)"
+
+
+
+visit-empty:
     display_name: ""
     role: visit
-    bio: BS in XXX from YYY, MS in ZZZ from WWW. 
+    # image: /img/people/atom.png
+    bio: ""
+    degree: ""
+
 
 
 # grad-z-empty:

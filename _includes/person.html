@@ -40,6 +40,9 @@ there by default by Bootstrap columns.
              <div class="email">{{ person.email }}</div>
          </a>
             {% endif %}
+            {% if person.degree %}
+                <div class="degree">{{ person.degree }}</div>
+            {% endif %}
             {% if person.bio %}
                 <div class="bio">{{person.bio}}</div>
             {% endif %}
