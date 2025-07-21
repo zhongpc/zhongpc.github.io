@@ -27,7 +27,7 @@ We are actively looking for passionate <strong>Ph.D. students</strong> and <stro
 ---
 <strong>Graduate Students</strong>:
 
-<span style="text-decoration: underline">Interested in pursuing a PhD in science?</span> We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
+Interested in pursuing a PhD in science? We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
 The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, you are welcome to get in touch.
 
 In general, <span style="text-decoration: underline">we are actively looking for candidates.</span> Please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
@@ -48,8 +48,13 @@ In general, <span style="text-decoration: underline">we are actively looking for
     
 
 <strong>Postdoctoral Fellows</strong>:
-* <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have strong interest in working with us, you are welcome to get in touch with CV + research interest.
+<!-- * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have strong interest in working with us, you are welcome to get in touch with CV + research interest. -->
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
+* <span style="text-decoration: underline">We have one postdoc openning for the AI/ML track (starting in 2026):</span>
+    * We are looking for a team member with strong CS/ML/AI background. The research direction is highly flexible, broadly defined within AI for materials or chemistry (or biology).
+    * Research experience in geometric deep learning, generative models, agentic AI for science, computational chemistry, etc.
+    * Publication record in AI conferences (e.g., ICLR, ICML, NeurIPS) or their associated workshops.
+    * To apply or inquire, please send your CV and a short research statement to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any opennings, I will keep your materials on file and reach out if specific openings arise at a future date.
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
