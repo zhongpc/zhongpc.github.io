@@ -27,13 +27,13 @@
 				{%- if entry.fields['journal'] %}
 					{{ entry.fields['journal'] }}
 					{%- if entry.fields['volume'] %}
-					<strong>{{ entry.fields['volume'] }}</strong>
+					{{ entry.fields['volume'] }}
 					{%- endif %}, 
 					{%- if entry.fields['pages'] %}
 					{{ entry.fields['pages'] }}
 					{%- endif %}
 					{%- if entry.fields['year'] %}
-					({{ entry.fields['year'] }})
+					(<strong>{{ entry.fields['year'] }}</strong>)
 					{%- endif %}
 				{%- elif entry|venue %}
 					{{ entry|venue }}
