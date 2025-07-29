@@ -50,12 +50,12 @@ In general, <span style="text-decoration: underline">we are actively looking for
 <strong>Postdoctoral Fellows</strong>:
 <!-- * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have strong interest in working with us, you are welcome to get in touch with CV + research interest. -->
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
-* <span style="text-decoration: underline">We have one postdoc openning for the AI/ML track (starting in 2026):</span>
-    * We are looking for a team member with strong CS/ML/AI background. The research direction is highly flexible, broadly defined within AI for materials or chemistry (or biology).
+* <span style="text-decoration: underline">We have one postdoc opening for the AI/ML track (starting in 2026):</span>
+    * We are looking for a team member with a strong CS/ML/AI background. The research direction is highly flexible, broadly defined within AI for materials or chemistry (or biology).
     * Research experience in geometric deep learning, generative models, agentic AI for science, computational chemistry, etc.
     * Publication record in AI conferences (e.g., ICLR, ICML, NeurIPS) or their associated workshops.
     * To apply or inquire, please send your CV and a short research statement to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
-* <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any opennings, I will keep your materials on file and reach out if specific openings arise at a future date.
+* <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
     * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
@@ -67,7 +67,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
 
 
 <!-- <strong>Undergraduate Students</strong>:
-* A strong background in computer science or AI/ML
+* A strong background in CS/ML/AI.
 * Passion for scientific problems in materials physics/chemistry
 * Please email your CV and transcript -->
 
@@ -85,16 +85,3 @@ We are looking for candidates who have a background in some of the following are
 * Expertise in (atomistic) thermodynamic & kinetic simulations (e.g., Monte Carlo, molecular dynamics)
 * Expertise in computational chemistry (e.g., rare-event sampling, reaction network, high-throughput computation)
 * Expertise in generative models for scientific applications (e.g., diffusion/flow/autoregressive models, LLMs)
-
-<!-- It is a significant advantage if you have one or more of the following experiences:
-
-* Expertise in (atomistic) thermodynamic & kinetic simulations (e.g., Monte Carlo, molecular dynamics)
-* Expertise in simulating electrode and electrolyte materials, interfaces, and ion transport
-* Development of interatomic potentials based on machine learning or classical force fields
-* Development or working experience of generative models in scientific applications (e.g., diffusion model, LLM)
-* Familiarity with enhanced sampling, rare-event sampling, or transition state search methods
-* Familiarity with high-throughput computing and job management (e.g. automate, jobflow, dflow)
-* Working knowledge of database management (e.g., MongoDB)
-* Knowledge of cluster expansion method or atomic cluster expansion formalism
-* Knowledge of reaction pathway search or reaction network construction
-* Knowledge of geometric deep learning or tensorial property predictions (e.g., e3nn) -->
