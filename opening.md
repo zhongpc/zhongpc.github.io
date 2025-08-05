@@ -32,7 +32,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 
 In general, <span style="text-decoration: underline">we are actively looking for candidates.</span> Please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
 * B.S./M.S. in physics/chemistry/computer science/materials science or related fields
-* TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but strongly preferred. 
+* TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a description of your research topics of interest.
 * We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
     * NUS-SINGA Scholarship  <span style="color: lightgray">[no service commitments]</span>
@@ -40,6 +40,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (PGF)  <span style="color: lightgray">[by nomination]</span>
 * The PhD positions are well-funded in our group. We do not accept self-funded students (including CSC scholarships). 
+* Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to explore exciting research areas collaboratively.
     * We are a TechTeam-style group. We ask for help and value direct communication.
