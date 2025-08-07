@@ -28,6 +28,12 @@ post-zihan:
     bio: Zihan will be joining the group as a postdoctoral research fellow from October 2025. <a href='https://scholar.google.com/citations?user=TjySt5IAAAAJ&hl=en'>[Google Scholar]</a>
     degree: "PhD in Physics, Jilin University"
 
+post-tim:
+    display_name: "Timothy D. Pook"
+    role: postdoc
+    image: /img/people/TimPook.webp
+    bio: Tim is current a research engineer in MSE department, managing and maintaining the HPC cluster and other computational resources. He enjoys martial arts, currently training Jiu-Jitsu and Judo.
+    degree: "Research Engineer at NUS"
 
 
     
