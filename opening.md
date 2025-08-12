@@ -28,17 +28,18 @@ We are actively looking for passionate <strong>Ph.D. students</strong> and <stro
 <strong>Graduate Students</strong>:
 
 Interested in pursuing a PhD in science? We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
-The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, you are welcome to get in touch.
+The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
 
-In general, <span style="text-decoration: underline">we are actively looking for candidates.</span> Please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
+In general, <span style="text-decoration: underline">we are actively looking for candidates.</span>
 * B.S./M.S. in physics/chemistry/computer science/materials science or related fields
 * TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
-* Please email (1) your CV and (2) a description of your research topics of interest.
+* Please email (1) your CV and (2) a short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
     * NUS-SINGA Scholarship  <span style="color: lightgray">[no service commitments]</span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (PGF)  <span style="color: lightgray">[by nomination]</span>
+* If you are applying (or plan to apply) for any PhD Fellowship or Scholarship, please let me know and I am happy to support.
 * The PhD positions are well-funded in our group. We do not accept self-funded students (including CSC scholarships). 
 * Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
 * What we offer:
