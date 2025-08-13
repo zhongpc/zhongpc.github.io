@@ -36,10 +36,11 @@ In general, <span style="text-decoration: underline">we are actively looking for
 * Please email (1) your CV and (2) a short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
     * NUS-SINGA Scholarship  <span style="color: lightgray">[no service commitments]</span>
+    * NUS Industry-Relevant PhD Scholarship <span style="color: lightgray">[no service commitments]</span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (PGF)  <span style="color: lightgray">[by nomination]</span>
-* If you are applying (or plan to apply) for any PhD Fellowship or Scholarship, please let me know and I am happy to support.
+* If you are eligible to apply for any PhD Fellowship or Scholarship, please let me know and I am happy to support your application.
 * The PhD positions are well-funded in our group. We do not accept self-funded students (including CSC scholarships). 
 * Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
 * What we offer:
