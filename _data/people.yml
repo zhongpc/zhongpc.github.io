@@ -77,12 +77,12 @@ visit-yubai:
 
 
 
-visit-empty:
-    display_name: ""
+visit-izumi:
+    display_name: "Izumi Takahara"
     role: visit
-    # image: /img/people/atom.png
-    bio: ""
-    degree: ""
+    image: /img/people/IzumiTakahara.jpeg
+    bio: Izumi is a PhD student at the University of Tokyo, conducting research on materials design with generative AI. Her work focuses on applying techniques such as large language models and diffusion models to materials science in order to develop AI systems capable of autonomously and flexibly exploring new materials. By effectively integrating materials modeling with generative AI, she aims to accelerate materials development.
+    degree: "Visiting PhD student from UTokyo (2025)"
 
 
 
