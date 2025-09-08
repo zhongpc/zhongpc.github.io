@@ -48,16 +48,25 @@ grad-yichen:
     display_name: "Yicheng Chen"
     role: grad
     image: /img/people/YichengChen.png
-    bio: Yicheng is a PhD student with a background in quantum chemistry and machine learning. He previously worked on using graph neural networks to predict molecular and material properties and was a research intern at Microsoft AI4Science (2024). Now, he is exploring how ML can be used in electrochemical and energy storage systems. Outside of research, he enjoys playing video games - especially RPGs.
     degree: "PhD student (2025-), BS/MS from Fudan University"
+    bio: Yicheng is a PhD student with a background in quantum chemistry and machine learning. He previously worked on using graph neural networks to predict molecular and material properties and was a research intern at Microsoft AI4Science (2024). Now, he is exploring how ML can be used in electrochemical and energy storage systems. Outside of research, he enjoys playing video games - especially RPGs.
+    
 
 
-grad-empty:
-    display_name: ""
+grad-xintian:
+    display_name: "Xintian Wang (Wendy)"
     role: grad
-    # image: /img/people/atom.png
-    bio: ""
-    degree: ""
+    image: /img/people/WendyWang.png
+    degree: "PhD student (2026-), BS/MS from Oxford University"
+    bio: Wendy will be joining the group as a PhD student from Spring 2026. At Oxford, she developed a strong interest in molecular dynamics simulations of solid-state electrolyte materials. She has also worked on projects in batteries and electrocatalysis. She is interested in applying machine learning potentials to explore the properties of energy materials. Outside of research, she enjoys playing the guzheng and travelling. Wendy is now a research intern at the AI for Science Institute. 
+
+
+# grad-empty:
+#     display_name: ""
+#     role: grad
+#     # image: /img/people/atom.png
+#     bio: ""
+#     degree: ""
 
 
 staff-a:

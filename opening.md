@@ -34,25 +34,28 @@ In general, <span style="text-decoration: underline">we are actively looking for
 * B.S./M.S. in physics/chemistry/computer science/materials science or related fields
 * TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
+* The PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
+* Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
 * We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
-    * NUS-SINGA Scholarship  <span style="color: lightgray">[no service commitments]</span>
-    * NUS Industry-Relevant PhD Scholarship <span style="color: lightgray">[no service commitments]</span>
+    * NUS Industry-Relevant PhD Scholarship <span style="color: lightgray"></span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
-    * President's Graduate Fellowship (PGF)  <span style="color: lightgray">[by nomination]</span>
-* If you are eligible to apply for any PhD Fellowship or Scholarship, please let me know and I am happy to support your application.
-* The PhD positions are well-funded in our group. We do not accept self-funded students (including CSC scholarships). 
-* Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
+    * President's Graduate Fellowship (PGF)  <span style="color: lightgray">[by nomination]</span>. 
+* PGF applications can be submitted at any intake. Successful applicants usually receive offers from US-Top20 (or equivalent) research institutes.
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to explore exciting research areas collaboratively.
     * We are a TechTeam-style group. We ask for help and value direct communication.
     * We focus on both methodological development and applications. We will have close collaborations with experimental researchers.
     * We encourage our graduate students to thrive in interdisciplinary research environments, find their interests, and develop their careers.
-    
+    * We are committed to fostering a positive and supportive research environment.
 
 <strong>Postdoctoral Fellows</strong>:
 <!-- * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have strong interest in working with us, you are welcome to get in touch with CV + research interest. -->
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
+* <span style="text-decoration: underline">We have postdoc openings for computational chemistry/physics (starting in 2026):</span>
+    * Please see the preferred qualifications below.
+    * To apply or inquire, please send your CV and a short research statement to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
+    * Applications received before <strong>Nov 15, 2025</strong> will be fully considered and will be accepted on a rolling basis after this date.
 * <span style="text-decoration: underline">We have one postdoc opening for the AI/ML track (starting in 2026):</span>
     * We are looking for a team member with a strong CS/ML/AI background. The research direction is highly flexible, broadly defined within AI for materials or chemistry (or biology).
     * Research experience in geometric deep learning, generative models, agentic AI for science, computational chemistry, etc.
@@ -79,12 +82,14 @@ In general, <span style="text-decoration: underline">we are actively looking for
 ---
 ### Preferred Qualifications
 
-We are looking for candidates who have a background in some of the following areas:
 
+We seek applicants with backgrounds in any of the following areas (Related research experience is preferred but not required for PhD students).
 * Solid foundation in <strong>thermodynamics & statistical mechanics</strong>, solid-state physics/chemistry, and/or quantum mechanics
 * Practical experience with density functional theory calculations (e.g., VASP, Quantum Espresso, Q-Chem, PySCF)
 * Proficiency in at least one mainstream deep learning framework (e.g., PyTorch, JAX)
 * Proficiency in scientific computing with Python libraries
 * Expertise in (atomistic) thermodynamic & kinetic simulations (e.g., Monte Carlo, molecular dynamics)
 * Expertise in computational chemistry (e.g., rare-event sampling, reaction network, high-throughput computation)
-* Expertise in generative models for scientific applications (e.g., diffusion/flow/autoregressive models, LLMs)
+* Expertise in computational physics (e.g., excited-states calculations, quantum transport simulations)
+* Expertise in generative models for scientific applications (e.g., diffusion/flow/autoregressive models)
+* Expertise in LLMs for scientific applications (e.g., LLM-based molecular design, decision making, synthesis planning)
