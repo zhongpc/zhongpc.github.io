@@ -56,7 +56,7 @@ grad-yichen:
 grad-xintian:
     display_name: "Xintian Wang (Wendy)"
     role: grad
-    image: /img/people/WendyWang.png
+    image: /img/people/WendyWang.jpg
     degree: "PhD student (2026-), BS/MS from Oxford University"
     bio: Wendy will be joining the group as a PhD student from Spring 2026. At Oxford, she developed a strong interest in molecular dynamics simulations of solid-state electrolyte materials. She has also worked on projects in batteries and electrocatalysis. She is interested in applying machine learning potentials to explore the properties of energy materials. Outside of research, she enjoys playing the guzheng and travelling. Wendy is now a research intern at the AI for Science Institute. 
 
@@ -80,7 +80,7 @@ staff-a:
 visit-yubai:
     display_name: "Yubai Shi"
     role: visit
-    image: /img/people/YubaiShi.png
+    image: /img/people/YubaiShi.jpg
     bio: Yubai is a PhD candidate at the University of Chinese Academy of Sciences (UCAS). He is interested in ferroelectrics, and he prefers using computational methods to investigate the real microscopic physical process and properties of matter, such as machine learning assisted molecular dynamics. In his spare time, he is pursuing his goal of becoming a bodybuilder. He is not only inspired by the most novel and interesting research findings in the lab, but also motivated by the larger muscles in the gym!
     degree: "Visiting PhD student from UCAS (2025-2026)"
 
