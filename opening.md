@@ -55,12 +55,13 @@ In general, <span style="text-decoration: underline">we are actively looking for
 * <span style="text-decoration: underline">We have postdoc openings for computational chemistry/physics (starting in 2026):</span>
     * Please see the preferred qualifications below.
     * To apply or inquire, please send your CV and a short research statement to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
-    * Applications received before <strong>Nov 15, 2025</strong> will be fully considered and will be accepted on a rolling basis after this date.
+    * Applications received before <strong>Dec 1, 2025</strong> will be fully considered and will be accepted on a rolling basis after this date.
 * <span style="text-decoration: underline">We have one postdoc opening for the AI/ML track (starting in 2026):</span>
     * We are looking for a team member with a strong CS/ML/AI background. The research direction is highly flexible, broadly defined within AI for materials or chemistry (or biology).
     * Research experience in geometric deep learning, generative models, agentic AI for science, computational chemistry, etc.
     * Publication record in AI conferences (e.g., ICLR, ICML, NeurIPS) or their associated workshops.
-    * To apply or inquire, please send your CV and a short research statement to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
+    * To apply or inquire, please send your CV and Cover Letter to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
+    * In the Cover Letter, please describte the motivation to work on AI for materials/chemistry, etc.
 * <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
