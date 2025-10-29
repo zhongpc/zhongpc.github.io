@@ -5,16 +5,17 @@ title: Openings
 
 ---
 
+
+
 We are actively looking for passionate <strong>Ph.D. students</strong> and <strong>research scholars</strong> who are interested in computational modeling for materials physics/chemistry and the general topics in AI4Science. <span style="text-decoration: underline">You are welcome to get in touch if you agree with our group values</span>:
 
- * <span style="color: darkred">Our group is grounded in kindness and we strive to create an inclusive environment.</span>
- * <span style="color: red">We do not tolerate harassment or discrimination in any form.</span>
- * <span style="color: orange">We value the importance of the methodology development & coding practice.</span>
- * <span style="color: Green">We honor contributions from all group members.</span>
- * <span style="color: dodgerblue">We ask for help and value direct communications (speaking > 20 sentences daily). </span>
- * <span style="color: blue">We aim to tackle challenging scientific problems with a positive research mindset.</span>
- * <span style="color: blueviolet">We commit to acting with honesty & scientific integrity.</span>
-
+* <span style="color: darkred">Our group is grounded in kindness, and we strive to create an inclusive environment.</span>
+* <span style="color: red">We do not tolerate harassment or discrimination in any form.</span>
+* <span style="color: orange">We value the importance of methodology development and coding practices.</span>
+* <span style="color: Green">We honor the contributions of all group members.</span>
+* <span style="color: dodgerblue">We ask for help and value direct communication (speaking > 20 sentences daily). </span>
+* <span style="color: blue">We aim to tackle challenging scientific problems with a positive research mindset.</span>
+* <span style="color: blueviolet">We commit to acting with honesty and scientific integrity.</span>
 
 ---
 
@@ -25,29 +26,32 @@ We are actively looking for passionate <strong>Ph.D. students</strong> and <stro
 
 
 ---
-<strong>Graduate Students</strong>:
+<strong>PhD Students</strong>:
 
 Interested in pursuing a PhD in science? We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
 The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
 
-In general, <span style="text-decoration: underline">we are actively looking for candidates.</span>
-* B.S./M.S. in physics/chemistry/computer science/materials science or related fields
-* TOFEL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
-* Please email (1) your CV and (2) a short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
+<span style="text-decoration: underline">We are actively looking for PhD students</span>. Openings are available for both Fall and Spring intake.
+* B.S. or M.S. in physics/chemistry/computer science/materials science or related fields
+* TOEFL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
+* Please email (1) your CV and (2) a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * The PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
 * Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
-* We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
+* We always encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
     * NUS Industry-Relevant PhD Scholarship <span style="color: lightgray"></span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
-    * President's Graduate Fellowship (PGF)  <span style="color: lightgray">[by nomination]</span>. 
-* PGF applications can be submitted at any intake. Successful applicants usually receive offers from US-Top20 (or equivalent) research institutes.
+    * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
+* <strong>PGF</strong> can be submitted at any intake. Successful applicants usually receive PhD offers from US-Top20 (or equivalent) institutions. Feel free to get in touch if you want to pursue a different journey in NUS (also availble to existing PhD students in top institutions).
+ 
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to explore exciting research areas collaboratively.
     * We are a TechTeam-style group. We ask for help and value direct communication.
-    * We focus on both methodological development and applications. We will have close collaborations with experimental researchers.
+    * We focus on both methodological development and applications. We maintain close collaborations with experimental researchers.
     * We encourage our graduate students to thrive in interdisciplinary research environments, find their interests, and develop their careers.
     * We are committed to fostering a positive and supportive research environment.
+
+
 
 <strong>Postdoctoral Fellows</strong>:
 <!-- * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have strong interest in working with us, you are welcome to get in touch with CV + research interest. -->
@@ -61,7 +65,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
     * Research experience in geometric deep learning, generative models, agentic AI for science, computational chemistry, etc.
     * Publication record in AI conferences (e.g., ICLR, ICML, NeurIPS) or their associated workshops.
     * To apply or inquire, please send your CV and Cover Letter to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
-    * In the Cover Letter, please describte the motivation to work on AI for materials/chemistry, etc.
+    * In the Cover Letter, please describe the motivation to work on AI for materials/chemistry, etc.
 * <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
@@ -71,7 +75,7 @@ In general, <span style="text-decoration: underline">we are actively looking for
 
 <strong>Visiting Scholars</strong>:
 * Please email Dr. Zhong directly to discuss (and indicate the funding resources for a visit > six months).
-
+* Visiting PhD students with CSC scholarships are welcome. Approvals from PhD advisors must be obtained before applying.
 
 <!-- <strong>Undergraduate Students</strong>:
 * A strong background in CS/ML/AI.
