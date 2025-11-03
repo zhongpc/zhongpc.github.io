@@ -42,7 +42,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
-* <strong>PGF</strong> can be submitted at any intake. Successful applicants usually receive PhD offers from US-Top20 (or equivalent) institutions. Feel free to get in touch if you want to pursue a different journey in NUS (also availble to existing PhD students in top institutions).
+* <strong>PGF</strong> can be submitted at any intake. Successful applicants usually receive PhD offers from US-Top20 (or equivalent) institutions. Feel free to get in touch if you want to pursue a different journey in NUS.
  
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to explore exciting research areas collaboratively.
@@ -70,7 +70,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
     * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
-    * Other fellowships are potentially available to apply (e.g., Singapore NRF Postdoctoral Fellowship, [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship) and [Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2024/04/NUS-Presidential-Fellowship8.pdf)). Generally, successful candidates are expected to graduate from top universities or prestigious PhD programs. 
+    * Other fellowships are potentially available to apply (e.g., Singapore NRF Postdoctoral Fellowship, [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship) and [Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2024/04/NUS-Presidential-Fellowship8.pdf)).
 
 
 <strong>Visiting Scholars</strong>:
