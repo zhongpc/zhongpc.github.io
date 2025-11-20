@@ -11,6 +11,9 @@ title:
 
 #### *Past*
 
+* <span style="color: Red">[11/2025]</span> Dr. Zhong was awarded the AI2050 Early Career Fellowship by Schmidt Sciences. [[link]](https://www.schmidtsciences.org/2025-ai2050-fellows-announcement/)
+
+
 * <span style="color: Red">[07/2025]</span> Dr. Zhong attended the AI4X Conference at the National University of Singapore from July 8 to July 11, 2025. He presented the the work on inpainting generation for crystal structure prediction. [[link]](https://ai4x.cc/) 
 
 * <span style="color: Red">[06/2025]</span> Dr. Zhong attended the ICMAT 2025 at Singapore from June 30 to July 4, 2025. He presented an invited talk on atomistic and generative modeling for battery materials. [[link]](https://icmat2025.mrs.org.sg/symposia-m/)
