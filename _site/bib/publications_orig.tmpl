@@ -26,10 +26,10 @@
 			<span class="authors">
 				{{ entry.persons['author']|author_list }}.
 			</span><br />
-			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>.
+			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>
 			{%- if entry.fields['note'] %}
 			<span class="note">
-			{{ entry.fields['note']|escape }}.
+			{{ entry.fields['note']|escape }}
 			</span>
 			{%- endif %}
 			<br />
