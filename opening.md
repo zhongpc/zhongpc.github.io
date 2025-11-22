@@ -28,7 +28,7 @@ We are actively looking for passionate <strong>Ph.D. students</strong> and <stro
 ---
 <strong>PhD Students</strong>:
 
-Interested in pursuing a PhD in science? We recommend you to watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
+Interested in pursuing a PhD in science? We recommend that you watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
 The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
 
 <span style="text-decoration: underline">We are actively looking for PhD students</span>. Openings are available for both Fall and Spring intake.
@@ -54,12 +54,15 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 
 
 <strong>Postdoctoral Fellows</strong>:
-<!-- * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have strong interest in working with us, you are welcome to get in touch with CV + research interest. -->
+<!-- * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest. -->
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
-* <span style="text-decoration: underline">We have postdoc openings for computational chemistry/physics (starting in 2026):</span>
-    * Please see the preferred qualifications below.
-    * To apply or inquire, please send your CV and a short research statement to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
-    * Applications received before <strong>Dec 1, 2025</strong> will be fully considered and will be accepted on a rolling basis after this date.
+* <span style="text-decoration: underline">We have one postdoc opening for computational chemistry (starting in 2026):</span>
+    * We are looking for a team member with a computational/quantum chemistry background and willing to work on applied scientific problems.
+    * Proficiency in density functional theory calculations (e.g., Q-Chem, PySCF, Orca) and/or wave-function methods.
+    * Proficiency in at least one mainstream deep learning framework and MLIP-based MD simulations.
+    * Expertise in rare-event sampling and reaction network is a big plus.
+    * Expertise in generative models (geometric models or LLM) for scientific applications is a big plus.
+    * To apply or inquire, please send an email to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * <span style="text-decoration: underline">We have one postdoc opening for the AI/ML track (starting in 2026):</span>
     * We are looking for a team member with a strong CS/ML/AI background. The research direction is highly flexible, broadly defined within AI for materials or chemistry (or biology).
     * Research experience in geometric deep learning, generative models, agentic AI for science, computational chemistry, etc.
