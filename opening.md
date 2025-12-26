@@ -29,20 +29,20 @@ We are actively looking for passionate <strong>Ph.D. students</strong> and <stro
 <strong>PhD Students</strong>:
 
 Interested in pursuing a PhD in science? We recommend that you watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
-The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> for application.
+The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path after considering thoroughly, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> and submit your application in the GDA3 system.
 
 <span style="text-decoration: underline">We are actively looking for PhD students</span>. Openings are available for both Fall and Spring intake.
 * B.S. or M.S. in physics/chemistry/computer science/materials science or related fields
 * TOEFL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * The PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
-* Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
+* Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone paid RA positions.
 * We always encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
     * NUS Industry-Relevant PhD Scholarship <span style="color: lightgray"></span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
-* <strong>PGF</strong> can be submitted at any intake. Successful applicants usually receive PhD offers from US-Top20 (or equivalent) institutions. Feel free to get in touch if you want to pursue a different journey in NUS.
+* <strong>PGF</strong> can be submitted at any intake. Successful applicants usually receive PhD offers from US-Top20 institutions (or equivalent). Feel free to get in touch if you want to pursue a different journey at NUS.
  
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to explore exciting research areas collaboratively.
