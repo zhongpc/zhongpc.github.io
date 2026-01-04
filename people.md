@@ -11,7 +11,7 @@ picture-role-groups:
 
 
 no-picture-role-groups:
-# - {roles: [alum], width: 30}
+- {roles: [alum], width: 30}
 ---
 
 <section class="people row justify-content-between">

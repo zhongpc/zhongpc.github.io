@@ -58,7 +58,7 @@ grad-xintian:
     role: grad
     image: /img/people/WendyWang.jpg
     degree: "PhD student (2026-), BS/MS from Oxford University"
-    bio: Wendy will be joining the group as a PhD student from Spring 2026. She developed a strong interest in molecular dynamics simulations of solid-state electrolyte materials. She has also worked on projects in batteries and electrocatalysis. She is interested in applying machine learning potentials to explore the properties of energy materials. Outside of research, she enjoys playing the guzheng and travelling. Wendy is now a research intern at the AI for Science Institute. 
+    bio: Wendy is a PhD student with a strong interest in molecular dynamics simulations of solid-state electrolyte materials. She has also worked on projects in batteries and electrocatalysis. Previously, she was a research intern at the AI for Science Institute. Now she is applying machine learning potentials and atomistic simulations to explore the properties of energy materials. Outside of research, she enjoys playing the guzheng and travelling. 
 
 
 # grad-empty:
@@ -86,12 +86,12 @@ visit-yubai:
 
 
 
-visit-izumi:
-    display_name: "Izumi Takahara"
-    role: visit
-    image: /img/people/IzumiTakahara.jpeg
-    bio: Izumi is a PhD student at the University of Tokyo, conducting research on materials design with generative AI. Her work focuses on applying techniques such as large language models and diffusion models to materials science in order to develop AI systems capable of autonomously and flexibly exploring new materials. By effectively integrating materials modeling with generative AI, she aims to accelerate materials development.
-    degree: "Visiting PhD student from UTokyo (2025)"
+# visit-izumi:
+#     display_name: "Izumi Takahara"
+#     role: visit
+#     image: /img/people/IzumiTakahara.jpeg
+#     bio: Izumi is a PhD student at the University of Tokyo, conducting research on materials design with generative AI. Her work focuses on applying techniques such as large language models and diffusion models to materials science in order to develop AI systems capable of autonomously and flexibly exploring new materials. By effectively integrating materials modeling with generative AI, she aims to accelerate materials development.
+#     degree: "Visiting PhD student from UTokyo (2025)"
 
 
 
@@ -101,9 +101,9 @@ visit-izumi:
 #     bio: 
 
 
-# alum-a:
-#     display_name: "Alum A (Undergrad Summer Intern) -> XXX"
-#     role: alum
+alum-a:
+    display_name: "Izumi Takahara (Visiting PhD student from UTokyo, 2025)"
+    role: alum
 # alum-b:
 #     display_name: "Alum A (Visiting PhD) -> XXX"
 #     role: alum
