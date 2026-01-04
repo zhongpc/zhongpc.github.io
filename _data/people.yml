@@ -85,6 +85,11 @@ visit-yubai:
     degree: "Visiting PhD student from UCAS (2025-2026)"
 
 
+visit-z-empty:
+    display_name: ""
+    role: visit
+    bio: 
+
 
 # visit-izumi:
 #     display_name: "Izumi Takahara"
