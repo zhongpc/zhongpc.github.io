@@ -3,22 +3,22 @@ prof:
     # github: zhongpc
     role: faculty
     image: /img/people/PeichenZhong.jpg
-    bio: Peichen grew up in Sichuan (the birthplace of pandas with a lot of spicy food). He received a BS in Physics from USTC (2018) and a PhD in Materials Science from UC Berkeley (2023), advised by Prof. Gerbrand Ceder. He then completed the postdoctoral work at Lawrence Berkeley National Laboratory (LBNL) and Bakar Institute of Digital Materials for the Planet (<a href='https://bidmap.berkeley.edu/'>BIDMaP</a>), co-advised by Profs. Kristin A. Persson, Bingqing Cheng and Aditi Krishnapriyan. He joined NUS MSE as an Assistant Professor under the Presidential Young Professorship from July 2025. He enjoys traveling, hot pot, and writing with LaTeX. [<a href='https://www.linkedin.com/in/zhongpc'>LinkedIn</a>, <a href='https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>] 
+    bio: Peichen grew up in Sichuan (the birthplace of pandas with a lot of spicy food). He received a BS in Physics from USTC (2018) and a PhD in Materials Science from UC Berkeley (2023). He then completed the postdoctoral work at Lawrence Berkeley National Laboratory (LBNL) and Bakar Institute of Digital Materials for the Planet (<a href='https://bidmap.berkeley.edu/'>BIDMaP</a>). He joined NUS MSE as an Assistant Professor under the Presidential Young Professorship from July 2025. He enjoys traveling, hot pot, and writing with LaTeX. [<a href='https://www.linkedin.com/in/zhongpc'>LinkedIn</a>, <a href='https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>] 
     email: "zhongpc[AT]nus.edu.sg"
 
 
-prof-empty:
-    display_name: ""
-    role: faculty
-    bio: 
+# prof-empty:
+#     display_name: ""
+#     role: faculty
+#     bio: 
 
         
 
 post-junmin:
     display_name: "Dr. Junmin Chen"
     role: postdoc
-    image: /img/people/atom.png
-    bio: Junmin will be joining the group as a postdoctoral research fellow from Dec 2025. <a href='https://www.linkedin.com/in/junminchen/'>[LinkedIn]</a>
+    image: /img/people/JunminChen.jpg
+    bio: Junmin is a postdoctoral research fellow specializing in computational chemistry. His research focuses on developing hybrid physics-based AI frameworks to enhance molecular dynamics simulations. He is particularly interested in applying these advanced models to investigate the complex physics of functional polymers and electrolytes. Beyond his research, Junmin enjoys badminton, table tennis, hiking, and photography. <a href='https://www.linkedin.com/in/junminchen/'>[LinkedIn]</a>
     degree: "PhD in Materials Science, Tsinghua University"
     
 post-zihan:
@@ -36,11 +36,11 @@ post-tim:
     degree: "Research Engineer at NUS"
 
 
-post-empty:
-    display_name: ""
-    role: postdoc
-    bio: ""
-    degree: ""
+# post-empty:
+#     display_name: ""
+#     role: postdoc
+#     bio: ""
+#     degree: ""
 
 
     
@@ -85,10 +85,10 @@ visit-yubai:
     degree: "Visiting PhD student from UCAS (2025-2026)"
 
 
-visit-z-empty:
-    display_name: ""
-    role: visit
-    bio: 
+# visit-z-empty:
+#     display_name: ""
+#     role: visit
+#     bio: 
 
 
 # visit-izumi:

@@ -39,13 +39,6 @@ a > .fa {
     display: inline;
 }
 
-/* /\* Customize container *\/ */
-/* @media (min-width: 768px) { */
-/*     .container { */
-/*         max-width: 730px; */
-/*     } */
-/* } */
-
 /* Jumbotron */
 .jumbotron {
     text-align: justify;
@@ -76,57 +69,82 @@ ul.news {
 
 
 /* Base styles (mobile first) */
+/* Resetting column count for mobile, though grid override below will handle layout */
 .project-people, .card-columns, .role.grad, .role.postdoc, .role.visit {
     column-count: 1;
 }
 
 /* Tablet styles */
 @media (min-width: 576px) {
+    /* CHANGED: Use Grid instead of columns for better horizontal alignment */
     .project-people, .card-columns {
-        column-count: 2;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        align-items: start; /* Ensures tops of cards align */
     }
 }
 
 /* Desktop styles */
 @media (min-width: 768px) {
+    
     .project-people, .card-columns {
-        column-count: 2;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px; 
     }
     
     .role.grad {
-        column-count: 2;
-        break-before: column; /* Forces a column break before the element */
-        // margin-bottom: 20px;
+        /* CHANGED: Removed column-count, added Grid */
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        /* column-count: 2;  <-- Old method */
+        /* break-before: column; <-- No longer needed */
     }
 
     .role.faculty {
-        column-count: 1;
-        break-before: column; /* Forces a column break before the element */
+        /* Faculty remains single column usually, or grid 1fr */
+        display: grid;
+        grid-template-columns: 1fr; 
+        
+        /* column-count: 1; */
+        /* break-before: column; */
         max-height: 200px;
         max-width: 700px;
-        // margin-bottom: -20px;
     }
     
     .role.postdoc {
-        column-count: 2;
-        clear: both; /* Ensures it starts on a new line */
-        break-before: column; /* Forces a column break before the element */
+        /* CHANGED: Removed column-count, added Grid */
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        
+        /* column-count: 2; */
+        /* break-before: column; */
     }
 
     .role.visit {
-        column-count: 2;
-        break-before: column; /* Forces a column break before the element */
-        // margin-bottom: 20px;
+        /* CHANGED: Removed column-count, added Grid */
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        
+        /* column-count: 2; */
+        /* break-before: column; */
     }
 
     .role.staff {
-        column-count: 2;
-        break-before: column; /* Forces a column break before the element */
+        /* CHANGED: Removed column-count, added Grid */
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        
+        /* column-count: 2; */
+        /* break-before: column; */
         margin-bottom: 10px;
     }
 }
-
-
 
 .title img {
     max-width: 50%;
@@ -162,8 +180,11 @@ section {
 }
 
 .person {
-
+    /* Grid handles the gap, but we can keep margin-bottom for mobile views if not using grid there */
     margin-bottom: 30px;
+    
+    /* Ensure the person container takes up full width of the grid cell */
+    width: 100%; 
 
     .profile {
         height: 100px;
@@ -174,13 +195,10 @@ section {
         color: $nus-blue;
         font-weight: 300;
         font-size: 12px;
-        max-height: 200px; // Set a maximum height
-        // overflow: hidden; // Hide overflow content
-        // text-overflow: ellipsis; // Add ellipsis for overflowing text
+        max-height: 200px; 
         display: -webkit-box;
-        // -webkit-line-clamp: 5; // Limit to 5 lines
         -webkit-box-orient: vertical;
-        white-space: pre-wrap; // Allow wrapping within the container
+        white-space: pre-wrap; 
     }
     
     .person-name {

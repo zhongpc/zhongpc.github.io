@@ -36,15 +36,15 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 * TOEFL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * The PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
-* Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
 * We always encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
     * ASEAN Scholarship <span style="color: lightgray">[please indicate; for students from ASEAN countries only]</span>
     * Commonwealth Scholarship <span style="color: lightgray">[please indicate; for students from Commonwealth countries only]</span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
-* <strong>PGF</strong> can be submitted at any intake. Successful applicants usually receive PhD offers from US-Top20 institutions (or equivalent). Feel free to get in touch if you want to pursue a different journey at NUS.
- 
+* <strong>PGF</strong> can be submitted at any intake. Successful applicants usually have received PhD offers from US-Top20 institutions (or equivalent). Feel free to get in touch if you want to pursue a different journey at NUS.
+* Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
+
 * What we offer:
     * We are a new research group offering hands-on training and opportunities to explore exciting research areas collaboratively.
     * We are a TechTeam-style group. We ask for help and value direct communication.
@@ -80,6 +80,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 <strong>Visiting Scholars</strong>:
 * Please email Dr. Zhong directly to discuss (and indicate the funding resources for a visit > six months).
 * Visiting PhD students with CSC scholarships are welcome. Approvals from PhD advisors must be obtained before applying.
+* Final Year Project (FYP) students at NUS are welcome. Please email Dr. Zhong directly to discuss.
 
 <!-- <strong>Undergraduate Students</strong>:
 * A strong background in CS/ML/AI.
