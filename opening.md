@@ -46,7 +46,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 * Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
 
 * What we offer:
-    * We are a TechTeam-style group. We ask for help and value direct communication.
+    * We are a TechTeam-style group. We help each other and value direct communication.
     * We focus on both method development and applications. We maintain close collaborations with experimental researchers.
     * We encourage our graduate students to thrive in interdisciplinary research environments, find their interests, and develop their careers.
     * We are committed to fostering a positive and supportive research environment.
