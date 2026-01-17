@@ -16,7 +16,7 @@ roles:
   - key: postdoc
     name: Research Fellows
   - key: grad
-    name: Graduate Students
+    name: PhD Students
   - key: staff
     name: Research Staff
   - key: visit

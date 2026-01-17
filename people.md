@@ -21,6 +21,7 @@ no-picture-role-groups:
                 {% include role-people.html role=role image=true %}
             {% endfor %}
         </div>
+        <p></p>
     {% endfor %}
 </section>
 

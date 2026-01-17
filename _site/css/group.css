@@ -129,7 +129,7 @@ section {
 
 .person {
   /* Grid handles the gap, but we can keep margin-bottom for mobile views if not using grid there */
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   /* Ensure the person container takes up full width of the grid cell */
   width: 100%; }
   .person .profile {
@@ -137,7 +137,7 @@ section {
     width: 100px; }
   .person .bio {
     color: #003D7C;
-    font-weight: 300;
+    font-weight: 325;
     font-size: 12px;
     max-height: 200px;
     display: -webkit-box;

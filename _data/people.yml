@@ -3,7 +3,7 @@ prof:
     # github: zhongpc
     role: faculty
     image: /img/people/PeichenZhong.jpg
-    bio: Peichen grew up in Sichuan (the birthplace of pandas with a lot of spicy food). He received a BS in Physics from USTC (2018) and a PhD in Materials Science from UC Berkeley (2023). He then completed the postdoctoral work at Lawrence Berkeley National Laboratory (LBNL) and Bakar Institute of Digital Materials for the Planet (<a href='https://bidmap.berkeley.edu/'>BIDMaP</a>). He joined NUS MSE as an Assistant Professor under the Presidential Young Professorship from July 2025. He enjoys traveling, hot pot, and writing with LaTeX. [<a href='https://www.linkedin.com/in/zhongpc'>LinkedIn</a>, <a href='https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>] 
+    bio: Peichen grew up in Sichuan (the birthplace of pandas with a lot of spicy food). He received a BS in Physics from USTC (2018) and a PhD in Materials Science from UC Berkeley (2023) under the supervision of Prof. Gerd Ceder. He then completed the postdoctoral work at Lawrence Berkeley National Laboratory (LBNL) and Bakar Institute of Digital Materials for the Planet (<a href='https://bidmap.berkeley.edu/'>BIDMaP</a>), co-advised by Profs. Kristin Persson, Bingqing Cheng, and Aditi Krishnapriyan. He joined NUS MSE as an Assistant Professor under the Presidential Young Professorship from July 2025. He enjoys traveling, hot pot, and writing with LaTeX. [<a href='https://www.linkedin.com/in/zhongpc'>LinkedIn</a>, <a href='https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>] 
     email: "zhongpc[AT]nus.edu.sg"
 
 
@@ -28,6 +28,7 @@ post-zihan:
     bio: Zihan is a postdoctoral research fellow with a background in computational physics. His research interests include condensed matter physics and the design of materials using structure search methods. He has worked on superconducting hydrides, 2D materials, and super-hard materials. He has a strong knowledge of superconductivity theory. He enjoys physics, Chinese classical literature, and animation. <a href='https://scholar.google.com/citations?user=TjySt5IAAAAJ&hl=en'>[Google Scholar]</a>
     degree: "PhD in Physics, Jilin University"
 
+
 post-tim:
     display_name: "Timothy D. Pook"
     role: postdoc
@@ -48,7 +49,7 @@ grad-yichen:
     display_name: "Yicheng Chen"
     role: grad
     image: /img/people/YichengChen.png
-    degree: "PhD student (2025-), BS/MS from Fudan University"
+    degree: "BS/MS from Fudan University (08/2025-)"
     bio: Yicheng is a PhD student with a background in quantum chemistry and machine learning. He previously worked on using graph neural networks to predict molecular and material properties and was a research intern at Microsoft AI4Science (2024). Now, he is exploring how ML can be used in electrochemical and energy storage systems. Outside of research, he enjoys playing video games - especially RPGs.
     
 
@@ -57,7 +58,7 @@ grad-xintian:
     display_name: "Xintian Wang (Wendy)"
     role: grad
     image: /img/people/WendyWang.jpg
-    degree: "PhD student (2026-), BS/MS from Oxford University"
+    degree: "BS/MS from Oxford University (01/2026-)"
     bio: Wendy is a PhD student with a strong interest in molecular dynamics simulations of solid-state electrolyte materials. She has also worked on projects in batteries and electrocatalysis. Previously, she was a research intern at the AI for Science Institute. Now she is applying machine learning potentials and atomistic simulations to explore the properties of energy materials. Outside of research, she enjoys playing the guzheng and travelling. 
 
 
@@ -69,20 +70,41 @@ grad-xintian:
 #     degree: ""
 
 
-staff-a:
-    display_name: "Alice Bob"
-    role: staff
-    image: /img/people/atom.png
-    bio: XXX. 
-    degree: "Research Engineer"
+# staff-a:
+#     display_name: "Alice Bob"
+#     role: staff
+#     image: /img/people/atom.png
+#     bio: XXX. 
+#     degree: "Research Engineer"
 
 
 visit-yubai:
     display_name: "Yubai Shi"
     role: visit
     image: /img/people/YubaiShi.jpg
-    bio: Yubai is a PhD candidate at the University of Chinese Academy of Sciences (UCAS). He is interested in ferroelectrics, and he prefers using computational methods to investigate the real microscopic physical process and properties of matter, such as machine learning assisted molecular dynamics. In his spare time, he is pursuing his goal of becoming a bodybuilder. He is not only inspired by the most novel and interesting research findings in the lab, but also motivated by the larger muscles in the gym!
+    bio: Yubai is a PhD candidate at the University of Chinese Academy of Sciences (UCAS). He is interested in ferroelectrics and using ML-assisted molecular dynamics to investigate the microscopic process and properties of matter. In his spare time, he is pursuing his goal of becoming a bodybuilder. He is not only inspired by the most novel and interesting research findings in the lab, but also motivated by the larger muscles in the gym!
     degree: "Visiting PhD student from UCAS (2025-2026)"
+
+
+
+visit-bo:
+    display_name: "Bo Li"
+    role: visit
+    image: /img/people/BoLi.jpg
+    bio: Bo Li is a master student at NUS MSE with a background in agentic AI and inverse design of molecules via generative models. He previously worked on developing multi-AI agent assistant for new self-assembled monolayer molecule discovery. He enjoys traveling, hiking,  and video games. 
+    degree: "MS student from NUS MSE (2025-2026)"
+
+
+
+visit-mengyi:
+    display_name: "Mengyi Chen"
+    role: visit
+    image: /img/people/MengyiChen.jpg
+    bio: Mengyi is a PhD candidate in the Department of Mathematics at NUS. Her research focuses on applying machine learning to study the macroscopic dynamics of complex systems. She is currently collaborating with our group on understanding and modeling the dynamics of material systems. Outside of research, she enjoys running and playing the violin.
+    degree: "Visiting PhD student from NUS Math (2026-)"
+
+
+
 
 
 # visit-z-empty:
@@ -106,9 +128,12 @@ visit-yubai:
 #     bio: 
 
 
-alum-a:
+alum-izumi:
     display_name: "Izumi Takahara (Visiting PhD student from UTokyo, 2025)"
     role: alum
+
+
+
 # alum-b:
 #     display_name: "Alum A (Visiting PhD) -> XXX"
 #     role: alum
