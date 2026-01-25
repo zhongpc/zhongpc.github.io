@@ -92,7 +92,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 ### Preferred Qualifications
 
 
-We seek applicants with backgrounds in any of the following areas (Related research experience is preferred but not required for PhD students).
+We seek applicants with backgrounds in any of the following areas (Related research experience is preferred but not required for PhD applicants).
 * Solid foundation in <strong>thermodynamics & statistical mechanics</strong>, solid-state physics/chemistry, and/or quantum mechanics
 * Practical experience with density functional theory calculations (e.g., VASP, Quantum Espresso, Q-Chem, PySCF)
 * Proficiency in at least one mainstream deep learning framework (e.g., PyTorch, JAX)
