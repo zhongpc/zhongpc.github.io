@@ -56,13 +56,13 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 <strong>Postdoctoral Fellows</strong>:
 <!-- * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest. -->
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
-* <span style="text-decoration: underline">We have one postdoc opening for computational chemistry (starting in 2026):</span>
+<!-- * <span style="text-decoration: underline">We have one postdoc opening for computational chemistry (starting in 2026):</span>
     * We are looking for a team member with a computational/quantum chemistry background and willing to work on applied scientific problems.
     * Proficiency in density functional theory calculations (e.g., Q-Chem, PySCF, Orca) and/or wave-function methods.
     * Proficiency in at least one mainstream deep learning framework and MLIP-based MD simulations.
     * Expertise in rare-event sampling and reaction network is a big plus.
     * Expertise in generative models (geometric models or LLM) for scientific applications is a big plus.
-    * To apply or inquire, please send an email to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
+    * To apply or inquire, please send an email to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>. -->
 * <span style="text-decoration: underline">We have one postdoc opening for the AI/ML track (starting in 2026):</span>
     * We are looking for a team member with a strong CS/ML/AI background. The research direction is highly flexible, broadly defined within AI for materials or chemistry (or biology).
     * Research experience in geometric deep learning, generative models, agentic AI for science, computational chemistry, etc.
