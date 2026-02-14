@@ -43,6 +43,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
 * <strong>PGF</strong> can be submitted at any intake. Successful applicants usually have received PhD offers from US-Top20 institutions (or equivalent). Feel free to get in touch if you want to pursue a different journey at NUS.
+* Our research is highly interdisciplinary. If you have a strong academic record, please consider the <a href="https://isep.nus.edu.sg/">ISEP</a> PhD program at NUS. (You can apply both ISEP and MSE PhDs.) Please send me your CV and a research proposal abstract (< 200 words) and highlight how you would combine science and engineering, or theory and experiments.
 * Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
 
 * What we offer:
