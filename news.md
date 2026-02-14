@@ -11,6 +11,9 @@ title:
 
 #### *Past*
 
+* <span style="color: Red">[12/2025]</span> Yicheng Chen won the Best Poster Award at the NUS MSE MatterX Annual Congress! [[link]](https://r233fvaoe38.sg.larksuite.com/docx/EUT9dsCGLogy6vxuASlljm2qgbd?from=from_copylink) 
+
+
 * <span style="color: Red">[11/2025]</span> Dr. Zhong was awarded the AI2050 Early Career Fellowship by Schmidt Sciences. [[Schmidt Sciences News]](https://www.schmidtsciences.org/2025-ai2050-fellows-announcement/) [[NUS News]](https://cde.nus.edu.sg/news-detail/asst-prof-zhong-peichen-named-ai2050-early-career-fellow/) [[BIDMaP News]](https://bidmap.berkeley.edu/news/fellow-alum-peichen-zhong-named-2025-ai2050-early-career-fellow)
 
 
