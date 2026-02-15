@@ -6,18 +6,18 @@ title:
 
 #### *Upcoming*
 
-* <span style="color: DodgerBlue">[04/2026]</span> We are going to organize a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at 2026 MRS Spring Conference. Welcome to submit abstracts and discuss science!
+* <span style="color: DodgerBlue">[04/2026]</span> We are going to organize a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at 2026 MRS Spring Conference. Welcome to connect and discuss science!
 
 
 #### *Past*
 
-* <span style="color: Red">[12/2025]</span> Yicheng Chen won the Best Poster Award at the NUS MSE MatterX Annual Congress! [[link]](https://r233fvaoe38.sg.larksuite.com/docx/EUT9dsCGLogy6vxuASlljm2qgbd?from=from_copylink) 
+* <span style="color: Red">[12/2025]</span> Yicheng Chen won the Best Poster Award at the NUS MSE MatterX Annual Congress! 🎉 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/EUT9dsCGLogy6vxuASlljm2qgbd?from=from_copylink) 
 
 
 * <span style="color: Red">[11/2025]</span> Dr. Zhong was awarded the AI2050 Early Career Fellowship by Schmidt Sciences. [[Schmidt Sciences News]](https://www.schmidtsciences.org/2025-ai2050-fellows-announcement/) [[NUS News]](https://cde.nus.edu.sg/news-detail/asst-prof-zhong-peichen-named-ai2050-early-career-fellow/) [[BIDMaP News]](https://bidmap.berkeley.edu/news/fellow-alum-peichen-zhong-named-2025-ai2050-early-career-fellow)
 
 
-* <span style="color: Red">[07/2025]</span> Dr. Zhong attended the AI4X Conference at the National University of Singapore from July 8 to July 11, 2025. He presented the the work on inpainting generation for crystal structure prediction. [[link]](https://ai4x.cc/) 
+* <span style="color: Red">[07/2025]</span> Dr. Zhong attended the AI4X Conference at the National University of Singapore from July 8 to July 11, 2025. He presented the the work on inpainting generation for crystal structure prediction. The AM3 Group opens its door from the day!
 
 * <span style="color: Red">[06/2025]</span> Dr. Zhong attended the ICMAT 2025 at Singapore from June 30 to July 4, 2025. He presented an invited talk on atomistic and generative modeling for battery materials. [[link]](https://icmat2025.mrs.org.sg/symposia-m/)
 
