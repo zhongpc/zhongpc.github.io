@@ -56,6 +56,12 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 
 <strong>Postdoctoral Fellows</strong>:
 * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest.
+* <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
+* <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
+    * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
+    * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
+    * Other fellowships are potentially available to apply (e.g., Singapore NRF Postdoctoral Fellowship, [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship) and [Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2024/04/NUS-Presidential-Fellowship8.pdf)).
+
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
 <!-- * <span style="text-decoration: underline">We have one postdoc opening for computational chemistry (starting in 2026):</span>
     * We are looking for a team member with a computational/quantum chemistry background and willing to work on applied scientific problems.
@@ -70,11 +76,6 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
     * Publication record in AI conferences (e.g., ICLR, ICML, NeurIPS) or their associated workshops.
     * To apply or inquire, please send your CV and Cover Letter to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
     * In the Cover Letter, please describe the motivation to work on AI for materials/chemistry, etc. -->
-* <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
-* <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
-    * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
-    * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
-    * Other fellowships are potentially available to apply (e.g., Singapore NRF Postdoctoral Fellowship, [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship) and [Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2024/04/NUS-Presidential-Fellowship8.pdf)).
 
 
 <strong>Visiting Scholars</strong>:
