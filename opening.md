@@ -55,7 +55,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 
 
 <strong>Postdoctoral Fellows</strong>:
-<!-- * <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest. -->
+* <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest.
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
 <!-- * <span style="text-decoration: underline">We have one postdoc opening for computational chemistry (starting in 2026):</span>
     * We are looking for a team member with a computational/quantum chemistry background and willing to work on applied scientific problems.
@@ -64,12 +64,12 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
     * Expertise in rare-event sampling and reaction network is a big plus.
     * Expertise in generative models (geometric models or LLM) for scientific applications is a big plus.
     * To apply or inquire, please send an email to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>. -->
-* <span style="text-decoration: underline">We have one postdoc opening for the AI/ML track (starting in 2026):</span>
+<!-- * <span style="text-decoration: underline">We have one postdoc opening for the AI/ML track (starting in 2026):</span>
     * We are looking for a team member with a strong CS/ML/AI background. The research direction is highly flexible, broadly defined within AI for materials or chemistry (or biology).
     * Research experience in geometric deep learning, generative models, agentic AI for science, computational chemistry, etc.
     * Publication record in AI conferences (e.g., ICLR, ICML, NeurIPS) or their associated workshops.
     * To apply or inquire, please send your CV and Cover Letter to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
-    * In the Cover Letter, please describe the motivation to work on AI for materials/chemistry, etc.
+    * In the Cover Letter, please describe the motivation to work on AI for materials/chemistry, etc. -->
 * <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
