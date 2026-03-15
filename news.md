@@ -4,12 +4,16 @@ title:
 ---
 
 
-#### *Upcoming*
+<!-- #### *Upcoming* -->
+
+* Here is a collection of the group moments. 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/FYZGdwkVSomRAvxRPyXlXPufgwg?from=from_copylink) 
+
 
 * <span style="color: DodgerBlue">[04/2026]</span> We are going to organize a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at 2026 MRS Spring Conference. Welcome to connect and discuss science!
 
 
-#### *Past*
+
+<!-- #### *Past*/ -->
 
 * <span style="color: Red">[12/2025]</span> Yicheng Chen won the Best Poster Award at the NUS MSE MatterX Annual Congress! 🎉 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/EUT9dsCGLogy6vxuASlljm2qgbd?from=from_copylink) 
 
