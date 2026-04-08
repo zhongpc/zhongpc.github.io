@@ -62,12 +62,27 @@ grad-xintian:
     bio: Wendy is a PhD student with a strong interest in molecular dynamics simulations of solid-state electrolyte materials. She has also worked on projects in batteries and electrocatalysis. Previously, she was a research intern at the AI for Science Institute. Now she is applying machine learning potentials and atomistic simulations to explore the properties of energy materials. Outside of research, she enjoys playing the guzheng and travelling. 
 
 
+grad-xiaoyun:
+    display_name: "Xiaoyun Yu"
+    role: grad
+    image: /img/people/XiaoyunYu.png
+    degree: "MS from Hunan University (08/2026-)"
+    bio: Xiaoyun is an incoming PhD student working at the intersection of AI4S, molecular dynamics, and hardware-software co-design. She works on MLIPs, agentic AI workflows, and accelerator architectures including FPGA and ASIC systems. Outside of work, you’ll usually find her with a good coffee, trying great food, heading outdoors, or dancing.
+    
+grad-zihui:
+    display_name: "Zihui Li"
+    role: grad
+    image: /img/people/ZihuiLi.png
+    degree: "MS from Tsinghua University (08/2026-)"
+    bio: Zihui is an incoming PhD student who is passionate about AI and materials science. Her research focuses on leveraging machine learning to explore the properties of energy materials and accelerate the discovery of new materials. Outside of research, Zihui is a big fan of traveling and exploring different cities. She is also a huge K-pop enthusiast and loves keeping up with her favorite groups.
+
+
 # grad-empty:
 #     display_name: ""
 #     role: grad
 #     # image: /img/people/atom.png
-#     bio: ""
 #     degree: ""
+#     bio: 
 
 
 # staff-a:

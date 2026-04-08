@@ -12,7 +12,9 @@ title:
 * <span style="color: DodgerBlue">[07/2026]</span> Our group is going attend the 25th International Conference on Solid State Ionics. Welcome to connect and discuss science! [[link]](https://ssi-25.org/)
 
 
-* <span style="color: DodgerBlue">[07/2026]</span> Our group is going attend the Conference of Condensed Matter Physics. Welcome to connect and discuss science! [[link]](https://ccmp2026.ioply.cn/)
+* <span style="color: DodgerBlue">[06/2026]</span> Our group is going attend the Conference of Condensed Matter Physics. Welcome to connect and discuss science! [[link]](https://ccmp2026.ioply.cn/)
+
+* <span style="color: DodgerBlue">[06/2026]</span> Our group is going attend the AI4X-AC Conference 2026. Welcome to connect and discuss science! [[link]](https://ai4x.cc/)
 
 
 * <span style="color: DodgerBlue">[04/2026]</span> We are going to organize a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at 2026 MRS Spring Conference. Welcome to connect and discuss science!
