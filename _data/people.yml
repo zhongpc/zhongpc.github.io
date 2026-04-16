@@ -76,6 +76,13 @@ grad-zihui:
     degree: "MS from Tsinghua University (08/2026-)"
     bio: Zihui is an incoming PhD student who is passionate about AI and materials science. Her research focuses on leveraging machine learning to explore the properties of energy materials and accelerate the discovery of new materials. Outside of research, Zihui is a big fan of traveling and exploring different cities. She is also a huge K-pop enthusiast and loves keeping up with her favorite groups.
 
+grad-Hyejeong:
+    display_name: "Hyejeong Song"
+    role: grad
+    image: /img/people/HyejeongSong.png
+    degree: "MS from Korea University (08/2026-)"
+    bio: Hyejeong is an incoming PhD student with a strong interest in AI for materials design and discovery. She has worked on atomistic simulations, machine learning, and multiscale materials modeling, focusing on the predictive design and understanding of electronic materials. Outside of research, she loves traveling and going to concerts and music festivals.
+
 
 # grad-empty:
 #     display_name: ""
