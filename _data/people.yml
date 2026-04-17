@@ -126,6 +126,13 @@ visit-mengyi:
     degree: "Visiting PhD student from NUS Math (2026-)"
 
 
+visit-fanke:
+    display_name: "Fanke Zhou"
+    role: visit
+    image: /img/people/FankeZhou.png
+    bio: Fanke is an undergraduate student at the University of Science and Technology of China (USTC). His past research focused on Neural Network Quantum States (NNQS) for ab initio quantum chemistry within the second-quantization framework. His current interests lie in machine learning interatomic potentials (MLIP). Outside of research, he enjoys playing football and watching films. 
+    degree: "Undergraduate summer intern (IRIS@NUS)"
+
 
 
 
