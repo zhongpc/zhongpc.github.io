@@ -6,10 +6,10 @@ title: Openings
 ---
 
 
-We are currently "vibe hiring" 🚀
+We are currently <strong>"vibe hiring"</strong> for future team members 🚀
 
-Our focus is finding future team members who share our deep interest in materials modeling and the broader world of AI4Science. 
-We throw out the standard checklist. We don’t care about the traditional labels of PhD versus postdoc, and we place no constraints on specific skills or publication count. You are welcome to get in touch if you agree with our group values:
+We are throwing out the standard checklist. We value people over productivity or career stage. There are no constraints on specific technical skills, publication counts, or whether you fit into a "PhD" or "postdoc" box. You are welcome to get in touch if you agree with our group values:
+
 
 <!-- You are welcome to get in touch if you agree with our group values: -->
 * <span style="color: darkred">Our group is grounded in kindness, and we strive to create an inclusive environment.</span>
@@ -98,7 +98,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 ### Preferred Qualifications
 
 
-We seek applicants with backgrounds in any of the following areas. Related experience is preferred but not required for PhD applicants.
+Related experience is preferred but not required (especially for PhD applicants):
 * Solid foundation in <strong>thermodynamics & statistical mechanics</strong>, solid-state physics/chemistry, and/or quantum mechanics
 * Practical experience with density functional theory calculations (e.g., VASP, Quantum Espresso, Q-Chem, PySCF)
 * Proficiency in at least one mainstream deep learning framework (e.g., PyTorch, JAX)
@@ -107,4 +107,4 @@ We seek applicants with backgrounds in any of the following areas. Related exper
 * Expertise in computational chemistry (e.g., rare-event sampling, reaction network, high-throughput computation)
 * Expertise in computational physics (e.g., excited-states calculations, quantum transport simulations)
 * Expertise in generative models for scientific applications (e.g., diffusion/flow/autoregressive models)
-* Expertise in LLMs for scientific applications (e.g., LLM-based molecular design, decision making, synthesis planning)
+* Expertise in LLM-based agents for scientific applications (e.g., molecular design, decision making, synthesis planning)

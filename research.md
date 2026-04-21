@@ -35,7 +35,7 @@ layout: default
     <p class="aligned-paragraph">
         Materials modeling with atomistic simulation offers a powerful alternative to conventional trial-and-error methods by providing atomic-level insights for mechanistic understanding and accelerated material discovery. A central objective is to predict material properties at finite temperatures, which requires a computationally efficient statistical mechanics approach that maintains ab-initio accuracy.
         <br><br>
-        <span style="text-decoration: underline">Our research focuses on developing computational frameworks that connects first-principles calculations of crystalline and molecular microstates to their macroscopic thermodynamic and kinetic material properties. </span>
+        Our research focuses on developing computational frameworks that connects <span style="text-decoration: underline">first-principles calculations of crystalline and molecular microstates to their macroscopic thermodynamic and kinetic material properties.</span> 
         These computational frameworks enable us to bridge different length scales, time scales, and phenomena, thereby not only accelerating the materials discovery rate but also deepening our fundamental understanding of materials chemistry for technological development. 
         <br><br>
         Currently, we are particularly interested in
