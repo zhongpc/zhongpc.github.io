@@ -109,13 +109,6 @@ visit-yubai:
 
 
 
-visit-bo:
-    display_name: "Bo Li"
-    role: visit
-    image: /img/people/BoLi.jpg
-    bio: Bo Li is a master student at NUS MSE with a background in agentic AI and inverse design of molecules via generative models. He previously worked on developing multi-AI agent assistant for new self-assembled monolayer molecule discovery. He enjoys traveling, hiking,  and video games. 
-    degree: "MS student from NUS MSE (2025-2026)"
-
 
 
 visit-mengyi:
@@ -159,6 +152,10 @@ visit-fanke:
 
 alum-izumi:
     display_name: "Izumi Takahara (Visiting PhD student from UTokyo, 2025)"
+    role: alum
+
+alum-bo:
+    display_name: "Bo Li (MS student from NUS MSE, 2025-2026)"
     role: alum
 
 

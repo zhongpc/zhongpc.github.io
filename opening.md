@@ -6,9 +6,12 @@ title: Openings
 ---
 
 
+We are currently "vibe hiring" 🚀
 
-We are actively looking for passionate <strong>Ph.D. students</strong> and <strong>research scholars</strong> who are interested in computational modeling for materials physics/chemistry and the general topics in AI4Science. <span style="text-decoration: underline">You are welcome to get in touch if you agree with our group values</span>:
+Our focus is finding future team members who share our deep interest in materials modeling and the broader world of AI4Science. 
+We throw out the standard checklist. We don’t care about the traditional labels of PhD versus postdoc, and we place no constraints on specific skills or publication count. You are welcome to get in touch if you agree with our group values:
 
+<!-- You are welcome to get in touch if you agree with our group values: -->
 * <span style="color: darkred">Our group is grounded in kindness, and we strive to create an inclusive environment.</span>
 * <span style="color: red">We do not tolerate harassment or discrimination in any form.</span>
 * <span style="color: orange">We value the importance of methodology development and coding practices.</span>
@@ -33,7 +36,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 
 <span style="text-decoration: underline">We are actively looking for PhD students</span>. Openings are available for both Fall and Spring intake.
 * B.S. or M.S. in physics/chemistry/computer science/materials science or related fields
-* TOEFL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
+* (Basic) TOEFL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * The PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
 * We always encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
@@ -43,8 +46,8 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
 * <strong>PGF</strong> can be submitted at any intake. Successful applicants usually have received PhD offers from US-Top20 institutions (or equivalent). If you are a competing offer holder and want to pursue a different journey at NUS, feel free to get in touch.
-* Our research is highly interdisciplinary. If you have a strong academic record, please consider the <a href="https://isep.nus.edu.sg/">ISEP</a> PhD program at NUS. (You can apply both ISEP and MSE PhDs.) Please send me your CV and a research proposal abstract (< 200 words) and highlight how you would combine science and engineering, or theory and experiments.
-* Research Assistant (RA) positions are provided as financial support for the PhD program. We do not offer standalone RA positions.
+* Our research is highly interdisciplinary. If you have a strong academic record, please consider the <a href="https://isep.nus.edu.sg/">ISEP</a> PhD program at NUS. (You can apply both ISEP and MSE PhD programs). Please send me your CV and a research proposal abstract (< 200 words) and highlight how you would combine science and engineering, or theory and experiments.
+* Research Assistants (RA) are provided as financial support for PhD programs. We do not offer standalone RA or predoc intern positions.
 
 * What we offer:
     * We are a TechTeam-style group. We help each other and value direct communication.
@@ -55,7 +58,8 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 
 
 <strong>Postdoctoral Fellows</strong>:
-* <span style="text-decoration: underline">We do not have specific postdoc openings at this moment.</span> However, if you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest.
+* <span style="text-decoration: underline">Vibe hiring:</span> if you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest.
+<!-- * The postdoc position follows the vibe hiring rule.  -->
 * <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
 * <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
@@ -94,7 +98,7 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 ### Preferred Qualifications
 
 
-We seek applicants with backgrounds in any of the following areas (Related research experience is preferred but not required for PhD applicants).
+We seek applicants with backgrounds in any of the following areas. Related experience is preferred but not required for PhD applicants.
 * Solid foundation in <strong>thermodynamics & statistical mechanics</strong>, solid-state physics/chemistry, and/or quantum mechanics
 * Practical experience with density functional theory calculations (e.g., VASP, Quantum Espresso, Q-Chem, PySCF)
 * Proficiency in at least one mainstream deep learning framework (e.g., PyTorch, JAX)
