@@ -8,7 +8,7 @@ title: Openings
 
 We are currently <strong>"vibe hiring"</strong> for future team members 🚀
 
-We are throwing out the standard checklist. We value people over productivity or career stage. There are no constraints on specific technical skills, publication counts, or whether you fit into a "PhD" or "postdoc" box. You are welcome to get in touch if you agree with our group values:
+We are throwing out the standard checklist. There are no constraints on specific technical skills, publication counts, or whether you fit into a "PhD" or "postdoc" box. We value people over productivity or career stage. You are welcome to get in touch if you agree with our group values:
 
 
 <!-- You are welcome to get in touch if you agree with our group values: -->
@@ -32,11 +32,11 @@ We are throwing out the standard checklist. We value people over productivity or
 <strong>PhD Students</strong>:
 
 Interested in pursuing a PhD in science? We recommend that you watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
-The presentation from Prof. Silvija Gradecak is particularly useful. If you have a strong desire to pursue this path, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> and submit your application in the GDA3 system.
+The presentation from Prof. Silvija Gradecak is particularly inspiring. If you have a strong desire to pursue this path, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> and submit your application in the GDA3 system.
 
 <span style="text-decoration: underline">We are actively looking for PhD students</span>. Openings are available for both Fall and Spring intake.
 * B.S. or M.S. in physics/chemistry/computer science/materials science or related fields
-* (Basic) TOEFL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
+* TOEFL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * The PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
 * We always encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
@@ -58,10 +58,9 @@ The presentation from Prof. Silvija Gradecak is particularly useful. If you have
 
 
 <strong>Postdoctoral Fellows</strong>:
-* <span style="text-decoration: underline">Vibe hiring:</span> if you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest.
-<!-- * The postdoc position follows the vibe hiring rule.  -->
-* <span style="text-decoration: underline">I apologize that I may not be able to respond to every email.</span> If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
-* <span style="text-decoration: underline">Regardless of the above openings</span>, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
+* If you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest (Vibe Hiring).
+* I apologize that I may not be able to respond to every email. If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
+* Regardless of the above specific openings, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
     * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
     * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
     * Other fellowships are potentially available to apply (e.g., Singapore NRF Postdoctoral Fellowship, [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship) and [Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2024/04/NUS-Presidential-Fellowship8.pdf)).
