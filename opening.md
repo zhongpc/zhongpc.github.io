@@ -20,6 +20,7 @@ We are throwing out the standard checklist. There are no constraints on specific
 * <span style="color: blue">We aim to tackle challenging scientific problems with a positive research mindset.</span>
 * <span style="color: blueviolet">We commit to acting with honesty and scientific integrity.</span>
 
+
 ---
 
 <strong>Contact</strong>: <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>
@@ -34,11 +35,14 @@ We are throwing out the standard checklist. There are no constraints on specific
 Interested in pursuing a PhD in science? We recommend that you watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
 The presentation from Prof. Silvija Gradecak is particularly inspiring. If you have a strong desire to pursue this path, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> and submit your application in the GDA3 system.
 
-<span style="text-decoration: underline">We are actively looking for PhD students</span>. Openings are available for both Fall and Spring intake.
-* B.S. or M.S. in physics/chemistry/computer science/materials science or related fields
-* TOEFL ≥ 90 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
+
+<!-- <span style="text-decoration: underline">We are actively looking for PhD students</span>.  -->
+<strong>We are actively looking for PhD students. Openings are available for both Fall and Spring intake.</strong>
+* B.S. or M.S. in physics/chemistry/applied math/materials science or related fields
+* TOEFL (new) ≥ 5.0 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email (1) your CV and (2) a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
-* The PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
+* PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
+* Research Assistants (RA) are provided as financial support for PhD programs. We do not offer standalone RA or predoc intern positions.
 * We always encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
     * ASEAN Scholarship <span style="color: lightgray">[please indicate; for students from ASEAN countries only]</span>
     * Commonwealth Scholarship <span style="color: lightgray">[please indicate; for students from Commonwealth countries only]</span>
@@ -47,14 +51,15 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
 * <strong>PGF</strong> can be submitted at any intake. Successful applicants usually have received PhD offers from US-Top20 institutions (or equivalent). If you are a competing offer holder and want to pursue a different journey at NUS, feel free to get in touch.
 * Our research is highly interdisciplinary. If you have a strong academic record, please consider the <a href="https://isep.nus.edu.sg/">ISEP</a> PhD program at NUS. (You can apply both ISEP and MSE PhD programs). Please send me your CV and a research proposal abstract (< 200 words) and highlight how you would combine science and engineering, or theory and experiments.
-* Research Assistants (RA) are provided as financial support for PhD programs. We do not offer standalone RA or predoc intern positions.
 
-* What we offer:
-    * We are a TechTeam-style group. We help each other and value direct communication.
-    * We focus on both method development and applications. We maintain close collaborations with experimental researchers.
-    * We encourage our graduate students to thrive in interdisciplinary research environments, find their interests, and develop their careers.
-    * We are committed to fostering a positive and supportive research environment.
 
+<strong>Who we are and what we offer</strong>:
+* We are a TechTeam-style group. We help each other to solve challenging scientific problems.
+* We maintain a flat structure where team members are equally valued players in talent recruitment and research projects.
+* We encourage graduate students to thrive in interdisciplinary research environments, find their interests, and develop their careers.
+* We focus on both method development and applications. We maintain close collaborations with experimental researchers.
+
+---
 
 
 <strong>Postdoctoral Fellows</strong>:
@@ -80,9 +85,10 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
     * To apply or inquire, please send your CV and Cover Letter to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
     * In the Cover Letter, please describe the motivation to work on AI for materials/chemistry, etc. -->
 
+---
 
 <strong>Visiting Scholars</strong>:
-* Please email Dr. Zhong directly to discuss (and indicate the funding resources for a visit > six months).
+* Please email <a href="mailto:am3grouphiring@gmail.com">Dr. Zhong</a> directly to discuss (and indicate the funding resources for a visit > six months).
 * Visiting PhD students with CSC scholarships are welcome. Approvals from PhD advisors must be obtained before applying.
 * Final Year Project (FYP) students at NUS are welcome. Please email Dr. Zhong directly to discuss.
 
@@ -98,6 +104,7 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 
 
 Related experience is preferred but not required (especially for PhD applicants):
+* Education or track record in <strong>applied math</strong> but strong interest in physical sciences
 * Solid foundation in <strong>thermodynamics & statistical mechanics</strong>, solid-state physics/chemistry, and/or quantum mechanics
 * Practical experience with density functional theory calculations (e.g., VASP, Quantum Espresso, Q-Chem, PySCF)
 * Proficiency in at least one mainstream deep learning framework (e.g., PyTorch, JAX)
