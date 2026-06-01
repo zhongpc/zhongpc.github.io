@@ -40,7 +40,7 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 <strong>We are actively looking for PhD students. Openings are available for both Fall and Spring intake.</strong>
 * B.S. or M.S. in physics/chemistry/applied math/materials science or related fields
 * TOEFL (new) ≥ 5.0 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
-* Please email (1) your CV and (2) a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
+* Please email your CV + a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
 * Research Assistants (RA) are provided as financial support for PhD programs. We do not offer standalone RA or predoc intern positions.
 * We always encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
