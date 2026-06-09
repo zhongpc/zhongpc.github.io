@@ -8,15 +8,15 @@ title: Openings
 
 We are currently <strong>"vibe hiring"</strong> for future team members 🚀
 
-We are throwing out the standard checklist. There are no constraints on specific technical skills, publication counts, or whether you fit into a "PhD" or "postdoc" box. We value people over productivity or career stage. You are welcome to get in touch if you agree with our group values:
+We are moving beyond the standard checklist. There are no fixed requirements for specific technical skills, publication counts, or whether you fit neatly into a "PhD" or "postdoc" box. We value people beyond productivity metrics and career stage. You are welcome to get in touch if you share our group values:
 
 
 <!-- You are welcome to get in touch if you agree with our group values: -->
 * <span style="color: darkred">Our group is grounded in kindness, and we strive to create an inclusive environment.</span>
 * <span style="color: red">We do not tolerate harassment or discrimination in any form.</span>
-* <span style="color: orange">We value the importance of methodology development and coding practices.</span>
+* <span style="color: orange">We value methodological development and good coding practices.</span>
 * <span style="color: Green">We honor the contributions of all group members.</span>
-* <span style="color: dodgerblue">We ask for help and value direct communication (speaking > 20 sentences daily). </span>
+* <span style="color: dodgerblue">We ask for help and value direct communication (more than 20 spoken sentences each day). </span>
 * <span style="color: blue">We aim to tackle challenging scientific problems with a positive research mindset.</span>
 * <span style="color: blueviolet">We commit to acting with honesty and scientific integrity.</span>
 
@@ -25,50 +25,50 @@ We are throwing out the standard checklist. There are no constraints on specific
 
 <strong>Contact</strong>: <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>
 <br>
-<span style="color: brown">Please do NOT send application to the [nus.edu.sg] email address. It is hard for me to track your application materials. Thank you!</span>
+<span style="color: brown">Please do NOT send applications to the [nus.edu.sg] email address. That makes it difficult for me to track your application materials. Thank you!</span>
 <br>
 
 
 ---
 <strong>PhD Students</strong>:
 
-Interested in pursuing a PhD in science? We recommend that you watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before application. 
-The presentation from Prof. Silvija Gradecak is particularly inspiring. If you have a strong desire to pursue this path, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> and submit your application in the GDA3 system.
+Interested in pursuing a PhD in science? We recommend that you watch the <a href="https://www.youtube.com/watch?v=gUa5CQ0yE6c&t=794s">Seminar Talk</a> before applying.
+The presentation from Prof. Silvija Gradecak is particularly inspiring. If you have a strong desire to pursue this path, please check the <a href="https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/how-to-apply/">timeline</a> and submit your application through the GDA3 system.
 
 
 <!-- <span style="text-decoration: underline">We are actively looking for PhD students</span>.  -->
-<strong>We are actively looking for PhD students. Openings are available for both Fall and Spring intake.</strong>
-* B.S. or M.S. in physics/chemistry/applied math/materials science or related fields
+<strong>We are actively looking for PhD students. Openings are available for both Fall and Spring intakes.</strong>
+* BS or MS in physics, chemistry, applied mathematics, materials science, or a related field
 * TOEFL (new) ≥ 5.0 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
-* Please email your CV + a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
-* PhD positions are well-funded in our group. We do not accept self-financed students (including CSC scholarships). 
-* Research Assistants (RA) are provided as financial support for PhD programs. We do not offer standalone RA or predoc intern positions.
-* We always encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD Fellowships</a>:
+* Please email your CV and a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
+* PhD positions in our group are well funded. We do not accept self-financed students (including CSC scholarships).
+* Research assistantships (RAs) provide financial support for PhD students. We do not offer standalone RA or predoc intern positions.
+* We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD fellowships</a>:
     * ASEAN Scholarship <span style="color: lightgray">[please indicate; for students from ASEAN countries only]</span>
     * Commonwealth Scholarship <span style="color: lightgray">[please indicate; for students from Commonwealth countries only]</span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * AI Singapore Scholarship  <span style="color: lightgray">[with service commitments]</span>
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
-* <strong>PGF</strong> can be submitted at any intake. Successful applicants usually have received PhD offers from US-Top20 institutions (or equivalent). If you are a competing offer holder and want to pursue a different journey at NUS, feel free to get in touch.
-* Our research is highly interdisciplinary. If you have a strong academic record, please consider the <a href="https://isep.nus.edu.sg/">ISEP</a> PhD program at NUS. (You can apply both ISEP and MSE PhD programs). Please send me your CV and a research proposal abstract (< 200 words) and highlight how you would combine science and engineering, or theory and experiments.
+* <strong>PGF</strong> nominations can be submitted for any intake. Successful applicants often have PhD offers from top-20 U.S. institutions (or equivalent programs). If you hold a competing offer and want to pursue a different path at NUS, feel free to get in touch.
+* Our research is highly interdisciplinary. If you have a strong academic record, please consider the <a href="https://isep.nus.edu.sg/">ISEP</a> PhD program at NUS. (You can apply to both the ISEP and MSE PhD programs). Please send me your CV and a research proposal abstract (under 200 words), highlighting how you would combine science and engineering, or theory and experiment.
 
 
 <strong>Who we are and what we offer</strong>:
-* We are a TechTeam-style group. We help each other to solve challenging scientific problems.
-* We maintain a flat structure where team members are equally valued players in talent recruitment and research projects.
-* We encourage graduate students to thrive in interdisciplinary research environments, find their interests, and develop their careers.
+* We are a TechTeam-style group. We help each other solve challenging scientific problems.
+* We maintain a flat structure where team members are equally valued contributors to recruiting and research projects.
+* We encourage graduate students to thrive in interdisciplinary research environments, identify their interests, and develop their careers.
 * We focus on both method development and applications. We maintain close collaborations with experimental researchers.
 
 ---
 
 
 <strong>Postdoctoral Fellows</strong>:
-* If you have a strong interest in working with us, you are welcome to get in touch with a CV + research interest (Vibe Hiring).
-* I apologize that I may not be able to respond to every email. If we do not have any openings, I will keep your materials on file and reach out if specific openings arise at a future date.
-* Regardless of the above specific openings, we always encourage excellent candidates to apply for Postdoctoral Fellowships: 
-    * As an <strong>independent research fellow</strong>, you will enjoy the research freedom while collaborating with the group.
-    * We particularly recommend the application for [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications & strong interests working on AI4Science.
-    * Other fellowships are potentially available to apply (e.g., Singapore NRF Postdoctoral Fellowship, [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship) and [Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2024/04/NUS-Presidential-Fellowship8.pdf)).
+* If you are strongly interested in working with us, please send a CV and a brief statement of research interests (Vibe Hiring).
+* Please note that I may not be able to respond to every email. If we do not have any openings, I will keep your materials on file and reach out if specific openings arise in the future.
+* Regardless of current openings, we encourage excellent candidates to apply for postdoctoral fellowships:
+    * As an <strong>independent research fellow</strong>, you will have research freedom while collaborating with the group.
+    * We particularly recommend applying for the [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship). Please (1) read the eligibility and requirements; (2) get in touch if you have the preferred qualifications and a strong interest in AI for Science.
+    * Other fellowships may also be available (e.g., Singapore NRF Postdoctoral Fellowship, [LKY Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/lee-kuan-yew-postdoctoral-fellowship), and [Presidential Fellowship](https://www.nus.edu.sg/careers/wp-content/uploads/2024/04/NUS-Presidential-Fellowship8.pdf)).
 
 <!-- * Please email (1) your CV; (2) a cover letter including your research interests; (3) the contact information of two or three references -->
 <!-- * <span style="text-decoration: underline">We have one postdoc opening for computational chemistry (starting in 2026):</span>
@@ -88,8 +88,8 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 ---
 
 <strong>Visiting Scholars</strong>:
-* Please email <a href="mailto:am3grouphiring@gmail.com">Dr. Zhong</a> directly to discuss (and indicate the funding resources for a visit > six months).
-* Visiting PhD students with CSC scholarships are welcome. Approvals from PhD advisors must be obtained before applying.
+* Please email <a href="mailto:am3grouphiring@gmail.com">Dr. Zhong</a> directly to discuss, and indicate the funding source for visits longer than six months.
+* Visiting PhD students with CSC scholarships are welcome. Students should obtain approval from their PhD advisors before applying.
 * Final Year Project (FYP) students at NUS are welcome. Please email Dr. Zhong directly to discuss.
 
 <!-- <strong>Undergraduate Students</strong>:
@@ -104,13 +104,13 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 
 
 Related experience is preferred but not required (especially for PhD applicants):
-* Education or track record in <strong>applied math</strong> but strong interest in physical sciences
-* Solid foundation in <strong>thermodynamics & statistical mechanics</strong>, solid-state physics/chemistry, and/or quantum mechanics
+* Education or a track record in <strong>applied mathematics</strong>, with a strong interest in physical sciences
+* A solid foundation in <strong>thermodynamics & statistical mechanics</strong>, solid-state physics/chemistry, and/or quantum mechanics
 * Practical experience with density functional theory calculations (e.g., VASP, Quantum Espresso, Q-Chem, PySCF)
 * Proficiency in at least one mainstream deep learning framework (e.g., PyTorch, JAX)
-* Proficiency in scientific computing with Python libraries
+<!-- * Proficiency in scientific computing with Python libraries -->
 * Expertise in (atomistic) thermodynamic & kinetic simulations (e.g., Monte Carlo, molecular dynamics)
-* Expertise in computational chemistry (e.g., rare-event sampling, reaction network, high-throughput computation)
-* Expertise in computational physics (e.g., excited-states calculations, quantum transport simulations)
-* Expertise in generative models for scientific applications (e.g., diffusion/flow/autoregressive models)
-* Expertise in LLM-based agents for scientific applications (e.g., molecular design, decision making, synthesis planning)
+* Expertise in computational chemistry (e.g., rare-event sampling, reaction networks, high-throughput computation)
+* Expertise in computational physics (e.g., excited-state calculations, quantum transport simulations)
+* Expertise in generative modeling and dynamics
+* Expertise in LLM-based agents for scientific applications (e.g., molecular design, decision-making, synthesis planning)

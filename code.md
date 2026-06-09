@@ -2,8 +2,4 @@
 layout: default
 title: Code
 ---
-This is an example of an additional page you could add to the site (and its navigation).
-
-If you like this template, find our group's other code here:
-
- * [uwsampa on GitHub](https://github.com/uwsampa/)
+Code and software resources from the AM3 Group will be shared here as they become available.

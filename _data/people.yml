@@ -3,7 +3,7 @@ prof:
     # github: zhongpc
     role: faculty
     image: /img/people/PeichenZhong.jpg
-    bio: Peichen grew up in Sichuan (the birthplace of pandas with a lot of spicy food). He received a BS in Physics from USTC (2018) and a PhD in Materials Science from UC Berkeley (2023) under the supervision of Prof. Gerd Ceder. He then completed the postdoctoral work at Lawrence Berkeley National Laboratory (LBNL) and Bakar Institute of Digital Materials for the Planet (<a href='https://bidmap.berkeley.edu/'>BIDMaP</a>), co-advised by Profs. Kristin Persson, Bingqing Cheng, and Aditi Krishnapriyan. He joined NUS MSE as an Assistant Professor under the Presidential Young Professorship from July 2025. He enjoys traveling, hot pot, and writing with LaTeX. [<a href='https://www.linkedin.com/in/zhongpc'>LinkedIn</a>, <a href='https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>] 
+    bio: Peichen grew up in Sichuan, the birthplace of the giant panda and a region known for spicy food. He received a BS in Physics from USTC (2018) and a PhD in Materials Science from UC Berkeley (2023) under the supervision of Prof. Gerd Ceder. He then completed postdoctoral work at Lawrence Berkeley National Laboratory (LBNL) and the Bakar Institute of Digital Materials for the Planet (<a href='https://bidmap.berkeley.edu/'>BIDMaP</a>), where he was co-advised by Profs. Kristin Persson, Bingqing Cheng, and Aditi Krishnapriyan. He joined NUS MSE in July 2025 as an Assistant Professor and Presidential Young Professor. He enjoys traveling, hot pot, and writing in LaTeX. [<a href='https://www.linkedin.com/in/zhongpc'>LinkedIn</a>, <a href='https://scholar.google.com/citations?hl=en&user=Ej2q3FUAAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>]
     email: "zhongpc[AT]nus.edu.sg"
 
 
@@ -25,7 +25,7 @@ post-zihan:
     display_name: "Dr. Zihan Zhang"
     role: postdoc
     image: /img/people/ZihanZhang.png
-    bio: Zihan is a postdoctoral research fellow with a background in computational physics. His research interests include condensed matter physics and the design of materials using structure search methods. He has worked on superconducting hydrides, 2D materials, and super-hard materials. He has a strong knowledge of superconductivity theory. He enjoys physics, Chinese classical literature, and animation. <a href='https://scholar.google.com/citations?user=TjySt5IAAAAJ&hl=en'>[Google Scholar]</a>
+    bio: Zihan is a postdoctoral research fellow with a background in computational physics. His research interests include condensed matter physics and the design of materials using crystal structure search methods. He has worked on superconducting hydrides, 2D materials, and superhard materials. He has deep knowledge of superconductivity theory. He enjoys physics, Chinese classical literature, and animation. <a href='https://scholar.google.com/citations?user=TjySt5IAAAAJ&hl=en'>[Google Scholar]</a>
     degree: "PhD in Physics, Jilin University"
 
 
@@ -33,7 +33,7 @@ post-tim:
     display_name: "Timothy D. Pook"
     role: postdoc
     image: /img/people/TimPook.webp
-    bio: Tim is current a research engineer in MSE department, managing and maintaining the HPC cluster and other computational resources. He enjoys martial arts, currently training Jiu-Jitsu and Judo.
+    bio: Tim is currently a research engineer in the MSE Department, where he manages and maintains the HPC cluster and other computational resources. He enjoys martial arts and currently trains in Jiu-Jitsu and Judo.
     degree: "Research Engineer at NUS"
 
 
@@ -50,7 +50,7 @@ grad-yichen:
     role: grad
     image: /img/people/YichengChen.png
     degree: "BS/MS from Fudan University (08/2025-)"
-    bio: Yicheng is a PhD student with a background in quantum chemistry and machine learning. He previously worked on using graph neural networks to predict molecular and material properties and was a research intern at Microsoft AI4Science. Now, he is exploring how ML can be used in electrochemical and energy storage systems. Outside of research, he enjoys playing video games - especially RPGs.
+    bio: Yicheng is a PhD student with a background in quantum chemistry and machine learning. He previously worked on using graph neural networks to predict molecular and materials properties and was a research intern at Microsoft AI4Science. He is now exploring how ML can be used in electrochemical and energy storage systems. Outside of research, he enjoys playing video games, especially RPGs.
     
 
 
@@ -59,7 +59,7 @@ grad-xintian:
     role: grad
     image: /img/people/WendyWang.jpg
     degree: "BS/MS from Oxford University (01/2026-)"
-    bio: Wendy is a PhD student with a strong interest in molecular dynamics simulations of solid-state electrolyte materials. She has also worked on projects in batteries and electrocatalysis. Previously, she was a research intern at the AI for Science Institute. Now she is applying machine learning potentials and atomistic simulations to explore the properties of energy materials. Outside of research, she enjoys playing the guzheng and travelling. 
+    bio: Wendy is a PhD student with a strong interest in molecular dynamics simulations of solid-state electrolyte materials. She has also worked on projects in batteries and electrocatalysis. Previously, she was a research intern at the AI for Science Institute. She is now applying machine learning potentials and atomistic simulations to explore the properties of energy materials. Outside of research, she enjoys playing the guzheng and traveling.
 
 
 grad-xiaoyun:
@@ -67,14 +67,14 @@ grad-xiaoyun:
     role: grad
     image: /img/people/XiaoyunYu.png
     degree: "MS from Hunan University (08/2026-)"
-    bio: Xiaoyun is an incoming PhD student working at the intersection of AI4S, molecular dynamics, and hardware-software co-design. She works on MLIPs, agentic AI workflows, and accelerator architectures including FPGA and ASIC systems. Outside of work, you’ll usually find her with a good coffee, trying great food, heading outdoors, or dancing.
+    bio: Xiaoyun is an incoming PhD student working at the intersection of AI4S, molecular dynamics, and hardware-software co-design. She works on MLIPs, agentic AI workflows, and accelerator architectures, including FPGA and ASIC systems. Outside of work, you’ll usually find her with a good coffee, trying great food, heading outdoors, or dancing.
     
 grad-zihui:
     display_name: "Zihui Li"
     role: grad
     image: /img/people/ZihuiLi.png
     degree: "MS from Tsinghua University (08/2026-)"
-    bio: Zihui is an incoming PhD student who is passionate about AI and materials science. Her research focuses on leveraging machine learning to explore the properties of energy materials and accelerate the discovery of new materials. Outside of research, Zihui is a big fan of traveling and exploring different cities. She is also a huge K-pop enthusiast and loves keeping up with her favorite groups.
+    bio: Zihui is an incoming PhD student who is passionate about AI and materials science. Her research focuses on using machine learning to study energy materials and accelerate materials discovery. Outside of research, Zihui is a big fan of traveling and exploring different cities. She is also a huge K-pop enthusiast and loves keeping up with her favorite groups.
 
 grad-Hyejeong:
     display_name: "Hyejeong Song"
@@ -104,7 +104,7 @@ visit-yubai:
     display_name: "Yubai Shi"
     role: visit
     image: /img/people/YubaiShi.jpg
-    bio: Yubai is a PhD candidate at the University of Chinese Academy of Sciences (UCAS). He is interested in ferroelectrics and using ML-assisted molecular dynamics to investigate the microscopic process and properties of matter. In his spare time, he is pursuing his goal of becoming a bodybuilder. He is not only inspired by the most novel and interesting research findings in the lab, but also motivated by the larger muscles in the gym!
+    bio: Yubai is a PhD candidate at the University of Chinese Academy of Sciences (UCAS). He is interested in ferroelectrics and using ML-assisted molecular dynamics to investigate the microscopic processes and properties of materials. In his spare time, he is working toward his goal of becoming a bodybuilder. He is motivated by both novel research findings in the lab and the progress he sees in the gym!
     degree: "Visiting PhD student from UCAS (2025-2026)"
 
 
@@ -115,7 +115,7 @@ visit-mengyi:
     display_name: "Mengyi Chen"
     role: visit
     image: /img/people/MengyiChen.jpg
-    bio: Mengyi is a PhD candidate in the Department of Mathematics at NUS. Her research focuses on applying machine learning to study the macroscopic dynamics of complex systems. She is currently collaborating with our group on understanding and modeling the dynamics of material systems. Outside of research, she enjoys running and playing the violin.
+    bio: Mengyi is a PhD candidate in the Department of Mathematics at NUS. Her research focuses on applying machine learning to study the macroscopic dynamics of complex systems. She is currently collaborating with our group on understanding and modeling the dynamics of materials systems. Outside of research, she enjoys running and playing the violin.
     degree: "Visiting PhD student from NUS Math (2026-)"
 
 
@@ -123,7 +123,7 @@ visit-fanke:
     display_name: "Fanke Zhou"
     role: visit
     image: /img/people/FankeZhou.png
-    bio: Fanke is an undergraduate student at the University of Science and Technology of China (USTC). His past research focused on Neural Network Quantum States (NNQS) for ab initio quantum chemistry within the second-quantization framework. His current interests lie in machine learning interatomic potentials (MLIP). Outside of research, he enjoys playing football and watching films. 
+    bio: Fanke is an undergraduate student at the University of Science and Technology of China (USTC). His past research focused on neural-network quantum states (NNQS) in ab initio quantum chemistry using a second-quantized framework. His current interests lie in machine-learning interatomic potentials (MLIPs). Outside of research, he enjoys playing football and watching films.
     degree: "Undergraduate summer intern (IRIS@NUS)"
 
 
