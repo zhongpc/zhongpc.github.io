@@ -16,7 +16,7 @@ We are moving beyond the standard checklist. There are no fixed requirements for
 * <span style="color: red">We do not tolerate harassment or discrimination in any form.</span>
 * <span style="color: orange">We value methodological development and good coding practices.</span>
 * <span style="color: Green">We honor the contributions of all group members.</span>
-* <span style="color: dodgerblue">We ask for help and value direct communication (more than 20 spoken sentences each day). </span>
+* <span style="color: dodgerblue">We ask for help and value direct communication (speaking more than 20 sentences everyday). </span>
 * <span style="color: blue">We aim to tackle challenging scientific problems with a positive research mindset.</span>
 * <span style="color: blueviolet">We commit to acting with honesty and scientific integrity.</span>
 
