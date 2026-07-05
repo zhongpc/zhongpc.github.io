@@ -43,7 +43,7 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 * Please email your CV and a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
 * PhD positions in our group are well funded. We do not accept self-financed students (including CSC scholarships).
 * Research assistantships (RAs) provide financial support for PhD students. We do not offer standalone RA or predoc intern positions.
-* We encourage excellent candidates to apply for <a href="https://nusgs.nus.edu.sg/scholarships/">PhD fellowships</a>:
+* We encourage excellent candidates to apply for <a href="https://cde.nus.edu.sg/graduate/scholarship-opportunities/">PhD fellowships</a>:
     * ASEAN Scholarship <span style="color: lightgray">[please indicate; for students from ASEAN countries only]</span>
     * Commonwealth Scholarship <span style="color: lightgray">[please indicate; for students from Commonwealth countries only]</span>
     * A*STAR Scholarship  <span style="color: lightgray">[with service commitments]</span>
