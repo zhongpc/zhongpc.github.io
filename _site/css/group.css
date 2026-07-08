@@ -140,9 +140,7 @@ section {
     font-weight: 325;
     font-size: 12px;
     max-height: 200px;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    white-space: pre-wrap; }
+    white-space: normal; }
   .person .person-name {
     margin: 0; }
   .person .email {
