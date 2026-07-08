@@ -8,14 +8,18 @@ title:
 
 * <strong>A collection of our group moments is available here.</strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/FYZGdwkVSomRAvxRPyXlXPufgwg?from=from_copylink)
 
+* <strong>Rocking at coneferences - the summer of 2026 </strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1?from=from_copylink)
 
+
+
+<!-- 
 * <span style="color: DodgerBlue">[07/2026]</span> Our group will attend the 25th International Conference on Solid State Ionics. We welcome opportunities to connect and discuss science! [[link]](https://ssi-25.org/)
 
 
 * <span style="color: DodgerBlue">[06/2026]</span> Our group will attend the Conference of Condensed Matter Physics. We welcome opportunities to connect and discuss science! [[link]](https://ccmp2026.ioply.cn/)
 
 * <span style="color: DodgerBlue">[06/2026]</span> Our group will attend the AI4X-AC Conference 2026. We welcome opportunities to connect and discuss science! [[link]](https://ai4x.cc/)
-
+ -->
 
 
 
