@@ -67,21 +67,29 @@ grad-xiaoyun:
     role: grad
     image: /img/people/XiaoyunYu.png
     degree: "MS from Hunan University (08/2026-)"
-    bio: Xiaoyun is an incoming PhD student working at the intersection of AI4S, molecular dynamics, and hardware-software co-design. She works on MLIPs, agentic AI workflows, and accelerator architectures, including FPGA and ASIC systems. Outside of work, you’ll usually find her with a good coffee, trying great food, heading outdoors, or dancing.
+    bio: Xiaoyun is a PhD student working at the intersection of AI4S, molecular dynamics, and hardware-software co-design. She works on MLIPs, agentic AI workflows, and accelerator architectures, including FPGA and ASIC systems. Outside of work, you’ll usually find her with a good coffee, trying great food, heading outdoors, or dancing.
     
 grad-zihui:
     display_name: "Zihui Li"
     role: grad
     image: /img/people/ZihuiLi.png
     degree: "MS from Tsinghua University (08/2026-)"
-    bio: Zihui is an incoming PhD student who is passionate about AI and materials science. Her research focuses on using machine learning to study energy materials and accelerate materials discovery. Outside of research, Zihui is a big fan of traveling and exploring different cities. She is also a huge K-pop enthusiast and loves keeping up with her favorite groups.
+    bio: Zihui is a PhD student who is passionate about AI and materials science. Her research focuses on using machine learning to study energy materials and accelerate materials discovery. Outside of research, Zihui is a big fan of traveling and exploring different cities. She is also a huge K-pop enthusiast and loves keeping up with her favorite groups.
 
 grad-Hyejeong:
     display_name: "Hyejeong Song"
     role: grad
     image: /img/people/HyejeongSong.png
     degree: "MS from Korea University (08/2026-)"
-    bio: Hyejeong is an incoming PhD student with a strong interest in AI for materials design and discovery. She has worked on atomistic simulations, machine learning, and multiscale materials modeling, focusing on the predictive design and understanding of electronic materials. Outside of research, she loves traveling and going to concerts and music festivals.
+    bio: Hyejeong is a PhD student with a strong interest in AI for materials design and discovery. She has worked on atomistic simulations, machine learning, and multiscale materials modeling, focusing on the predictive design and understanding of electronic materials. Outside of research, she loves traveling and going to concerts and music festivals.
+
+grad-Zixi:
+    display_name: "Zixi Xia"
+    role: grad
+    image: /img/people/ZixiXia.png
+    degree: "BS from USTC (08/2026-)"
+    bio: Zixi is a PhD student in physics with a keen enthusiasm for machine learning for materials discovery. His primary research interests include machine-learning interatomic potentials (MLIPs) and generative models. Outside of work, he enjoys listening to music.
+
 
 
 # grad-empty:
@@ -151,11 +159,11 @@ visit-fanke:
 
 
 alum-izumi:
-    display_name: "Izumi Takahara (Visiting PhD student from UTokyo, 2025)"
+    display_name: "Izumi Takahara (Visiting PhD student from UTokyo, 2025) <a href='https://www.linkedin.com/in/izumi-takahara-profile0/'>[LinkedIn]</a>"
     role: alum
 
 alum-bo:
-    display_name: "Bo Li (MS student from NUS MSE, 2025-2026)"
+    display_name: "Bo Li (MS student from NUS MSE, 2025-2026) <a href='https://www.linkedin.com/in/harrison-bo-li/'>[LinkedIn]</a>"
     role: alum
 
 

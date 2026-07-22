@@ -26,6 +26,7 @@ title:
 ---
 <!-- #### *Past*/ -->
 
+
 * <span style="color: Red">[04/2026]</span> We organized a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at the 2026 MRS Spring Meeting. We welcome opportunities to connect and discuss science!
 
 
