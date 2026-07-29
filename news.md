@@ -8,9 +8,6 @@ title:
 
 * <strong>A collection of our group moments is available here.</strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/FYZGdwkVSomRAvxRPyXlXPufgwg?from=from_copylink)
 
-* <strong>Rocking at coneferences - the summer of 2026 </strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1?from=from_copylink)
-
-
 
 <!-- 
 * <span style="color: DodgerBlue">[07/2026]</span> Our group will attend the 25th International Conference on Solid State Ionics. We welcome opportunities to connect and discuss science! [[link]](https://ssi-25.org/)
@@ -25,6 +22,9 @@ title:
 
 ---
 <!-- #### *Past*/ -->
+
+* <span style="color: Red">[07/2026]</span> <strong>Rocking at coneferences - the summer of 2026 </strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1?from=from_copylink)
+
 
 
 * <span style="color: Red">[04/2026]</span> We organized a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at the 2026 MRS Spring Meeting. We welcome opportunities to connect and discuss science!
