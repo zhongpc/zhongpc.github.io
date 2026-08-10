@@ -108,14 +108,6 @@ grad-Zixi:
 #     degree: "Research Engineer"
 
 
-visit-yubai:
-    display_name: "Yubai Shi"
-    role: visit
-    image: /img/people/YubaiShi.jpg
-    bio: Yubai is a PhD candidate at the University of Chinese Academy of Sciences (UCAS). He is interested in ferroelectrics and using ML-assisted molecular dynamics to investigate the microscopic processes and properties of materials. In his spare time, he is working toward his goal of becoming a bodybuilder. He is motivated by both novel research findings in the lab and the progress he sees in the gym!
-    degree: "Visiting PhD student from UCAS (2025-2026)"
-
-
 
 
 
@@ -167,7 +159,6 @@ alum-bo:
     role: alum
 
 
-
-# alum-b:
-#     display_name: "Alum A (Visiting PhD) -> XXX"
-#     role: alum
+alum-yubai:
+    display_name: "Yubai Shi (Visiting PhD student from UCAS, 2025-2026) <a href='https://www.linkedin.com/in/yubai-shi-47b350383/'>[LinkedIn]</a>"
+    role: alum

@@ -8,7 +8,9 @@ title: Openings
 
 We are currently <strong>"vibe hiring"</strong> for future team members 🚀
 
-We are moving beyond the standard checklist. There are no fixed requirements for specific technical skills, publication counts, or whether you fit neatly into a "PhD" or "postdoc" box. We value people beyond productivity metrics and career stage. You are welcome to get in touch if you share our group values:
+We are moving beyond the standard checklist. There are no fixed requirements for specific technical skills, publication counts, or whether you fit neatly into a "PhD" or "postdoc" box. 
+<!-- We value people beyond productivity metrics and career stage.  -->
+You are welcome to get in touch if you share our group values:
 
 
 <!-- You are welcome to get in touch if you agree with our group values: -->
@@ -41,8 +43,8 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 * BS or MS in physics, chemistry, applied mathematics, materials science, or a related field
 * TOEFL (new) ≥ 5.0 or IELTS ≥ 6.5. GPA ≥ 80%. GRE is optional but preferred. 
 * Please email your CV and a very short statement of research interests to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a>.
-* PhD positions in our group are well funded. We do not accept self-financed students (including CSC scholarships).
-* Research assistantships (RAs) provide financial support for PhD students. We do not offer standalone RA or predoc intern positions.
+* PhD positions in our group are well funded. We do not accept self-financed students.
+* Research assistantships (RAs) provide (bridge) financial support for PhD students. We do not offer standalone RA positions.
 * We encourage excellent candidates to apply for <a href="https://cde.nus.edu.sg/graduate/scholarship-opportunities/">PhD fellowships</a>:
     * ASEAN Scholarship <span style="color: lightgray">[please indicate; for students from ASEAN countries only]</span>
     * Commonwealth Scholarship <span style="color: lightgray">[please indicate; for students from Commonwealth countries only]</span>
@@ -90,7 +92,7 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 <strong>Visiting Scholars</strong>:
 * Please email <a href="mailto:am3grouphiring@gmail.com">Dr. Zhong</a> directly to discuss, and indicate the funding source for visits longer than six months.
 * Visiting PhD students with CSC scholarships are welcome. Students should obtain approval from their PhD advisors before applying.
-* Final Year Project (FYP) students at NUS are welcome. Please email Dr. Zhong directly to discuss.
+<!-- * Final Year Project (FYP) students at NUS are welcome. Please email Dr. Zhong directly to discuss. -->
 
 <!-- <strong>Undergraduate Students</strong>:
 * A strong background in CS/ML/AI.
