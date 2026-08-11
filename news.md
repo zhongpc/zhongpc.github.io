@@ -9,23 +9,14 @@ title:
 * <strong>A collection of our group moments is available here.</strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/FYZGdwkVSomRAvxRPyXlXPufgwg?from=from_copylink)
 
 
-<!-- * <span style="color: DodgerBlue">[12/2026]</span> Dr. Zhong will attend The 13th Singapore International Chemistry Conference (SICC‑13). We welcome opportunities to connect and discuss science! [[link]](https://sicc13.com/)
-
-
-* <span style="color: DodgerBlue">[11/2026]</span> Dr. Zhong will attend RSC Future Innovation Research Summit 2026: AI in Chemistry. We welcome opportunities to connect and discuss science! [[link]](https://www.rscfirst.org.cn/en/web/index/36624)
-
-* <span style="color: DodgerBlue">[11/2026]</span> Dr. Zhong will attend The 10th International Forum on Materials Genome Engineering. We welcome opportunities to connect and discuss science!
-
-
-* <span style="color: DodgerBlue">[09/2026]</span> Dr. Zhong will attend the 9th Asian Materials Data Symposium. We welcome opportunities to connect and discuss science! [[link]](https://www.amds2026.org/)
- -->
+<!-- * <span style="color: DodgerBlue">[12/2026]</span> Dr. Zhong will attend The 13th Singapore International Chemistry Conference (SICC‑13). We welcome opportunities to connect and discuss science! [[link]](https://sicc13.com/) -->
 
 <!-- #### *Past*/ -->
 
 * <span style="color: Red">[07/2026]</span> <strong>Rocking at coneferences - the summer of 2026 </strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1?from=from_copylink)
 
 
-* <span style="color: Red">[12/2025]</span> Xintian Wang won the Best Poster Award at the Conference on Condensed Matter Physics (CCMP 2026)! 🎉 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1#share-AimvdgVafoY7sAxpDeplkAohgAc)
+* <span style="color: Red">[06/2026]</span> Xintian Wang won the Best Poster Award at the Conference on Condensed Matter Physics (CCMP 2026)! 🎉 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1#share-AimvdgVafoY7sAxpDeplkAohgAc)
 
 
 * <span style="color: Red">[04/2026]</span> We successfully organized a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at the 2026 MRS Spring Meeting. 

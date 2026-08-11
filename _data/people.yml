@@ -149,16 +149,19 @@ visit-fanke:
 #     role: grad
 #     bio: 
 
-
-alum-izumi:
-    display_name: "Izumi Takahara (Visiting PhD student from UTokyo, 2025) <a href='https://www.linkedin.com/in/izumi-takahara-profile0/'>[LinkedIn]</a>"
+alum-yubai:
+    display_name: "Yubai Shi (Visiting PhD student from UCAS, 2025-2026) <a href='https://www.linkedin.com/in/yubai-shi-47b350383/'>[LinkedIn]</a>"
     role: alum
 
 alum-bo:
     display_name: "Bo Li (MS student from NUS MSE, 2025-2026) <a href='https://www.linkedin.com/in/harrison-bo-li/'>[LinkedIn]</a>"
     role: alum
 
-
-alum-yubai:
-    display_name: "Yubai Shi (Visiting PhD student from UCAS, 2025-2026) <a href='https://www.linkedin.com/in/yubai-shi-47b350383/'>[LinkedIn]</a>"
+alum-izumi:
+    display_name: "Izumi Takahara (Visiting PhD student from UTokyo, 2025) <a href='https://www.linkedin.com/in/izumi-takahara-profile0/'>[LinkedIn]</a>"
     role: alum
+
+
+
+
+
