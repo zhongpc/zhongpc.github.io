@@ -128,6 +128,16 @@ visit-fanke:
 
 
 
+visit-changquan:
+    display_name: "Changquan Zhao"
+    role: visit
+    image: /img/people/ChangquanZhao.jpeg
+    bio: Changquan is a PhD candidate working in AI for Science from Shanghai Jiaotong University Global College (SJTU GC). His research interests include Bayesian optimization and symbolic regression, with a particular focus on using machine learning to accelerate scientific discovery. Outside of research, he enjoys practicing Brazilian Jiu-Jitsu.
+    degree: "Visiting PhD student from SJTU GC (2026-)"
+
+
+
+
 
 # visit-z-empty:
 #     display_name: ""
