@@ -18,15 +18,31 @@ post-junmin:
     display_name: "Dr. Junmin Chen"
     role: postdoc
     image: /img/people/JunminChen.jpg
-    bio: Junmin is a postdoctoral research fellow specializing in computational chemistry. His research focuses on developing hybrid physics-based AI frameworks to enhance molecular dynamics simulations. He is particularly interested in applying these advanced models to investigate the complex physics of functional polymers and electrolytes. Beyond his research, Junmin enjoys badminton, table tennis, hiking, and photography. <a href='https://www.linkedin.com/in/junminchen/'>[LinkedIn]</a>
+    bio: Junmin is a postdoc research fellow specializing in computational chemistry. His research focuses on developing hybrid physics-based AI frameworks to enhance molecular dynamics simulations. He is particularly interested in applying these advanced models to investigate the complex physics of functional polymers and electrolytes. Beyond his research, Junmin enjoys badminton, table tennis, hiking, and photography. <a href='https://scholar.google.com/citations?user=92O61VYAAAAJ&hl=en'>[Google Scholar]</a>
     degree: "PhD in Materials Science, Tsinghua University"
     
 post-zihan:
     display_name: "Dr. Zihan Zhang"
     role: postdoc
     image: /img/people/ZihanZhang.png
-    bio: Zihan is a postdoctoral research fellow with a background in computational physics. His research interests include condensed matter physics and the design of materials using crystal structure search methods. He has worked on superconducting hydrides, 2D materials, and superhard materials. He has deep knowledge of superconductivity theory. He enjoys physics, Chinese classical literature, and animation. <a href='https://scholar.google.com/citations?user=TjySt5IAAAAJ&hl=en'>[Google Scholar]</a>
+    bio: Zihan is a postdoc research fellow with a background in computational physics. His research interests include condensed matter physics and the design of materials using crystal structure search methods. He has worked on superconducting hydrides, 2D materials, and superhard materials. He has deep knowledge of superconductivity theory. He enjoys physics, Chinese classical literature, and animation. <a href='https://scholar.google.com/citations?user=TjySt5IAAAAJ&hl=en'>[Google Scholar]</a>
     degree: "PhD in Physics, Jilin University"
+
+
+post-henry:
+    display_name: "Dr. Hengye Xiang"
+    role: postdoc
+    image: /img/people/HengyeXiang.png
+    bio: Hengye is a postdoc research fellow with a background in computational chemistry. His research interests include organic and bioorganic reaction mechanisms, reaction selectivity, and molecular modeling. He has worked on transition-metal catalysis, enzyme catalysis, solvent effects, and reaction dynamics using quantum chemical calculations, molecular dynamics simulations, and machine learning. Beyond research, he enjoys music, watching TV dramas, and playing anime-style games.
+    degree: "PhD in Chemistry, University of Pittsburgh"
+
+
+post-jiewei:
+    display_name: "Dr. Jiewei Cheng"
+    role: postdoc
+    image: /img/people/JieweiCheng.jpg
+    bio: Jiewei is a postdoc research fellow with a background in computational materials science. His research interests include designing and understanding novel energy materials, machine learning, and condensed matter physics. He has worked on hydrogen-storage materials, battery cathodes, and non-Hermitian physics. He is particularly interested in exploring unconventional mechanisms and the underlying physics of materials. He enjoys basketball, outdoor activities, fine food, and trying something new. <a href='https://scholar.google.com/citations?user=Gfa-RxgAAAAJ&hl=en'>[Google Scholar]</a> 
+    degree: "PhD in Materials Physics & Chemistry, Peking University"
 
 
 post-tim:
@@ -35,6 +51,7 @@ post-tim:
     image: /img/people/TimPook.webp
     bio: Tim is currently a research engineer in the MSE Department, where he manages and maintains the HPC cluster and other computational resources. He enjoys martial arts and currently trains in Jiu-Jitsu and Judo.
     degree: "Research Engineer at NUS"
+
 
 
 # post-empty:
@@ -63,7 +80,7 @@ grad-xintian:
 
 
 grad-xiaoyun:
-    display_name: "Xiaoyun Yu"
+    display_name: "Xiaoyun Yu (Sheraine)"
     role: grad
     image: /img/people/XiaoyunYu.png
     degree: "MS from Hunan University (08/2026-)"
