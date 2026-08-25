@@ -33,16 +33,18 @@ layout: default
 <div class="content-container">
     <img src='/img/PZ_summary.png' class="responsive-image" alt="PZ summary">
     <p class="aligned-paragraph">
-        Materials modeling with atomistic simulations offers a powerful alternative to conventional trial-and-error methods by providing atomic-level insights for mechanistic understanding and accelerated materials discovery. A central objective is to predict material properties at finite temperatures, which requires computationally efficient statistical-mechanics approaches that retain ab initio accuracy.
-        <br><br>
-        Our research focuses on developing computational frameworks that connect <span style="text-decoration: underline">first-principles descriptions of crystalline and molecular microstates with their macroscopic thermodynamic and kinetic properties.</span>
-        By bridging length scales, time scales, and physical phenomena, these frameworks accelerate materials discovery while deepening our fundamental understanding of materials chemistry for technological development.
+        <!-- Materials modeling with atomistic simulations offers a powerful alternative to conventional trial-and-error methods by providing atomic-level insights for mechanistic understanding and accelerated materials discovery. A central objective is to predict material properties at finite temperatures, which requires computationally efficient statistical-mechanics approaches that retain ab initio accuracy.
+        <br><br> -->
+        Our research focuses on developing computational and AI frameworks that connect first-principles descriptions of crystalline and molecular microstates with their macroscopic thermodynamic and kinetic properties.
+        By bridging length scales, time scales, and experimental phenomena, these frameworks accelerate materials discovery while deepening our fundamental understanding of materials chemistry for technological development.
         <br><br>
         Currently, we are particularly interested in:
         <ul style="list-style-type: disc; padding-left: 40px;">
             <li>Computational modeling of complex materials under realistic experimental conditions.</li>
             <li>Atomistic simulations that integrate statistical mechanics with first-principles calculations.</li>
             <li>Method development in AI for science: simulations for large and open systems, generative dynamics, and experimental alignment.</li>
+            <li>Building scientific agents as discovery loops via physics-grounded simulations.</li>
+
         </ul>
         </p>
 </div>
