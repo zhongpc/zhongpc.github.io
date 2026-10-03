@@ -40,11 +40,10 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 
 <!-- <span style="text-decoration: underline">We are actively looking for PhD students</span>.  -->
 <strong>We are actively looking for PhD students. Openings are available for both Fall and Spring intakes.</strong>
-* Please email your CV to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a> with a very short statement of research interests in the email.
+* Please email your CV to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a> with a very short statement of research interests.
 * BS or MS in physics, chemistry, applied mathematics, materials science, or a related field
 * TOEFL (new) ≥ 5.0 or IELTS ≥ 7.0. GPA ≥ 80%. GRE is optional but preferred. 
 * PhD positions in our group are well funded. We do not accept self-financed students.
-* Research assistantships (RAs) provide (bridge) financial support for PhD students. We do not offer standalone RA positions.
 * We encourage excellent candidates to apply for <a href="https://cde.nus.edu.sg/graduate/scholarship-opportunities/">PhD fellowships</a>:
     * ASEAN Scholarship <span style="color: lightgray">[please indicate; for students from ASEAN countries only]</span>
     * Commonwealth Scholarship <span style="color: lightgray">[please indicate; for students from Commonwealth countries only]</span>
@@ -53,6 +52,7 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
 * <strong>PGF</strong> nominations can be submitted for any intake. Successful applicants often have PhD offers from top-20 U.S. institutions (or equivalent programs). If you hold a competing offer and want to pursue a different path at NUS, feel free to get in touch.
 * Our research is highly interdisciplinary. If you have a strong academic record, please consider the <a href="https://isep.nus.edu.sg/">ISEP</a> PhD program at NUS. (You can apply to both the ISEP and MSE PhD programs). Please send me your CV and a research proposal abstract (under 200 words), highlighting how you would combine science and engineering, or theory and experiment.
+* Research Assistants (RAs) may be provided as (bridge) financial support for incoming PhD students. We do not offer standalone RA positions.
 
 
 <strong>Who we are and what we offer</strong>:
