@@ -52,7 +52,7 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
     * President's Graduate Fellowship (<strong>PGF</strong>)  <span style="color: lightgray">[by nomination]</span>
 * <strong>PGF</strong> nominations can be submitted for any intake. Successful applicants often have PhD offers from top-20 U.S. institutions (or equivalent programs). If you hold a competing offer and want to pursue a different path at NUS, feel free to get in touch.
 * Our research is highly interdisciplinary. If you have a strong academic record, please consider the <a href="https://isep.nus.edu.sg/">ISEP</a> PhD program at NUS. (You can apply to both the ISEP and MSE PhD programs). Please send me your CV and a research proposal abstract (under 200 words), highlighting how you would combine science and engineering, or theory and experiment.
-* Research Assistants (RAs) may be provided as (bridge) financial support for incoming PhD students. We do not offer standalone RA positions.
+* The Research Assistant (RA) is used as (bridge) financial support for (incoming) PhD students. We do not offer standalone RA positions.
 
 
 <strong>Who we are and what we offer</strong>:

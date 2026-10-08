@@ -24,7 +24,7 @@ post-junmin:
 post-zihan:
     display_name: "Dr. Zihan Zhang"
     role: postdoc
-    image: /img/people/ZihanZhang.png
+    image: /img/people/ZihanZhang.jpg
     bio: Zihan is a postdoc research fellow with a background in computational physics. His research interests include condensed matter physics and the design of materials using crystal structure search methods. He has worked on superconducting hydrides, 2D materials, and superhard materials. He has deep knowledge of superconductivity theory. He enjoys physics, Chinese classical literature, and animation. <a href='https://scholar.google.com/citations?user=TjySt5IAAAAJ&hl=en'>[Google Scholar]</a>
     degree: "PhD in Physics, Jilin University"
 
@@ -32,7 +32,7 @@ post-zihan:
 post-henry:
     display_name: "Dr. Hengye Xiang"
     role: postdoc
-    image: /img/people/HengyeXiang.png
+    image: /img/people/HengyeXiang.jpg
     bio: Hengye is a postdoc research fellow with a background in computational chemistry. His research interests include organic and bioorganic reaction mechanisms, reaction selectivity, and molecular modeling. He has worked on transition-metal catalysis, enzyme catalysis, solvent effects, and reaction dynamics using quantum chemical calculations, molecular dynamics simulations, and machine learning. Beyond research, he enjoys music, watching TV dramas, and playing anime-style games.
     degree: "PhD in Chemistry, University of Pittsburgh"
 
@@ -44,6 +44,13 @@ post-jiewei:
     bio: Jiewei is a postdoc research fellow with a background in computational materials science. His research interests include designing and understanding novel energy materials, machine learning, and condensed matter physics. He has worked on hydrogen-storage materials, battery cathodes, and non-Hermitian physics. He is particularly interested in exploring unconventional mechanisms and the underlying physics of materials. He enjoys basketball, outdoor activities, fine food, and trying something new. <a href='https://scholar.google.com/citations?user=Gfa-RxgAAAAJ&hl=en'>[Google Scholar]</a> 
     degree: "PhD in Materials Physics & Chemistry, Peking University"
 
+
+post-wenrui:
+    display_name: "Dr. Wenrui Ma"
+    role: postdoc
+    image: /img/people/WenruiMa.jpg
+    bio: Wenrui is a postdoctoral research fellow with a background in computational catalysis. His work has focused on the rational design of heterogeneous catalysts using density functional theory (DFT) and microkinetic modeling. His current research interests include surface science, modeling the kinetic evolution of material surfaces, and developing more efficient algorithms for constructing machine-learning interatomic potentials (MLIPs). Outside of research, he enjoys reading, hiking, physics, and working out. <a href='https://scholar.google.com/citations?user=2vqgn-sAAAAJ&hl=en'>[Google Scholar]</a> 
+    degree: "PhD in Chemical Engineering, NUS"
 
 post-tim:
     display_name: "Timothy D. Pook"
@@ -65,7 +72,7 @@ post-tim:
 grad-yichen:
     display_name: "Yicheng Chen"
     role: grad
-    image: /img/people/YichengChen.png
+    image: /img/people/YichengChen.jpg
     degree: "BS/MS from Fudan University (08/2025-)"
     bio: Yicheng is a PhD student with a background in quantum chemistry and machine learning. He previously worked on using graph neural networks to predict molecular and materials properties and was a research intern at Microsoft AI4Science. He is now exploring how ML can be used in electrochemical and energy storage systems. Outside of research, he enjoys playing video games, especially RPGs.
     
@@ -82,28 +89,28 @@ grad-xintian:
 grad-xiaoyun:
     display_name: "Xiaoyun Yu (Sheraine)"
     role: grad
-    image: /img/people/XiaoyunYu.png
+    image: /img/people/XiaoyunYu.jpg
     degree: "MS from Hunan University (08/2026-)"
     bio: Xiaoyun is a PhD student working at the intersection of AI4S, molecular dynamics, and hardware-software co-design. She works on MLIPs, agentic AI workflows, and accelerator architectures, including FPGA and ASIC systems. Outside of work, you’ll usually find her with a good coffee, trying great food, heading outdoors, or dancing.
     
 grad-zihui:
     display_name: "Zihui Li"
     role: grad
-    image: /img/people/ZihuiLi.png
+    image: /img/people/ZihuiLi.jpg
     degree: "MS from Tsinghua University (08/2026-)"
     bio: Zihui is a PhD student who is passionate about AI and materials science. Her research focuses on using machine learning to study energy materials and accelerate materials discovery. Outside of research, Zihui is a big fan of traveling and exploring different cities. She is also a huge K-pop enthusiast and loves keeping up with her favorite groups.
 
 grad-Hyejeong:
     display_name: "Hyejeong Song"
     role: grad
-    image: /img/people/HyejeongSong.png
+    image: /img/people/HyejeongSong.jpg
     degree: "MS from Korea University (08/2026-)"
     bio: Hyejeong is a PhD student with a strong interest in AI for materials design and discovery. She has worked on atomistic simulations, machine learning, and multiscale materials modeling, focusing on the predictive design and understanding of electronic materials. Outside of research, she loves traveling and going to concerts and music festivals.
 
 grad-Zixi:
     display_name: "Zixi Xia"
     role: grad
-    image: /img/people/ZixiXia.png
+    image: /img/people/ZixiXia.jpg
     degree: "BS from USTC (08/2026-)"
     bio: Zixi is a PhD student in physics with a keen enthusiasm for machine learning for materials discovery. His primary research interests include machine-learning interatomic potentials (MLIPs) and generative models. Outside of work, he enjoys listening to music. Zixi is a PGF awardee.
 
@@ -139,7 +146,7 @@ visit-mengyi:
 visit-fanke:
     display_name: "Fanke Zhou"
     role: visit
-    image: /img/people/FankeZhou.png
+    image: /img/people/FankeZhou.jpg
     bio: Fanke is an undergraduate student at the University of Science and Technology of China (USTC). His past research focused on neural-network quantum states (NNQS) in ab initio quantum chemistry using a second-quantized framework. His current interests lie in machine-learning interatomic potentials (MLIPs). Outside of research, he enjoys playing football and watching films.
     degree: "Undergraduate summer intern (IRIS@NUS)"
 
