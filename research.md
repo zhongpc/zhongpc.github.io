@@ -43,7 +43,7 @@ layout: default
             <li>Computational modeling of complex materials under realistic experimental conditions.</li>
             <li>Atomistic simulations that integrate statistical mechanics with first-principles calculations.</li>
             <li>Method development in AI for science: simulations for large and open systems, generative dynamics, and experimental alignment.</li>
-            <li>Building scientific agents as discovery loops via physics-grounded simulations.</li>
+            <li>Building scientific agents as discovery loops with physics-grounded simulations.</li>
 
         </ul>
         </p>

@@ -30,16 +30,21 @@ layout: default
 }
 </style>
 
+
+
 <div class="content-container">
     <p class="aligned-paragraph">
         Welcome to the <strong>A</strong>pplied <strong>M</strong>achine Learning and <strong>M</strong>aterials <strong>M</strong>odeling (<strong>AM3</strong>) Group! 😀
         <br><br>
         We are a theoretical and computational research group in the <a href="https://cde.nus.edu.sg/mse/">Department of Materials Science and Engineering</a> at the <a href="https://www.nus.edu.sg/">National University of Singapore</a>.
-        Our research uses first-principles calculations, statistical mechanics, and machine learning to understand materials physics/chemistry and address scientific challenges in technological applications.
+        Our research uses first-principles calculations, statistical mechanics, and machine learning to understand materials physics & chemistry and address scientific challenges in advanced technological applications.
         <br><br>
-        The AM3 Group was founded in July 2025. We are looking for PhD students and research scholars to join the team. Please see our <a href="/opening.html">openings</a> page!
+        The AM3 Group was founded in July 2025. We are looking for PhD students and research scholars to join the team (see <a href="/opening.html">openings</a>). Let's build something great! 🚀
     </p>
     <br>
     <img src='/img/nus.png' class="responsive-image" alt="NUS">
     <br>
 </div>
+
+
+
