@@ -6,20 +6,20 @@ title:
 
 * <strong>A collection of our group moments is available here.</strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/FYZGdwkVSomRAvxRPyXlXPufgwg?from=from_copylink)
 
-* <span style="color: Red">[09/2026]</span> Xintian Wang won the Outstanding Oral Presentation at the NUS-MSE MatterX Congress 2026! 🎉 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/GLzadTtIgotCaJxy40JlDnSugXd?from=from_copylink) 
+* <span style="color: Red">[09/2026]</span> 🎉 Xintian Wang won the Outstanding Oral Presentation at the NUS-MSE MatterX Congress 2026! 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/GLzadTtIgotCaJxy40JlDnSugXd?from=from_copylink) 
 
 
 
 * <span style="color: Red">[07/2026]</span> <strong>Rocking at coneferences - the summer of 2026 </strong> 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1?from=from_copylink)
 
 
-* <span style="color: Red">[06/2026]</span> Xintian Wang won the Best Poster Award at the Conference on Condensed Matter Physics (CCMP 2026)! 🎉 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1#share-AimvdgVafoY7sAxpDeplkAohgAc)
+* <span style="color: Red">[06/2026]</span> 🎉 Xintian Wang won the Best Poster Award at the Conference on Condensed Matter Physics (CCMP 2026)! 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/A10CdWv8aooUwsxP7uqlbz4agW1#share-AimvdgVafoY7sAxpDeplkAohgAc)
 
 
 * <span style="color: Red">[04/2026]</span> We successfully organized a symposium on "Atomistic and Generative Modeling for Materials Chemistry and Closed-Loop Design" at the 2026 MRS Spring Meeting. 
 
 
-* <span style="color: Red">[12/2025]</span> Yicheng Chen won the Best Poster Award at the NUS MSE MatterX Annual Congress! 🎉 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/EUT9dsCGLogy6vxuASlljm2qgbd?from=from_copylink) 
+* <span style="color: Red">[12/2025]</span> 🎉 Yicheng Chen won the Best Poster Award at the NUS-MSE MatterX Annual Congress 2025! 👉 [[Read more]](https://r233fvaoe38.sg.larksuite.com/docx/EUT9dsCGLogy6vxuASlljm2qgbd?from=from_copylink) 
 
 
 * <span style="color: Red">[11/2025]</span> Dr. Zhong was awarded the AI2050 Early Career Fellowship by Schmidt Sciences. [[Schmidt Sciences News]](https://www.schmidtsciences.org/2025-ai2050-fellows-announcement/) [[NUS News]](https://cde.nus.edu.sg/news-detail/asst-prof-zhong-peichen-named-ai2050-early-career-fellow/) [[BIDMaP News]](https://bidmap.berkeley.edu/news/fellow-alum-peichen-zhong-named-2025-ai2050-early-career-fellow)
