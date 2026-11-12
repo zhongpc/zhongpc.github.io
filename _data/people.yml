@@ -42,7 +42,7 @@ post-jiewei:
     role: postdoc
     image: /img/people/JieweiCheng.jpg
     bio: Jiewei is a postdoc research fellow with a background in computational materials science. His research interests include designing and understanding novel energy materials, machine learning, and condensed matter physics. He has worked on hydrogen-storage materials, battery cathodes, and non-Hermitian physics. He is particularly interested in exploring unconventional mechanisms and the underlying physics of materials. He enjoys basketball, outdoor activities, fine food, and trying something new. <a href='https://scholar.google.com/citations?user=Gfa-RxgAAAAJ&hl=en'>[Google Scholar]</a> 
-    degree: "PhD in Materials Physics & Chemistry, Peking University"
+    degree: "PhD in Materials Physics/Chemistry, Peking University"
 
 
 post-wenrui:
@@ -115,6 +115,15 @@ grad-Zixi:
     bio: Zixi is a PhD student in physics with a keen enthusiasm for machine learning for materials discovery. His primary research interests include machine-learning interatomic potentials (MLIPs) and generative models. Outside of work, he enjoys listening to music. Zixi is a PGF awardee.
 
 
+grad-Xinhao:
+    display_name: "Xinhao Yang"
+    role: grad
+    image: /img/people/XinhaoYang.jpg
+    degree: "BS from Peking University (01/2027-)"
+    bio: Xinhao is a PhD student working on theory-experiment alignment (co-advised with <a href='https://cde.nus.edu.sg/mse/staff/he-qian/'>Prof. Qian He</a>). His research experience spans scanning probe microscopy and angle-resolved photoemission spectroscopy. His current research topic focuses on exploring how AI agents can combine electron microscopy data with physics-based simulations to evaluate candidate atomic structures. Outside the lab, Xinhao enjoys strategy games and board games, especially chess and other abstract strategy games, as well as hiking, badminton and table tennis.
+
+
+
 
 # grad-empty:
 #     display_name: ""
@@ -143,15 +152,6 @@ visit-mengyi:
     degree: "Visiting PhD student from NUS Math (2026-)"
 
 
-visit-fanke:
-    display_name: "Fanke Zhou"
-    role: visit
-    image: /img/people/FankeZhou.jpg
-    bio: Fanke is an undergraduate student at the University of Science and Technology of China (USTC). His past research focused on neural-network quantum states (NNQS) in ab initio quantum chemistry using a second-quantized framework. His current interests lie in machine-learning interatomic potentials (MLIPs). Outside of research, he enjoys playing football and watching films.
-    degree: "Undergraduate summer intern (IRIS@NUS)"
-
-
-
 visit-changquan:
     display_name: "Changquan Zhao"
     role: visit
@@ -159,6 +159,13 @@ visit-changquan:
     bio: Changquan is a PhD candidate working in AI for Science from Shanghai Jiaotong University Global College (SJTU GC). His research interests include Bayesian optimization and symbolic regression, with a particular focus on using machine learning to accelerate scientific discovery. Outside of research, he enjoys practicing Brazilian Jiu-Jitsu.
     degree: "Visiting PhD student from SJTU GC (2026-)"
 
+
+# visit-fanke:
+#     display_name: "Fanke Zhou"
+#     role: visit
+#     image: /img/people/FankeZhou.jpg
+#     bio: Fanke is an undergraduate student at the University of Science and Technology of China (USTC). His past research focused on neural-network quantum states (NNQS) in ab initio quantum chemistry using a second-quantized framework. His current interests lie in machine-learning interatomic potentials (MLIPs). Outside of research, he enjoys playing football and watching films.
+#     degree: "Undergraduate summer intern (IRIS@NUS)"
 
 
 
@@ -182,6 +189,11 @@ visit-changquan:
 #     display_name: ""
 #     role: grad
 #     bio: 
+
+
+alum-fanke:
+    display_name: "Fanke Zhou (IRIS@NUS undergrad intern from USTC, 2026)"
+    role: alum
 
 alum-yubai:
     display_name: "Yubai Shi (Visiting PhD student from UCAS, 2025-2026) <a href='https://www.linkedin.com/in/yubai-shi-47b350383/'>[LinkedIn]</a>"

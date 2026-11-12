@@ -42,7 +42,7 @@ The presentation from Prof. Silvija Gradecak is particularly inspiring. If you h
 <strong>We are actively looking for PhD students. Openings are available for both Fall and Spring intakes.</strong>
 * Please email your CV to <a href="mailto:am3grouphiring@gmail.com">am3grouphiring@gmail.com</a> with a very short statement of research interests.
 * BS or MS in physics, chemistry, applied mathematics, materials science, or a related field
-* TOEFL (new) ≥ 5.0 or IELTS ≥ 7.0. GPA ≥ 80%. GRE is optional but preferred. 
+* TOEFL (new) ≥ 5.0 or IELTS ≥ 7.0. GPA ≥ 80% (or first-class honor). GRE is optional but preferred. 
 * PhD positions in our group are well funded. We do not accept self-financed students.
 * We encourage excellent candidates to apply for <a href="https://cde.nus.edu.sg/graduate/scholarship-opportunities/">PhD fellowships</a>:
     * ASEAN Scholarship <span style="color: lightgray">[please indicate; for students from ASEAN countries only]</span>
